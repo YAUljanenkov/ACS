@@ -1,0 +1,1689 @@
+Container contains 843 elements.
+0: It's a complex number: -1625902259 + 1890524560*i. It's distance: 2493519855.101318
+1: It's a complex number: -1073639204 + 907169236*i. It's distance: 1405580720.951514
+2: It's a polar number: r=228648981, phi=1209044728. It's distance: 1209044728.000000
+3: It's a fraction: 1636344268/-726393155. It's decimal value: -2.252698
+4: It's a polar number: r=-1004231371, phi=-628763748. It's distance: -628763748.000000
+5: It's a complex number: 1570675918 + 798827949*i. It's distance: 1762143277.798003
+6: It's a fraction: -22259333/1834515582. It's decimal value: -0.012134
+7: It's a fraction: -338717143/-2121572810. It's decimal value: 0.159654
+8: It's a complex number: -952823199 + 1327853121*i. It's distance: 1634339609.598334
+9: It's a complex number: -1559670914 + 939519647*i. It's distance: 1820788435.562078
+10: It's a complex number: -279727112 + -283638907*i. It's distance: 398369535.421592
+11: It's a complex number: -1335530967 + 1107171899*i. It's distance: 1734783150.065512
+12: It's a complex number: -1101987312 + 541952221*i. It's distance: 1228042444.566074
+13: It's a complex number: -380797734 + -497092769*i. It's distance: 626185384.061000
+14: It's a fraction: 977484914/1574722608. It's decimal value: 0.620735
+15: It's a complex number: 955596061 + 885625527*i. It's distance: 1302880042.779359
+16: It's a complex number: -74606883 + 1574669973*i. It's distance: 1576436396.071467
+17: It's a complex number: -429576260 + -1344763051*i. It's distance: 1411709398.739846
+18: It's a polar number: r=801376096, phi=-563192402. It's distance: -563192402.000000
+19: It's a polar number: r=-1998960868, phi=-1283477891. It's distance: -1283477891.000000
+20: It's a fraction: 344512609/-609636808. It's decimal value: -0.565111
+21: It's a fraction: -418349715/1372003845. It's decimal value: -0.304919
+22: It's a fraction: 1104313642/1373141059. It's decimal value: 0.804224
+23: It's a polar number: r=54009114, phi=-1827805155. It's distance: -1827805155.000000
+24: It's a complex number: -855055784 + 45164372*i. It's distance: 856247752.843772
+25: It's a fraction: 1891805979/-1720037739. It's decimal value: -1.099863
+26: It's a complex number: -86238585 + -1500641874*i. It's distance: 1503117802.284649
+27: It's a fraction: -408012023/-1069942511. It's decimal value: 0.381340
+28: It's a complex number: -1657552887 + -1124859926*i. It's distance: 2003195304.088635
+29: It's a complex number: -23666529 + 82133001*i. It's distance: 85474759.129078
+30: It's a fraction: 4275629/-448022297. It's decimal value: -0.009543
+31: It's a fraction: 551533848/1872815074. It's decimal value: 0.294495
+32: It's a complex number: -1327158440 + 1168167746*i. It's distance: 1768039990.401222
+33: It's a complex number: -92828152 + 1510364621*i. It's distance: 1513214576.381092
+34: It's a complex number: 977127541 + 1908533744*i. It's distance: 2144126694.803123
+35: It's a fraction: -54680462/-2089134456. It's decimal value: 0.026174
+36: It's a polar number: r=-1009989727, phi=-612176125. It's distance: -612176125.000000
+37: It's a complex number: 1353805656 + 1815007494*i. It's distance: 2264297232.585367
+38: It's a complex number: -1414727143 + -27467690*i. It's distance: 1414993767.878459
+39: It's a complex number: -1106923788 + 1007516607*i. It's distance: 1496786553.193561
+40: It's a fraction: 1323699823/2106659895. It's decimal value: 0.628341
+41: It's a complex number: 2090059961 + -828862179*i. It's distance: 2248413474.508626
+42: It's a complex number: 463690463 + 695191175*i. It's distance: 835643234.445798
+43: It's a complex number: -2142630398 + 244557947*i. It's distance: 2156542049.642087
+44: It's a complex number: -1382090885 + 240058678*i. It's distance: 1402784154.203059
+45: It's a fraction: 7727505/599265315. It's decimal value: 0.012895
+46: It's a complex number: -927860111 + 937315102*i. It's distance: 1318894986.730256
+47: It's a polar number: r=1733887932, phi=1258816007. It's distance: 1258816007.000000
+48: It's a complex number: 481539522 + 1702007941*i. It's distance: 1768816367.652405
+49: It's a fraction: -543343389/-2133226330. It's decimal value: 0.254705
+50: It's a complex number: -1213696222 + 2027984981*i. It's distance: 2363425819.114838
+51: It's a fraction: 1965712368/139645045. It's decimal value: 14.076492
+52: It's a polar number: r=33000210, phi=146223171. It's distance: 146223171.000000
+53: It's a fraction: -508420915/1520805638. It's decimal value: -0.334310
+54: It's a complex number: 852245619 + 1372145765*i. It's distance: 1615272916.727117
+55: It's a fraction: 1211485907/1984513009. It's decimal value: 0.610470
+56: It's a fraction: -945750365/-1552384037. It's decimal value: 0.609224
+57: It's a complex number: 1501035160 + -1642570540*i. It's distance: 2225116745.348908
+58: It's a polar number: r=1937986832, phi=513463982. It's distance: 513463982.000000
+59: It's a complex number: -2006024057 + -65378237*i. It's distance: 2007089143.794059
+60: It's a polar number: r=1949570321, phi=-1750670064. It's distance: -1750670064.000000
+61: It's a complex number: -1670855791 + 1584766256*i. It's distance: 2302877148.367774
+62: It's a polar number: r=-598792872, phi=1066647185. It's distance: 1066647185.000000
+63: It's a polar number: r=616360828, phi=1083979181. It's distance: 1083979181.000000
+64: It's a fraction: -978280360/-1408360734. It's decimal value: 0.694623
+65: It's a fraction: 1776530711/1539476974. It's decimal value: 1.153983
+66: It's a complex number: -1649367682 + -1418938865*i. It's distance: 2175730050.588432
+67: It's a polar number: r=505681920, phi=699958861. It's distance: 699958861.000000
+68: It's a fraction: 1606090002/1189094875. It's decimal value: 1.350683
+69: It's a fraction: 1462698928/1733432711. It's decimal value: 0.843816
+70: It's a complex number: 2038936403 + -1585042291*i. It's distance: 2582560884.032960
+71: It's a fraction: -204956945/436125265. It's decimal value: -0.469950
+72: It's a fraction: -1007449181/-1914693229. It's decimal value: 0.526167
+73: It's a fraction: 123631174/-519690954. It's decimal value: -0.237894
+74: It's a polar number: r=2079984075, phi=1934145543. It's distance: 1934145543.000000
+75: It's a complex number: 1858908573 + -143105573*i. It's distance: 1864408830.647547
+76: It's a fraction: 514461889/2040205171. It's decimal value: 0.252162
+77: It's a fraction: -1923957554/1440731970. It's decimal value: -1.335403
+78: It's a complex number: 133892533 + -145178633*i. It's distance: 197494419.852574
+79: It's a fraction: -1727397543/-1554493205. It's decimal value: 1.111229
+80: It's a fraction: -892582185/1318581230. It's decimal value: -0.676926
+81: It's a complex number: -1741837951 + -539628781*i. It's distance: 1823512727.903873
+82: It's a polar number: r=184518138, phi=1769915794. It's distance: 1769915794.000000
+83: It's a complex number: 548863879 + 1042994493*i. It's distance: 1178596228.612350
+84: It's a complex number: -910006921 + -572623884*i. It's distance: 1075179384.472724
+85: It's a polar number: r=91329577, phi=-1192409549. It's distance: -1192409549.000000
+86: It's a polar number: r=718870665, phi=177538698. It's distance: 177538698.000000
+87: It's a fraction: 1158391929/-280504710. It's decimal value: -4.129670
+88: It's a fraction: 2042259018/1031191092. It's decimal value: 1.980486
+89: It's a complex number: -406267439 + -432440402*i. It's distance: 593344700.215263
+90: It's a fraction: 996180966/469750529. It's decimal value: 2.120660
+91: It's a polar number: r=-280057102, phi=-1941977359. It's distance: -1941977359.000000
+92: It's a complex number: 136730642 + 1421770965*i. It's distance: 1428330474.847738
+93: It's a fraction: -1470224343/66367840. It's decimal value: -22.152662
+94: It's a polar number: r=-1289977068, phi=1327695459. It's distance: 1327695459.000000
+95: It's a fraction: -782381794/-564736111. It's decimal value: 1.385394
+96: It's a fraction: -1695093974/1638068297. It's decimal value: -1.034813
+97: It's a fraction: 696457425/1207873106. It's decimal value: 0.576598
+98: It's a polar number: r=199232562, phi=589998129. It's distance: 589998129.000000
+99: It's a polar number: r=761443536, phi=-679453075. It's distance: -679453075.000000
+100: It's a complex number: -1736806549 + -160412935*i. It's distance: 1744198755.407366
+101: It's a fraction: -714362793/370952101. It's decimal value: -1.925755
+102: It's a polar number: r=-254641808, phi=-630061244. It's distance: -630061244.000000
+103: It's a fraction: -571453591/-1995753412. It's decimal value: 0.286335
+104: It's a fraction: -788059930/-629291694. It's decimal value: 1.252297
+105: It's a complex number: 444029342 + -564803468*i. It's distance: 718446249.918378
+106: It's a fraction: -566053239/-1777002834. It's decimal value: 0.318544
+107: It's a fraction: -2119281233/224748068. It's decimal value: -9.429586
+108: It's a complex number: -616317410 + 1894202078*i. It's distance: 1991945948.606193
+109: It's a polar number: r=-1859304189, phi=1235544257. It's distance: 1235544257.000000
+110: It's a complex number: -163503360 + 807046492*i. It's distance: 823442401.738455
+111: It's a fraction: -1913989487/1487447001. It's decimal value: -1.286761
+112: It's a polar number: r=1335097875, phi=1628601936. It's distance: 1628601936.000000
+113: It's a fraction: 1394256500/841989842. It's decimal value: 1.655907
+114: It's a complex number: 1052750038 + -1610496166*i. It's distance: 1924053154.985512
+115: It's a polar number: r=304453196, phi=20468254. It's distance: 20468254.000000
+116: It's a polar number: r=501598660, phi=1749311006. It's distance: 1749311006.000000
+117: It's a polar number: r=-759258505, phi=-552107500. It's distance: -552107500.000000
+118: It's a fraction: 524959078/1530175898. It's decimal value: 0.343071
+119: It's a polar number: r=476715889, phi=1278232886. It's distance: 1278232886.000000
+120: It's a complex number: -63251638 + -150320584*i. It's distance: 163086013.145776
+121: It's a polar number: r=-302885638, phi=-17880754. It's distance: -17880754.000000
+122: It's a polar number: r=1208414572, phi=-1130782375. It's distance: -1130782375.000000
+123: It's a polar number: r=99354123, phi=143300533. It's distance: 143300533.000000
+124: It's a polar number: r=1930383843, phi=-1644352813. It's distance: -1644352813.000000
+125: It's a fraction: 1466744282/910966525. It's decimal value: 1.610097
+126: It's a polar number: r=-843326210, phi=-1113399196. It's distance: -1113399196.000000
+127: It's a polar number: r=1669430492, phi=941378712. It's distance: 941378712.000000
+128: It's a fraction: -797592391/-1276372748. It's decimal value: 0.624890
+129: It's a complex number: 1238687335 + 462931671*i. It's distance: 1322366078.627342
+130: It's a fraction: 866138545/-205535238. It's decimal value: -4.214064
+131: It's a polar number: r=-734458403, phi=-1026149999. It's distance: -1026149999.000000
+132: It's a complex number: 1225139716 + 57464823*i. It's distance: 1226486660.996760
+133: It's a polar number: r=238959268, phi=2131386089. It's distance: 2131386089.000000
+134: It's a complex number: 1476896539 + -379901384*i. It's distance: 1524974900.932895
+135: It's a fraction: -1082715977/797710547. It's decimal value: -1.357279
+136: It's a polar number: r=131050442, phi=557487228. It's distance: 557487228.000000
+137: It's a fraction: -249496569/662572973. It's decimal value: -0.376557
+138: It's a fraction: 1822835088/465474199. It's decimal value: 3.916082
+139: It's a polar number: r=1624017792, phi=188323814. It's distance: 188323814.000000
+140: It's a complex number: -437971993 + 2140920361*i. It's distance: 2185259586.135424
+141: It's a fraction: -1607306923/1422318537. It's decimal value: -1.130061
+142: It's a fraction: 1766003247/-2068256247. It's decimal value: -0.853861
+143: It's a polar number: r=-969289618, phi=-1248884642. It's distance: -1248884642.000000
+144: It's a fraction: 191443240/189938925. It's decimal value: 1.007920
+145: It's a fraction: 743507429/2088196380. It's decimal value: 0.356052
+146: It's a polar number: r=-627464384, phi=158358752. It's distance: 158358752.000000
+147: It's a polar number: r=815242040, phi=1079462761. It's distance: 1079462761.000000
+148: It's a complex number: -150899826 + 1014396881*i. It's distance: 1025559257.024848
+149: It's a polar number: r=830787605, phi=1361905999. It's distance: 1361905999.000000
+150: It's a polar number: r=-1606357857, phi=-1430529339. It's distance: -1430529339.000000
+151: It's a complex number: 531653225 + 1617033876*i. It's distance: 1702190855.275778
+152: It's a fraction: -1546932756/1460960225. It's decimal value: -1.058847
+153: It's a complex number: 1363891678 + 1175054639*i. It's distance: 1800264956.597522
+154: It's a fraction: 491848645/1926600646. It's decimal value: 0.255294
+155: It's a polar number: r=1768473860, phi=-650328168. It's distance: -650328168.000000
+156: It's a complex number: 1592285874 + -735997880*i. It's distance: 1754157114.942797
+157: It's a polar number: r=-1639772863, phi=-531484536. It's distance: -531484536.000000
+158: It's a fraction: 1289069496/1754739574. It's decimal value: 0.734622
+159: It's a fraction: -1865503588/-819424953. It's decimal value: 2.276601
+160: It's a complex number: 512772500 + 1518331912*i. It's distance: 1602581489.894921
+161: It's a polar number: r=-1848817919, phi=1888612762. It's distance: 1888612762.000000
+162: It's a fraction: -990426172/352708715. It's decimal value: -2.808057
+163: It's a polar number: r=1358860729, phi=1108143480. It's distance: 1108143480.000000
+164: It's a polar number: r=-1136433441, phi=1416462253. It's distance: 1416462253.000000
+165: It's a polar number: r=636164180, phi=586799447. It's distance: 586799447.000000
+166: It's a complex number: 1112589432 + -2140749323*i. It's distance: 2412605004.579706
+167: It's a fraction: 1947212377/-700130456. It's decimal value: -2.781214
+168: It's a complex number: 417607512 + 1293728927*i. It's distance: 1359459661.275538
+169: It's a fraction: 443111162/760490824. It's decimal value: 0.582665
+170: It's a complex number: 1385368097 + 1590003785*i. It's distance: 2108875719.548150
+171: It's a complex number: 1373251952 + -2115757282*i. It's distance: 2522350055.009779
+172: It's a complex number: 1034056907 + -1467504553*i. It's distance: 1795227924.245313
+173: It's a fraction: -888471736/-125692063. It's decimal value: 7.068638
+174: It's a polar number: r=1308674027, phi=874866765. It's distance: 874866765.000000
+175: It's a polar number: r=523060609, phi=-1147724171. It's distance: -1147724171.000000
+176: It's a polar number: r=-2046344730, phi=454198525. It's distance: 454198525.000000
+177: It's a polar number: r=254234482, phi=-293324709. It's distance: -293324709.000000
+178: It's a polar number: r=968746657, phi=1513544546. It's distance: 1513544546.000000
+179: It's a fraction: 915057408/-1240211364. It's decimal value: -0.737824
+180: It's a polar number: r=1858765608, phi=-1254140841. It's distance: -1254140841.000000
+181: It's a fraction: -528130739/1663030812. It's decimal value: -0.317571
+182: It's a complex number: 2065131133 + -2074843088*i. It's distance: 2927411900.690991
+183: It's a fraction: -1504628375/463175839. It's decimal value: -3.248504
+184: It's a complex number: -2070379559 + 850375143*i. It's distance: 2238215673.735957
+185: It's a fraction: 2061413184/153034394. It's decimal value: 13.470261
+186: It's a fraction: 704750143/-699140252. It's decimal value: -1.008024
+187: It's a complex number: -704530794 + -1837919294*i. It's distance: 1968326947.169024
+188: It's a complex number: 28642959 + -150675628*i. It's distance: 153373935.117640
+189: It's a fraction: 345987263/272979022. It's decimal value: 1.267450
+190: It's a fraction: 471887405/-65258700. It's decimal value: -7.231027
+191: It's a complex number: 338599025 + -879109639*i. It's distance: 942063191.677533
+192: It's a complex number: -1774790064 + -2052614669*i. It's distance: 2713504514.583881
+193: It's a fraction: -419302210/170828245. It's decimal value: -2.454525
+194: It's a fraction: 1764393393/38201751. It's decimal value: 46.186192
+195: It's a complex number: 1790614257 + 170129417*i. It's distance: 1798678246.908107
+196: It's a polar number: r=-1421421498, phi=1613203051. It's distance: 1613203051.000000
+197: It's a fraction: 612834362/1011975859. It's decimal value: 0.605582
+198: It's a polar number: r=-1632392774, phi=-1167004571. It's distance: -1167004571.000000
+199: It's a complex number: 456666439 + -105213834*i. It's distance: 468630117.869008
+200: It's a polar number: r=820083245, phi=-601823846. It's distance: -601823846.000000
+201: It's a complex number: -1276186262 + 1345356311*i. It's distance: 1854355677.550847
+202: It's a polar number: r=-1449876604, phi=461731061. It's distance: 461731061.000000
+203: It's a polar number: r=-1216666907, phi=2043137676. It's distance: 2043137676.000000
+204: It's a fraction: 1479973615/1916959580. It's decimal value: 0.772042
+205: It's a fraction: -1324712264/-1629572086. It's decimal value: 0.812920
+206: It's a polar number: r=-485601882, phi=1264245565. It's distance: 1264245565.000000
+207: It's a polar number: r=-1540254521, phi=1627739367. It's distance: 1627739367.000000
+208: It's a fraction: -1047218009/1876041721. It's decimal value: -0.558206
+209: It's a polar number: r=2034172781, phi=219128585. It's distance: 219128585.000000
+210: It's a complex number: -393866219 + 1621348698*i. It's distance: 1668502981.410477
+211: It's a complex number: -999719959 + 483154957*i. It's distance: 1110350714.367597
+212: It's a polar number: r=234804090, phi=1117067528. It's distance: 1117067528.000000
+213: It's a fraction: -1839364662/-494531772. It's decimal value: 3.719406
+214: It's a polar number: r=1594152375, phi=1852338175. It's distance: 1852338175.000000
+215: It's a fraction: -1909896696/-1734537036. It's decimal value: 1.101099
+216: It's a complex number: -686705769 + -816624485*i. It's distance: 1066977208.134924
+217: It's a polar number: r=2003250678, phi=211363021. It's distance: 211363021.000000
+218: It's a polar number: r=-1996416296, phi=519632552. It's distance: 519632552.000000
+219: It's a polar number: r=758446680, phi=-1773428887. It's distance: -1773428887.000000
+220: It's a complex number: -1560726302 + 584971483*i. It's distance: 1666750798.913207
+221: It's a complex number: 34560953 + 1300817168*i. It's distance: 1301276205.897813
+222: It's a fraction: 1702016748/-185238985. It's decimal value: -9.188221
+223: It's a polar number: r=-534913684, phi=2025246639. It's distance: 2025246639.000000
+224: It's a polar number: r=1412126977, phi=269816350. It's distance: 269816350.000000
+225: It's a polar number: r=-2103936892, phi=1257022486. It's distance: 1257022486.000000
+226: It's a complex number: -614298016 + -268398896*i. It's distance: 670373045.278191
+227: It's a fraction: -2096046405/-1650535241. It's decimal value: 1.269919
+228: It's a complex number: -1142054019 + 112639681*i. It's distance: 1147595346.823014
+229: It's a polar number: r=1999346077, phi=-829527571. It's distance: -829527571.000000
+230: It's a complex number: -205800847 + -60011763*i. It's distance: 214372107.150827
+231: It's a complex number: 1474689883 + 1703355148*i. It's distance: 2253026633.495631
+232: It's a complex number: 2110576549 + 1962760372*i. It's distance: 2882180016.425471
+233: It's a complex number: 313687474 + 2114597234*i. It's distance: 2137737423.863125
+234: It's a complex number: 749600135 + -166883138*i. It's distance: 767952045.469472
+235: It's a fraction: -1468611277/-1217898740. It's decimal value: 1.205857
+236: It's a polar number: r=1023619267, phi=-1756731290. It's distance: -1756731290.000000
+237: It's a complex number: 230989260 + -397413766*i. It's distance: 459666987.765763
+238: It's a fraction: 1204417444/-352464205. It's decimal value: -3.417134
+239: It's a complex number: 790615049 + 1940616661*i. It's distance: 2095486860.053305
+240: It's a polar number: r=1129716649, phi=-1186686404. It's distance: -1186686404.000000
+241: It's a fraction: 1209427349/143104279. It's decimal value: 8.451371
+242: It's a complex number: -1838725867 + 1249550612*i. It's distance: 2223126075.130351
+243: It's a polar number: r=-1252548684, phi=-2062844905. It's distance: -2062844905.000000
+244: It's a fraction: -466261611/-1853498978. It's decimal value: 0.251558
+245: It's a fraction: -2068069194/1366121229. It's decimal value: -1.513826
+246: It's a polar number: r=1437379560, phi=2031548655. It's distance: 2031548655.000000
+247: It's a polar number: r=-1079770315, phi=-1749794968. It's distance: -1749794968.000000
+248: It's a polar number: r=301059789, phi=-1069716677. It's distance: -1069716677.000000
+249: It's a fraction: 2128196501/-2069923684. It's decimal value: -1.028152
+250: It's a complex number: -214442110 + 1614985949*i. It's distance: 1629160837.366490
+251: It's a polar number: r=1438283879, phi=381531237. It's distance: 381531237.000000
+252: It's a complex number: -316377081 + -1370829771*i. It's distance: 1406864854.363060
+253: It's a fraction: 1688758262/-794639382. It's decimal value: -2.125188
+254: It's a complex number: -1623489667 + -2053255527*i. It's distance: 2617551710.666251
+255: It's a complex number: 1356766538 + -623142216*i. It's distance: 1493024333.357597
+256: It's a fraction: -969555647/1005271589. It's decimal value: -0.964471
+257: It's a complex number: -1962282550 + 50877410*i. It's distance: 1962942005.481265
+258: It's a polar number: r=109054545, phi=-528793787. It's distance: -528793787.000000
+259: It's a complex number: -792746740 + -1956251802*i. It's distance: 2110774385.529840
+260: It's a complex number: 1949150988 + -1078944235*i. It's distance: 2227848791.157315
+261: It's a polar number: r=1622490478, phi=-1005895547. It's distance: -1005895547.000000
+262: It's a polar number: r=733441603, phi=-1423345774. It's distance: -1423345774.000000
+263: It's a polar number: r=-2140005254, phi=-634714145. It's distance: -634714145.000000
+264: It's a polar number: r=942230826, phi=-1772423960. It's distance: -1772423960.000000
+265: It's a complex number: 1529617894 + -536286479*i. It's distance: 1620905330.117466
+266: It's a polar number: r=399224092, phi=2037656196. It's distance: 2037656196.000000
+267: It's a fraction: 459232831/2046467270. It's decimal value: 0.224403
+268: It's a polar number: r=1739313894, phi=-1023020226. It's distance: -1023020226.000000
+269: It's a complex number: -282200478 + -1717875736*i. It's distance: 1740900386.041939
+270: It's a polar number: r=793175785, phi=1658573447. It's distance: 1658573447.000000
+271: It's a polar number: r=1093134972, phi=2003908116. It's distance: 2003908116.000000
+272: It's a complex number: -1207779380 + 172125330*i. It's distance: 1219982852.330636
+273: It's a fraction: 757267762/-1868454851. It's decimal value: -0.405291
+274: It's a fraction: 1360381876/-1207222326. It's decimal value: -1.126869
+275: It's a polar number: r=-504061932, phi=1088913519. It's distance: 1088913519.000000
+276: It's a polar number: r=-225598976, phi=-289970160. It's distance: -289970160.000000
+277: It's a fraction: -1939484212/-1537685443. It's decimal value: 1.261301
+278: It's a polar number: r=-1082593813, phi=-2042365278. It's distance: -2042365278.000000
+279: It's a polar number: r=1687357380, phi=1786153949. It's distance: 1786153949.000000
+280: It's a complex number: -294607125 + -1769043883*i. It's distance: 1793407264.979286
+281: It's a complex number: -1644936693 + 426804369*i. It's distance: 1699405394.064425
+282: It's a polar number: r=816184920, phi=-2041964627. It's distance: -2041964627.000000
+283: It's a polar number: r=2029700488, phi=1190775108. It's distance: 1190775108.000000
+284: It's a fraction: 2127707147/1360515147. It's decimal value: 1.563898
+285: It's a polar number: r=-1246709152, phi=1237487953. It's distance: 1237487953.000000
+286: It's a fraction: -858463024/-667452692. It's decimal value: 1.286178
+287: It's a complex number: -1509639770 + -2042123442*i. It's distance: 2539543342.321918
+288: It's a complex number: -967164476 + 1934040006*i. It's distance: 2162387076.460835
+289: It's a polar number: r=43916539, phi=-922969978. It's distance: -922969978.000000
+290: It's a polar number: r=-1924762289, phi=933792642. It's distance: 933792642.000000
+291: It's a fraction: -95611116/-398563359. It's decimal value: 0.239889
+292: It's a complex number: -468420004 + 297305171*i. It's distance: 554804168.018499
+293: It's a polar number: r=375751199, phi=-398715753. It's distance: -398715753.000000
+294: It's a complex number: 265242573 + 337900865*i. It's distance: 429570270.269497
+295: It's a complex number: -1260055869 + 1577922878*i. It's distance: 2019302206.683573
+296: It's a polar number: r=1993536108, phi=-2084089240. It's distance: -2084089240.000000
+297: It's a polar number: r=-1560136298, phi=564642413. It's distance: 564642413.000000
+298: It's a polar number: r=-2133319222, phi=1047470838. It's distance: 1047470838.000000
+299: It's a complex number: -895667604 + -1665487292*i. It's distance: 1891049543.684299
+300: It's a polar number: r=-608723375, phi=-1323489199. It's distance: -1323489199.000000
+301: It's a complex number: -920412183 + 1490194877*i. It's distance: 1751524866.523987
+302: It's a complex number: 1839564339 + -1930215214*i. It's distance: 2666407270.031638
+303: It's a complex number: 946521510 + -1541281513*i. It's distance: 1808715475.470990
+304: It's a complex number: 1463541648 + -103903373*i. It's distance: 1467225295.021638
+305: It's a fraction: -1909743760/1156899613. It's decimal value: -1.650743
+306: It's a complex number: 1115765733 + 1911122534*i. It's distance: 2212989496.337389
+307: It's a fraction: 1089915924/1145018523. It's decimal value: 0.951876
+308: It's a fraction: -947482333/748376641. It's decimal value: -1.266050
+309: It's a complex number: -1789268815 + 1185947307*i. It's distance: 2146614522.291335
+310: It's a fraction: -479181200/-877288790. It's decimal value: 0.546207
+311: It's a fraction: -1431192783/-1929043951. It's decimal value: 0.741918
+312: It's a complex number: -1934929460 + 340264638*i. It's distance: 1964620074.988842
+313: It's a fraction: 525391403/-548832687. It's decimal value: -0.957289
+314: It's a polar number: r=-947566557, phi=1680864049. It's distance: 1680864049.000000
+315: It's a complex number: 1118084323 + 1804297217*i. It's distance: 2122640101.527415
+316: It's a polar number: r=-2140101634, phi=2002488213. It's distance: 2002488213.000000
+317: It's a polar number: r=109642946, phi=716391519. It's distance: 716391519.000000
+318: It's a fraction: 1631320085/-1751906667. It's decimal value: -0.931168
+319: It's a fraction: 1545385769/1156516763. It's decimal value: 1.336242
+320: It's a polar number: r=1695948939, phi=1115104587. It's distance: 1115104587.000000
+321: It's a fraction: 2000573444/-1274724259. It's decimal value: -1.569417
+322: It's a polar number: r=469239706, phi=-1407442989. It's distance: -1407442989.000000
+323: It's a complex number: -477139934 + -1063865666*i. It's distance: 1165964266.995841
+324: It's a complex number: -2022630119 + 1473711600*i. It's distance: 2502570374.287307
+325: It's a polar number: r=-26656827, phi=-2064489081. It's distance: -2064489081.000000
+326: It's a polar number: r=98508233, phi=756898473. It's distance: 756898473.000000
+327: It's a complex number: -266695478 + -1379674842*i. It's distance: 1405214982.710252
+328: It's a complex number: -1167728028 + -1979192046*i. It's distance: 2297996932.619022
+329: It's a complex number: -250026889 + 1638852680*i. It's distance: 1657815294.888487
+330: It's a fraction: -1363099968/-886404865. It's decimal value: 1.537785
+331: It's a polar number: r=881006294, phi=-218400872. It's distance: -218400872.000000
+332: It's a complex number: 690814319 + 760298434*i. It's distance: 1027267312.863739
+333: It's a complex number: 1948101728 + -757241510*i. It's distance: 2090099291.206919
+334: It's a complex number: -542520892 + -1387489124*i. It's distance: 1489783537.120330
+335: It's a fraction: -1179571858/1477683205. It's decimal value: -0.798258
+336: It's a complex number: 1897256705 + 140783693*i. It's distance: 1902472878.356529
+337: It's a complex number: 692549725 + -1683559367*i. It's distance: 1820438755.852834
+338: It's a polar number: r=-566817474, phi=1936686766. It's distance: 1936686766.000000
+339: It's a fraction: 1390938528/698639591. It's decimal value: 1.990924
+340: It's a fraction: 1397060386/-154134196. It's decimal value: -9.063922
+341: It's a fraction: 36127872/-1458585114. It's decimal value: -0.024769
+342: It's a complex number: -1042449410 + -289284411*i. It's distance: 1081843908.730351
+343: It's a complex number: -197712687 + 699429154*i. It's distance: 726836603.416418
+344: It's a polar number: r=-2016668101, phi=1031853734. It's distance: 1031853734.000000
+345: It's a polar number: r=-141298996, phi=1097828012. It's distance: 1097828012.000000
+346: It's a fraction: 564151854/567646813. It's decimal value: 0.993843
+347: It's a polar number: r=-2033596581, phi=180489325. It's distance: 180489325.000000
+348: It's a polar number: r=1538226702, phi=-1709561730. It's distance: -1709561730.000000
+349: It's a fraction: -1551181570/765398677. It's decimal value: -2.026632
+350: It's a fraction: -682085789/1317119382. It's decimal value: -0.517862
+351: It's a fraction: -1310589916/583837965. It's decimal value: -2.244784
+352: It's a fraction: 1893513032/1505822991. It's decimal value: 1.257461
+353: It's a complex number: 1207948776 + -423248943*i. It's distance: 1279953090.230464
+354: It's a polar number: r=1476217211, phi=1786741088. It's distance: 1786741088.000000
+355: It's a fraction: 383875032/2127026409. It's decimal value: 0.180475
+356: It's a polar number: r=754064767, phi=1037960829. It's distance: 1037960829.000000
+357: It's a complex number: 1316073041 + 990644640*i. It's distance: 1647247720.292160
+358: It's a fraction: 2112012249/-1041830848. It's decimal value: -2.027212
+359: It's a fraction: -412708198/-2042733978. It's decimal value: 0.202037
+360: It's a complex number: -1415578126 + 1889719429*i. It's distance: 2361122815.770022
+361: It's a complex number: -1921663122 + -1414797552*i. It's distance: 2386302844.904640
+362: It's a polar number: r=1551273565, phi=124348541. It's distance: 124348541.000000
+363: It's a complex number: -369978394 + -216316584*i. It's distance: 428575403.564237
+364: It's a complex number: -1357749990 + -941239758*i. It's distance: 1652094826.995381
+365: It's a fraction: 1825086693/-687337872. It's decimal value: -2.655298
+366: It's a complex number: -1254169385 + -489397329*i. It's distance: 1346272851.952238
+367: It's a polar number: r=574498271, phi=-812784056. It's distance: -812784056.000000
+368: It's a fraction: 1658927317/-874949937. It's decimal value: -1.896025
+369: It's a fraction: 1256045709/-1764804233. It's decimal value: -0.711720
+370: It's a complex number: -429470599 + 847623703*i. It's distance: 950216258.171186
+371: It's a polar number: r=-1754197095, phi=-2125911330. It's distance: -2125911330.000000
+372: It's a fraction: -1698245358/-1163353615. It's decimal value: 1.459784
+373: It's a polar number: r=-2059884604, phi=-1568104795. It's distance: -1568104795.000000
+374: It's a polar number: r=1294378839, phi=1787539129. It's distance: 1787539129.000000
+375: It's a complex number: 611805729 + -159573770*i. It's distance: 632273705.059157
+376: It's a polar number: r=1583167606, phi=-1230461822. It's distance: -1230461822.000000
+377: It's a fraction: 1470736791/1745980318. It's decimal value: 0.842356
+378: It's a polar number: r=1508946583, phi=-1906279363. It's distance: -1906279363.000000
+379: It's a polar number: r=2067809553, phi=-1878459710. It's distance: -1878459710.000000
+380: It's a fraction: 1625996692/634782787. It's decimal value: 2.561501
+381: It's a complex number: 1037876138 + 1747959806*i. It's distance: 2032867521.807890
+382: It's a fraction: -580048560/-699504137. It's decimal value: 0.829228
+383: It's a polar number: r=2062054820, phi=-1284698799. It's distance: -1284698799.000000
+384: It's a polar number: r=-1912040679, phi=-694868030. It's distance: -694868030.000000
+385: It's a fraction: 2065236371/-1664219628. It's decimal value: -1.240964
+386: It's a complex number: -155587003 + 865081377*i. It's distance: 878961378.181509
+387: It's a fraction: 1981210161/1636156584. It's decimal value: 1.210893
+388: It's a polar number: r=-1676890215, phi=1560683211. It's distance: 1560683211.000000
+389: It's a polar number: r=160126452, phi=1879419055. It's distance: 1879419055.000000
+390: It's a fraction: 2007497671/-54453265. It's decimal value: -36.866433
+391: It's a fraction: -70728636/1292261983. It's decimal value: -0.054732
+392: It's a polar number: r=1670275385, phi=1869250206. It's distance: 1869250206.000000
+393: It's a polar number: r=1878531175, phi=-132156860. It's distance: -132156860.000000
+394: It's a polar number: r=522183688, phi=2114414948. It's distance: 2114414948.000000
+395: It's a polar number: r=-1953590423, phi=-1314059073. It's distance: -1314059073.000000
+396: It's a polar number: r=1137926234, phi=505691272. It's distance: 505691272.000000
+397: It's a polar number: r=-1121865176, phi=-1343364148. It's distance: -1343364148.000000
+398: It's a polar number: r=-1437421536, phi=223710512. It's distance: 223710512.000000
+399: It's a polar number: r=-1302860718, phi=-813699040. It's distance: -813699040.000000
+400: It's a fraction: -1605943226/1469810938. It's decimal value: -1.092619
+401: It's a fraction: 1862061981/1530008326. It's decimal value: 1.217027
+402: It's a complex number: 826048418 + 1797100599*i. It's distance: 1977859082.899098
+403: It's a fraction: 1993337298/845842315. It's decimal value: 2.356630
+404: It's a polar number: r=-1313076789, phi=1350361880. It's distance: 1350361880.000000
+405: It's a fraction: -1028980633/-1513465662. It's decimal value: 0.679884
+406: It's a fraction: 1629311112/-778699129. It's decimal value: -2.092350
+407: It's a polar number: r=-1756856140, phi=375708872. It's distance: 375708872.000000
+408: It's a complex number: 154050614 + -1850524201*i. It's distance: 1856925257.020450
+409: It's a fraction: 1112196749/-729463365. It's decimal value: -1.524678
+410: It's a complex number: 1573049431 + -494607148*i. It's distance: 1648975664.836239
+411: It's a fraction: -1179419931/1626561273. It's decimal value: -0.725100
+412: It's a polar number: r=908330851, phi=-1338668018. It's distance: -1338668018.000000
+413: It's a complex number: 952686867 + -1740333491*i. It's distance: 1984029467.132614
+414: It's a polar number: r=3948484, phi=-1405334163. It's distance: -1405334163.000000
+415: It's a polar number: r=1512630159, phi=-1644011727. It's distance: -1644011727.000000
+416: It's a complex number: 148928712 + -180420998*i. It's distance: 233947638.964994
+417: It's a fraction: 339884927/-434728036. It's decimal value: -0.781833
+418: It's a polar number: r=473016398, phi=1072495737. It's distance: 1072495737.000000
+419: It's a polar number: r=1508632096, phi=1993625884. It's distance: 1993625884.000000
+420: It's a polar number: r=-1611863274, phi=652650894. It's distance: 652650894.000000
+421: It's a fraction: 897014334/-1539366227. It's decimal value: -0.582717
+422: It's a polar number: r=101580656, phi=-1948303940. It's distance: -1948303940.000000
+423: It's a fraction: 1727447524/-1762422366. It's decimal value: -0.980155
+424: It's a complex number: 814787088 + 936261122*i. It's distance: 1241153853.210882
+425: It's a complex number: 579046871 + -747830111*i. It's distance: 945803972.149178
+426: It's a complex number: -1671240184 + -504574905*i. It's distance: 1745749004.688851
+427: It's a fraction: -1202515990/-1773331058. It's decimal value: 0.678111
+428: It's a fraction: -439656798/1271337841. It's decimal value: -0.345822
+429: It's a fraction: 911507280/1648529675. It's decimal value: 0.552921
+430: It's a polar number: r=1190905717, phi=-941818310. It's distance: -941818310.000000
+431: It's a fraction: 2091505279/-387546661. It's decimal value: -5.396783
+432: It's a complex number: -792318894 + 606337138*i. It's distance: 997704342.331642
+433: It's a fraction: -1047652316/-98163151. It's decimal value: 10.672562
+434: It's a complex number: -1486807343 + 711476035*i. It's distance: 1648270069.975804
+435: It's a polar number: r=-765427130, phi=1035563755. It's distance: 1035563755.000000
+436: It's a fraction: -991770589/-1596179108. It's decimal value: 0.621340
+437: It's a fraction: -443413639/901970887. It's decimal value: -0.491605
+438: It's a complex number: -1676741841 + 797526432*i. It's distance: 1856747589.495869
+439: It's a polar number: r=2060705529, phi=216824951. It's distance: 216824951.000000
+440: It's a polar number: r=-1807301198, phi=1936726572. It's distance: 1936726572.000000
+441: It's a complex number: 783911821 + -1662326232*i. It's distance: 1837891793.522909
+442: It's a complex number: 591913755 + -1418967308*i. It's distance: 1537475240.298512
+443: It's a complex number: 1502871592 + 619996243*i. It's distance: 1625736252.709747
+444: It's a polar number: r=-609511142, phi=1953608328. It's distance: 1953608328.000000
+445: It's a polar number: r=-382495954, phi=-533361869. It's distance: -533361869.000000
+446: It's a complex number: 746007186 + 1037451799*i. It's distance: 1277823523.344274
+447: It's a polar number: r=682409166, phi=-649688710. It's distance: -649688710.000000
+448: It's a polar number: r=45092627, phi=1411742635. It's distance: 1411742635.000000
+449: It's a polar number: r=1965270766, phi=-278271335. It's distance: -278271335.000000
+450: It's a polar number: r=729801363, phi=-73864738. It's distance: -73864738.000000
+451: It's a polar number: r=-1884736149, phi=-924368248. It's distance: -924368248.000000
+452: It's a complex number: -1250380467 + 184883499*i. It's distance: 1263975166.076304
+453: It's a polar number: r=-482340016, phi=-1497841674. It's distance: -1497841674.000000
+454: It's a complex number: -1955847516 + 419410034*i. It's distance: 2000311046.428343
+455: It's a complex number: 294614462 + 1513043550*i. It's distance: 1541459848.784960
+456: It's a polar number: r=1515349323, phi=-497110887. It's distance: -497110887.000000
+457: It's a polar number: r=-598984369, phi=-2125923618. It's distance: -2125923618.000000
+458: It's a complex number: 2122769246 + -1946771147*i. It's distance: 2880289424.789652
+459: It's a complex number: 1869670636 + 340060963*i. It's distance: 1900344638.658244
+460: It's a fraction: -150244742/1801733120. It's decimal value: -0.083389
+461: It's a fraction: 732354624/-640553539. It's decimal value: -1.143315
+462: It's a fraction: -1308996547/837447148. It's decimal value: -1.563080
+463: It's a complex number: -1542267796 + -384618774*i. It's distance: 1589503556.426333
+464: It's a complex number: 1870212039 + 1624218817*i. It's distance: 2477050632.570400
+465: It's a complex number: 1339889041 + 1316050804*i. It's distance: 1878108719.137672
+466: It's a fraction: 844485870/1675942909. It's decimal value: 0.503887
+467: It's a complex number: 327241016 + 1061564275*i. It's distance: 1110857953.344615
+468: It's a fraction: -825941870/1552227789. It's decimal value: -0.532101
+469: It's a polar number: r=-1796801459, phi=1770556799. It's distance: 1770556799.000000
+470: It's a polar number: r=1969325577, phi=1174310922. It's distance: 1174310922.000000
+471: It's a fraction: -731614612/-857295995. It's decimal value: 0.853398
+472: It's a complex number: 864075572 + -1834975411*i. It's distance: 2028240950.454789
+473: It's a polar number: r=433135010, phi=2097825770. It's distance: 2097825770.000000
+474: It's a complex number: -1301706795 + 635696382*i. It's distance: 1448637453.000944
+475: It's a polar number: r=543065047, phi=-669744968. It's distance: -669744968.000000
+476: It's a fraction: 365220555/-1585751269. It's decimal value: -0.230314
+477: It's a polar number: r=-1325619526, phi=-1133088662. It's distance: -1133088662.000000
+478: It's a polar number: r=1670010797, phi=-6936917. It's distance: -6936917.000000
+479: It's a complex number: 716617041 + -969152778*i. It's distance: 1205320326.949111
+480: It's a polar number: r=993131537, phi=-1189154892. It's distance: -1189154892.000000
+481: It's a polar number: r=-1334803592, phi=-964426775. It's distance: -964426775.000000
+482: It's a complex number: 768646713 + -1325555846*i. It's distance: 1532291117.989816
+483: It's a polar number: r=-1548386219, phi=1267341581. It's distance: 1267341581.000000
+484: It's a fraction: -1938531152/-629200672. It's decimal value: 3.080943
+485: It's a polar number: r=637407746, phi=1749542357. It's distance: 1749542357.000000
+486: It's a polar number: r=940740841, phi=-1229519264. It's distance: -1229519264.000000
+487: It's a fraction: 341977832/1575430072. It's decimal value: 0.217070
+488: It's a complex number: -7771716 + 2077155138*i. It's distance: 2077169676.961751
+489: It's a polar number: r=-178633126, phi=1413294979. It's distance: 1413294979.000000
+490: It's a complex number: 1683625915 + 659776435*i. It's distance: 1808286804.088582
+491: It's a polar number: r=378803566, phi=1671382962. It's distance: 1671382962.000000
+492: It's a polar number: r=-1059016282, phi=1413998599. It's distance: 1413998599.000000
+493: It's a fraction: 1042018749/-1164151535. It's decimal value: -0.895089
+494: It's a polar number: r=1831511182, phi=-60317608. It's distance: -60317608.000000
+495: It's a complex number: 2020214289 + 1245104010*i. It's distance: 2373088655.991987
+496: It's a complex number: -748775968 + -1834533941*i. It's distance: 1981459116.644936
+497: It's a complex number: -1152630759 + 378540989*i. It's distance: 1213198642.822359
+498: It's a polar number: r=-1967353525, phi=1113199585. It's distance: 1113199585.000000
+499: It's a polar number: r=-1917112347, phi=-106354656. It's distance: -106354656.000000
+500: It's a complex number: -968740789 + 416115454*i. It's distance: 1054329543.989909
+501: It's a fraction: 871528127/887575031. It's decimal value: 0.981921
+502: It's a complex number: 188193741 + 537685889*i. It's distance: 569669201.713850
+503: It's a complex number: -780361238 + -847227771*i. It's distance: 1151850058.699708
+504: It's a fraction: -204118745/-1096155429. It's decimal value: 0.186213
+505: It's a complex number: 589783559 + 2094825644*i. It's distance: 2176267245.819484
+506: It's a polar number: r=-1404422426, phi=1268501324. It's distance: 1268501324.000000
+507: It's a polar number: r=83627444, phi=1663151484. It's distance: 1663151484.000000
+508: It's a fraction: -1558228913/1569272692. It's decimal value: -0.992962
+509: It's a complex number: 2146242868 + 1039878674*i. It's distance: 2384891214.517103
+510: It's a complex number: 1809731143 + 1724010260*i. It's distance: 2499467580.611790
+511: It's a polar number: r=2141938618, phi=1087866958. It's distance: 1087866958.000000
+512: It's a complex number: 1496102978 + 420974900*i. It's distance: 1554202041.952873
+513: It's a fraction: 28094210/-31970901. It's decimal value: -0.878743
+514: It's a fraction: 860971690/-810404868. It's decimal value: -1.062397
+515: It's a complex number: -281614610 + 1971839353*i. It's distance: 1991847690.614147
+516: It's a fraction: 1605255651/1543439594. It's decimal value: 1.040051
+517: It's a polar number: r=272682241, phi=1278080798. It's distance: 1278080798.000000
+518: It's a polar number: r=1196754802, phi=-1494560036. It's distance: -1494560036.000000
+519: It's a fraction: -1010670674/-2004641552. It's decimal value: 0.504165
+520: It's a polar number: r=-432015859, phi=108860740. It's distance: 108860740.000000
+521: It's a complex number: -716105236 + -1340744463*i. It's distance: 1520000797.398401
+522: It's a complex number: 185924778 + 844428680*i. It's distance: 864654739.581581
+523: It's a polar number: r=154861406, phi=-1940057061. It's distance: -1940057061.000000
+524: It's a complex number: -525029860 + 719106947*i. It's distance: 890376973.598981
+525: It's a complex number: 726067462 + 227283105*i. It's distance: 760809811.446700
+526: It's a fraction: -247613275/877691602. It's decimal value: -0.282119
+527: It's a polar number: r=-1072139146, phi=1150779011. It's distance: 1150779011.000000
+528: It's a complex number: 49632942 + -410664428*i. It's distance: 413652875.435603
+529: It's a complex number: 764711991 + 509565960*i. It's distance: 918935197.263608
+530: It's a complex number: 179069936 + 893657342*i. It's distance: 911421684.452125
+531: It's a polar number: r=1869114625, phi=-516245691. It's distance: -516245691.000000
+532: It's a complex number: -2017779397 + -284505747*i. It's distance: 2037738259.697185
+533: It's a polar number: r=-766323215, phi=1014214525. It's distance: 1014214525.000000
+534: It's a complex number: 685716508 + -110308439*i. It's distance: 694532275.029988
+535: It's a fraction: 1137698256/-317361252. It's decimal value: -3.584868
+536: It's a fraction: 164983484/2011794858. It's decimal value: 0.082008
+537: It's a complex number: 258282982 + -1541139435*i. It's distance: 1562632668.576634
+538: It's a polar number: r=-1996459500, phi=-1896066605. It's distance: -1896066605.000000
+539: It's a polar number: r=-272136858, phi=1329206300. It's distance: 1329206300.000000
+540: It's a fraction: 1057392387/132373047. It's decimal value: 7.987973
+541: It's a fraction: 1638265665/-89515925. It's decimal value: -18.301388
+542: It's a polar number: r=1387225383, phi=-606715187. It's distance: -606715187.000000
+543: It's a polar number: r=1653460525, phi=-594187524. It's distance: -594187524.000000
+544: It's a polar number: r=-424499480, phi=-2072398349. It's distance: -2072398349.000000
+545: It's a fraction: -1761873646/-163876028. It's decimal value: 10.751259
+546: It's a polar number: r=347892697, phi=1466983524. It's distance: 1466983524.000000
+547: It's a polar number: r=1833019603, phi=-265032878. It's distance: -265032878.000000
+548: It's a complex number: -1011436890 + -232315931*i. It's distance: 1037774192.321850
+549: It's a polar number: r=-1615254761, phi=-250792718. It's distance: -250792718.000000
+550: It's a fraction: -183597506/-64416053. It's decimal value: 2.850182
+551: It's a fraction: -2112591662/-874043794. It's decimal value: 2.417032
+552: It's a complex number: -1200603385 + 1615441398*i. It's distance: 2012734308.955271
+553: It's a complex number: 455497009 + -856004972*i. It's distance: 969650471.714765
+554: It's a complex number: 744957045 + -568104466*i. It's distance: 936858411.492514
+555: It's a fraction: 1059963614/911863998. It's decimal value: 1.162414
+556: It's a complex number: 1759972675 + -2123918944*i. It's distance: 2758357391.171190
+557: It's a polar number: r=1235724480, phi=-703952208. It's distance: -703952208.000000
+558: It's a complex number: 1883142173 + 420534833*i. It's distance: 1929526882.294595
+559: It's a fraction: 639802786/1770731865. It's decimal value: 0.361321
+560: It's a polar number: r=1390205469, phi=1741771041. It's distance: 1741771041.000000
+561: It's a fraction: -894081059/283245462. It's decimal value: -3.156559
+562: It's a polar number: r=-2109133871, phi=1965695565. It's distance: 1965695565.000000
+563: It's a complex number: -561729590 + -1992741292*i. It's distance: 2070400441.731840
+564: It's a complex number: -943959983 + 771513121*i. It's distance: 1219136147.188049
+565: It's a fraction: 2145819694/1037224923. It's decimal value: 2.068808
+566: It's a complex number: -129166531 + 1513612860*i. It's distance: 1519114176.975501
+567: It's a polar number: r=-2056899569, phi=-485779542. It's distance: -485779542.000000
+568: It's a fraction: 1281031608/2041985572. It's decimal value: 0.627346
+569: It's a complex number: -577595460 + -790402809*i. It's distance: 978955114.337579
+570: It's a polar number: r=1421174341, phi=815776819. It's distance: 815776819.000000
+571: It's a polar number: r=1427945074, phi=815919731. It's distance: 815919731.000000
+572: It's a polar number: r=1545747515, phi=358793884. It's distance: 358793884.000000
+573: It's a fraction: 688887650/-71981124. It's decimal value: -9.570393
+574: It's a complex number: -393436720 + 714430045*i. It's distance: 815599621.041514
+575: It's a fraction: 19929206/1640274468. It's decimal value: 0.012150
+576: It's a polar number: r=490165070, phi=16290263. It's distance: 16290263.000000
+577: It's a complex number: 496988972 + 84472214*i. It's distance: 504116646.449687
+578: It's a fraction: -1492138948/565364990. It's decimal value: -2.639249
+579: It's a fraction: -1171974685/-1370636614. It's decimal value: 0.855059
+580: It's a polar number: r=848993233, phi=-31210199. It's distance: -31210199.000000
+581: It's a complex number: -314930101 + -1140059224*i. It's distance: 1182757795.469280
+582: It's a fraction: -872870891/1562658064. It's decimal value: -0.558581
+583: It's a complex number: -981209906 + 1799909682*i. It's distance: 2049987254.348151
+584: It's a polar number: r=-1449700582, phi=-1470017568. It's distance: -1470017568.000000
+585: It's a fraction: 1100325104/-930079885. It's decimal value: -1.183044
+586: It's a polar number: r=-1693719883, phi=338877616. It's distance: 338877616.000000
+587: It's a polar number: r=-1402104944, phi=-191035951. It's distance: -191035951.000000
+588: It's a fraction: 1291834998/516578308. It's decimal value: 2.500753
+589: It's a complex number: -1414043636 + 1168576829*i. It's distance: 1834418493.634371
+590: It's a fraction: -746239965/-2137432030. It's decimal value: 0.349129
+591: It's a complex number: -1435861099 + 1312148148*i. It's distance: 1945104073.802047
+592: It's a fraction: -1562561783/1192682380. It's decimal value: -1.310124
+593: It's a complex number: 1555174133 + 670019013*i. It's distance: 1693367078.259701
+594: It's a polar number: r=638294310, phi=1339463788. It's distance: 1339463788.000000
+595: It's a fraction: -561471717/-1095768478. It's decimal value: 0.512400
+596: It's a fraction: 1279927157/-2044028333. It's decimal value: -0.626179
+597: It's a complex number: -150561006 + -48622041*i. It's distance: 158217317.000187
+598: It's a fraction: 521640280/-1941561282. It's decimal value: -0.268671
+599: It's a fraction: -1998260532/-778627414. It's decimal value: 2.566389
+600: It's a polar number: r=-1073147640, phi=-336841866. It's distance: -336841866.000000
+601: It's a complex number: 1502881753 + 998278074*i. It's distance: 1804220794.839008
+602: It's a polar number: r=1903628034, phi=2037463439. It's distance: 2037463439.000000
+603: It's a polar number: r=-295976256, phi=-1497377478. It's distance: -1497377478.000000
+604: It's a complex number: 1234013612 + 648882134*i. It's distance: 1394215771.832208
+605: It's a polar number: r=-1220202677, phi=1766578532. It's distance: 1766578532.000000
+606: It's a complex number: -1670642366 + -801125073*i. It's distance: 1852794456.399126
+607: It's a fraction: -832463057/313493833. It's decimal value: -2.655437
+608: It's a complex number: 1741231863 + -356088520*i. It's distance: 1777269657.312092
+609: It's a fraction: 84257555/-557169740. It's decimal value: -0.151224
+610: It's a complex number: 1873676389 + 1890953361*i. It's distance: 2662023257.631923
+611: It's a polar number: r=1077644657, phi=1252527274. It's distance: 1252527274.000000
+612: It's a complex number: 785126482 + 892067632*i. It's distance: 1188363687.092375
+613: It's a complex number: -343125425 + -967148634*i. It's distance: 1026212228.308305
+614: It's a polar number: r=1379828832, phi=-1688466127. It's distance: -1688466127.000000
+615: It's a fraction: -1071407133/-1849220610. It's decimal value: 0.579383
+616: It's a complex number: -1538144618 + -1961939819*i. It's distance: 2493009570.631473
+617: It's a polar number: r=234913036, phi=-617713977. It's distance: -617713977.000000
+618: It's a fraction: 828237505/668021981. It's decimal value: 1.239836
+619: It's a complex number: -1994264743 + 922981614*i. It's distance: 2197495602.943246
+620: It's a fraction: 494499102/-17457021. It's decimal value: -28.326660
+621: It's a fraction: 358486939/-1813969050. It's decimal value: -0.197626
+622: It's a fraction: -1180972394/914470085. It's decimal value: -1.291428
+623: It's a complex number: -1008027002 + 1514838544*i. It's distance: 1819575294.168710
+624: It's a polar number: r=-1516223224, phi=214719896. It's distance: 214719896.000000
+625: It's a polar number: r=-1018955018, phi=79005280. It's distance: 79005280.000000
+626: It's a fraction: 124460128/-144984068. It's decimal value: -0.858440
+627: It's a polar number: r=-117149013, phi=-541694382. It's distance: -541694382.000000
+628: It's a complex number: -763011107 + 1401748405*i. It's distance: 1595958815.360036
+629: It's a complex number: 1047526616 + -1551705709*i. It's distance: 1872191928.882187
+630: It's a fraction: -1231068342/-1367506223. It's decimal value: 0.900229
+631: It's a polar number: r=1868353873, phi=-372147205. It's distance: -372147205.000000
+632: It's a fraction: -1189970330/-984502433. It's decimal value: 1.208702
+633: It's a complex number: -1296572199 + 1696850175*i. It's distance: 2135509303.097794
+634: It's a polar number: r=2054457328, phi=-1658371687. It's distance: -1658371687.000000
+635: It's a polar number: r=-722089840, phi=19789283. It's distance: 19789283.000000
+636: It's a polar number: r=62401516, phi=753206896. It's distance: 753206896.000000
+637: It's a complex number: 391917961 + 1533608027*i. It's distance: 1582893953.691539
+638: It's a fraction: -512766963/-816170955. It's decimal value: 0.628259
+639: It's a polar number: r=-92347792, phi=578995942. It's distance: 578995942.000000
+640: It's a complex number: -643484150 + -1083086228*i. It's distance: 1259820474.744116
+641: It's a polar number: r=387254508, phi=867248843. It's distance: 867248843.000000
+642: It's a polar number: r=-1334547117, phi=-589592748. It's distance: -589592748.000000
+643: It's a polar number: r=1772757419, phi=-1755883577. It's distance: -1755883577.000000
+644: It's a fraction: 749943213/799484184. It's decimal value: 0.938034
+645: It's a polar number: r=-656278678, phi=-1678347019. It's distance: -1678347019.000000
+646: It's a complex number: 368073487 + -695312246*i. It's distance: 786725626.422518
+647: It's a polar number: r=-1829488835, phi=-873649204. It's distance: -873649204.000000
+648: It's a complex number: 1825429168 + 1790178140*i. It's distance: 2556741954.190730
+649: It's a complex number: -1417675190 + 61986782*i. It's distance: 1419029705.638417
+650: It's a fraction: -1145557555/959862910. It's decimal value: -1.193460
+651: It's a fraction: 1098237863/2062681979. It's decimal value: 0.532432
+652: It's a complex number: -119011961 + -1580339256*i. It's distance: 1584814188.135536
+653: It's a complex number: -1909535506 + -668445675*i. It's distance: 2023152359.339474
+654: It's a polar number: r=880427764, phi=232167007. It's distance: 232167007.000000
+655: It's a polar number: r=1524564706, phi=-3193994. It's distance: -3193994.000000
+656: It's a fraction: -251742367/-191387187. It's decimal value: 1.315356
+657: It's a complex number: 676924901 + -445756526*i. It's distance: 810509840.819622
+658: It's a fraction: -807730743/-2135043189. It's decimal value: 0.378321
+659: It's a complex number: -508089237 + 744493844*i. It's distance: 901346635.046217
+660: It's a polar number: r=-81810740, phi=-1744067231. It's distance: -1744067231.000000
+661: It's a fraction: -1392574770/721208546. It's decimal value: -1.930891
+662: It's a polar number: r=152996013, phi=-320951780. It's distance: -320951780.000000
+663: It's a complex number: 579375197 + -1477807588*i. It's distance: 1587321922.626020
+664: It's a complex number: -1507351355 + -1288487859*i. It's distance: 1983005060.561052
+665: It's a polar number: r=57012330, phi=739358639. It's distance: 739358639.000000
+666: It's a polar number: r=-569492614, phi=789696830. It's distance: 789696830.000000
+667: It's a complex number: 1378839361 + -1400462417*i. It's distance: 1965322610.889207
+668: It's a fraction: -1949887238/-419078993. It's decimal value: 4.652792
+669: It's a polar number: r=1581605795, phi=2111052161. It's distance: 2111052161.000000
+670: It's a fraction: -727225027/-1964926366. It's decimal value: 0.370103
+671: It's a complex number: 835549289 + -31140104*i. It's distance: 836129368.235285
+672: It's a complex number: 1863950025 + 744208761*i. It's distance: 2007026750.107396
+673: It's a fraction: -131037280/-920702356. It's decimal value: 0.142323
+674: It's a complex number: 1531983033 + -1469620926*i. It's distance: 2122912546.370429
+675: It's a polar number: r=942516645, phi=1456532450. It's distance: 1456532450.000000
+676: It's a fraction: -79183974/-659303261. It's decimal value: 0.120103
+677: It's a fraction: 105445238/1266626606. It's decimal value: 0.083249
+678: It's a complex number: 875885327 + 1900961645*i. It's distance: 2093043306.244523
+679: It's a fraction: -437531406/395946572. It's decimal value: -1.105026
+680: It's a complex number: 1310401403 + -939346360*i. It's distance: 1612303762.021790
+681: It's a fraction: 1883047298/-988105095. It's decimal value: -1.905716
+682: It's a complex number: -1425655602 + 21450586*i. It's distance: 1425816966.918870
+683: It's a fraction: -516040275/1064613965. It's decimal value: -0.484721
+684: It's a fraction: 1405601049/1851288258. It's decimal value: 0.759256
+685: It's a complex number: -686035895 + 480326871*i. It's distance: 837471881.458179
+686: It's a polar number: r=-1599693970, phi=-881734693. It's distance: -881734693.000000
+687: It's a fraction: 179011633/1326589129. It's decimal value: 0.134941
+688: It's a polar number: r=1072202718, phi=1337248081. It's distance: 1337248081.000000
+689: It's a fraction: 1558281088/-1727619492. It's decimal value: -0.901982
+690: It's a complex number: -1748663199 + 2111193239*i. It's distance: 2741342714.061163
+691: It's a complex number: 1203873001 + -1594319871*i. It's distance: 1997790292.698961
+692: It's a polar number: r=-217009950, phi=-1701048040. It's distance: -1701048040.000000
+693: It's a fraction: -212113231/-417785392. It's decimal value: 0.507709
+694: It's a polar number: r=-1580668563, phi=-1766766290. It's distance: -1766766290.000000
+695: It's a complex number: -582958921 + 696494100*i. It's distance: 908264903.488126
+696: It's a fraction: -1963496741/1965919405. It's decimal value: -0.998768
+697: It's a fraction: 111262070/-2069255423. It's decimal value: -0.053769
+698: It's a fraction: 563362607/-260610005. It's decimal value: -2.161708
+699: It's a complex number: -1710088516 + 2108457049*i. It's distance: 2714773261.256430
+700: It's a complex number: -649170492 + -1216950365*i. It's distance: 1379271734.850372
+701: It's a polar number: r=-1877633993, phi=-1200421266. It's distance: -1200421266.000000
+702: It's a complex number: 427213072 + -893200937*i. It's distance: 990110560.869520
+703: It's a complex number: -1469767777 + -883619027*i. It's distance: 1714934372.850445
+704: It's a complex number: -814526714 + 700961866*i. It's distance: 1074616817.942954
+705: It's a complex number: 1212346446 + -1933353287*i. It's distance: 2282025161.448167
+706: It's a complex number: 575529087 + 849920146*i. It's distance: 1026449211.875441
+707: It's a polar number: r=-885438228, phi=-1313353164. It's distance: -1313353164.000000
+708: It's a complex number: -372628611 + -551645981*i. It's distance: 665706669.704639
+709: It's a polar number: r=1571415231, phi=-283753229. It's distance: -283753229.000000
+710: It's a complex number: -137489228 + 1153457710*i. It's distance: 1161622992.443969
+711: It's a fraction: -1434597983/1874571838. It's decimal value: -0.765294
+712: It's a fraction: 2058790511/1062857892. It's decimal value: 1.937033
+713: It's a fraction: 1746800484/567562423. It's decimal value: 3.077724
+714: It's a fraction: -763707555/1869360949. It's decimal value: -0.408539
+715: It's a fraction: 682382197/-1661009861. It's decimal value: -0.410824
+716: It's a fraction: -1819908818/-1614627891. It's decimal value: 1.127138
+717: It's a complex number: -967735303 + -2049768622*i. It's distance: 2266729586.961859
+718: It's a polar number: r=-436826165, phi=1933835550. It's distance: 1933835550.000000
+719: It's a complex number: -1874906193 + 559389325*i. It's distance: 1956576001.456041
+720: It's a polar number: r=-633124828, phi=899960263. It's distance: 899960263.000000
+721: It's a complex number: 1134595262 + 699150244*i. It's distance: 1332710573.319694
+722: It's a fraction: -225567697/-1473006746. It's decimal value: 0.153134
+723: It's a fraction: -2095875778/759327593. It's decimal value: -2.760173
+724: It's a complex number: -1775790254 + -1684591062*i. It's distance: 2447708739.284900
+725: It's a complex number: -283608388 + 2000715962*i. It's distance: 2020717218.797708
+726: It's a complex number: -1741601628 + -1810014244*i. It's distance: 2511837533.387688
+727: It's a fraction: 1052679879/-996656655. It's decimal value: -1.056211
+728: It's a fraction: -910861957/-1961647891. It's decimal value: 0.464335
+729: It's a complex number: 1056893792 + -1596978438*i. It's distance: 1915036453.701354
+730: It's a complex number: -1351090917 + -292890618*i. It's distance: 1382472994.351905
+731: It's a complex number: -239530406 + 623631019*i. It's distance: 668049746.094932
+732: It's a complex number: -708299936 + 205286807*i. It's distance: 737449301.624091
+733: It's a polar number: r=-1332639193, phi=-1810222678. It's distance: -1810222678.000000
+734: It's a fraction: -669812515/-1621216413. It's decimal value: 0.413154
+735: It's a fraction: 837962268/344951977. It's decimal value: 2.429214
+736: It's a polar number: r=936905274, phi=-399808631. It's distance: -399808631.000000
+737: It's a polar number: r=-1228897623, phi=-1480078337. It's distance: -1480078337.000000
+738: It's a polar number: r=2003060691, phi=1460439669. It's distance: 1460439669.000000
+739: It's a fraction: -855586414/-434513724. It's decimal value: 1.969066
+740: It's a complex number: -1138054745 + 1721030086*i. It's distance: 2063277286.147982
+741: It's a polar number: r=1070372074, phi=155747359. It's distance: 155747359.000000
+742: It's a polar number: r=164570675, phi=924773697. It's distance: 924773697.000000
+743: It's a fraction: -1234996287/266990143. It's decimal value: -4.625625
+744: It's a complex number: 729966063 + -1639330468*i. It's distance: 1794506850.487013
+745: It's a fraction: -463251184/-1879430011. It's decimal value: 0.246485
+746: It's a polar number: r=1845620793, phi=-1663791150. It's distance: -1663791150.000000
+747: It's a complex number: 1056281404 + -1641882083*i. It's distance: 1952308166.994297
+748: It's a complex number: 1982759819 + 2116025405*i. It's distance: 2899810341.116523
+749: It's a complex number: -698791212 + -1130907673*i. It's distance: 1329383813.207722
+750: It's a fraction: -1067111882/-858503452. It's decimal value: 1.242991
+751: It's a fraction: 1350740562/1041234329. It's decimal value: 1.297249
+752: It's a polar number: r=-476126854, phi=16212659. It's distance: 16212659.000000
+753: It's a complex number: 1522875018 + 1532431681*i. It's distance: 2160438653.926786
+754: It's a polar number: r=-670168421, phi=1114602105. It's distance: 1114602105.000000
+755: It's a complex number: -1288113189 + -1874158461*i. It's distance: 2274138413.688498
+756: It's a fraction: -534504967/1814856023. It's decimal value: -0.294516
+757: It's a fraction: 916317818/-2000325234. It's decimal value: -0.458084
+758: It's a complex number: 1520845590 + -1321119914*i. It's distance: 2014529507.301845
+759: It's a complex number: -1132568300 + -195238676*i. It's distance: 1149273289.853690
+760: It's a polar number: r=19066774, phi=1624370774. It's distance: 1624370774.000000
+761: It's a complex number: -732042952 + -780001641*i. It's distance: 1069714655.193415
+762: It's a complex number: 321742935 + 1799187493*i. It's distance: 1827729233.554587
+763: It's a fraction: 1476078713/-270259559. It's decimal value: -5.461708
+764: It's a polar number: r=1264426777, phi=1492954628. It's distance: 1492954628.000000
+765: It's a complex number: 1923769703 + 328912907*i. It's distance: 1951684803.079611
+766: It's a polar number: r=561005368, phi=1005173646. It's distance: 1005173646.000000
+767: It's a complex number: -402823448 + 578274024*i. It's distance: 704746462.986343
+768: It's a complex number: -1464046264 + 1652231027*i. It's distance: 2207554943.758780
+769: It's a fraction: 1603499797/-1758044037. It's decimal value: -0.912093
+770: It's a complex number: -2067780409 + 1453534444*i. It's distance: 2527543906.589675
+771: It's a fraction: 972004333/-1436627109. It's decimal value: -0.676588
+772: It's a polar number: r=-648127323, phi=-877141373. It's distance: -877141373.000000
+773: It's a complex number: 1884133272 + -647707956*i. It's distance: 1992356339.343724
+774: It's a polar number: r=-1768161626, phi=-1997316669. It's distance: -1997316669.000000
+775: It's a polar number: r=-1246863817, phi=-1978869193. It's distance: -1978869193.000000
+776: It's a fraction: -234063385/790878478. It's decimal value: -0.295954
+777: It's a fraction: -1580937779/1307759250. It's decimal value: -1.208891
+778: It's a fraction: -1854818840/260804247. It's decimal value: -7.111920
+779: It's a complex number: -1962564243 + -683824334*i. It's distance: 2078286344.003806
+780: It's a complex number: -431798826 + 1858192904*i. It's distance: 1907703093.935461
+781: It's a fraction: 1791364503/1829207117. It's decimal value: 0.979312
+782: It's a fraction: -1978030536/1774630286. It's decimal value: -1.114616
+783: It's a complex number: 1694360072 + -806315919*i. It's distance: 1876433162.897272
+784: It's a complex number: -1902038092 + -430540102*i. It's distance: 1950157348.228386
+785: It's a fraction: 273765878/1097124531. It's decimal value: 0.249530
+786: It's a complex number: -97753933 + -70910209*i. It's distance: 120764602.253277
+787: It's a complex number: -1104718950 + -1681075091*i. It's distance: 2011570883.680155
+788: It's a fraction: 1392083186/-1474438085. It's decimal value: -0.944145
+789: It's a fraction: -1930094164/1020404821. It's decimal value: -1.891498
+790: It's a fraction: -835953524/134318229. It's decimal value: -6.223679
+791: It's a fraction: 1838721380/-661575694. It's decimal value: -2.779306
+792: It's a complex number: -194813857 + -2071420762*i. It's distance: 2080561561.724112
+793: It's a complex number: -1182714748 + -1547859118*i. It's distance: 1947994359.414945
+794: It's a polar number: r=2018966378, phi=1991649509. It's distance: 1991649509.000000
+795: It's a polar number: r=-61756242, phi=-422548059. It's distance: -422548059.000000
+796: It's a polar number: r=456138433, phi=1519454033. It's distance: 1519454033.000000
+797: It's a fraction: -796709581/533931972. It's decimal value: -1.492156
+798: It's a fraction: 967879046/334830708. It's decimal value: 2.890652
+799: It's a complex number: 1071842625 + -1202451059*i. It's distance: 1610818165.423122
+800: It's a complex number: -29987059 + 1070920649*i. It's distance: 1071340403.495570
+801: It's a fraction: -1022897890/953260245. It's decimal value: -1.073052
+802: It's a fraction: 494434545/273393317. It's decimal value: 1.808510
+803: It's a fraction: -615785174/-672147218. It's decimal value: 0.916146
+804: It's a complex number: 1115571009 + 867182746*i. It's distance: 1412977208.266778
+805: It's a complex number: 667367180 + -833911263*i. It's distance: 1068076283.558158
+806: It's a polar number: r=1473652209, phi=-1440588439. It's distance: -1440588439.000000
+807: It's a fraction: -1233045929/431913838. It's decimal value: -2.854842
+808: It's a fraction: 1321997905/-489888979. It's decimal value: -2.698566
+809: It's a fraction: 116259928/-945822250. It's decimal value: -0.122919
+810: It's a polar number: r=-1744611029, phi=1570247324. It's distance: 1570247324.000000
+811: It's a fraction: -712752841/943022259. It's decimal value: -0.755818
+812: It's a polar number: r=1920974029, phi=345295523. It's distance: 345295523.000000
+813: It's a complex number: -662824319 + 665320518*i. It's distance: 939141879.339646
+814: It's a polar number: r=-122013947, phi=629639002. It's distance: 629639002.000000
+815: It's a complex number: 2107148507 + 1098918495*i. It's distance: 2376488310.344781
+816: It's a fraction: 517516520/-418502335. It's decimal value: -1.236592
+817: It's a fraction: 1834628899/1735701802. It's decimal value: 1.056995
+818: It's a polar number: r=-1594054848, phi=-1572172855. It's distance: -1572172855.000000
+819: It's a complex number: -167697639 + 323549311*i. It's distance: 364426473.756709
+820: It's a fraction: -1085489930/2088055549. It's decimal value: -0.519857
+821: It's a fraction: 404922992/-626798977. It's decimal value: -0.646017
+822: It's a complex number: 518727174 + 938509955*i. It's distance: 1072324025.973553
+823: It's a complex number: 1975604748 + -1938351439*i. It's distance: 2767710321.076524
+824: It's a fraction: 129333370/511921422. It's decimal value: 0.252643
+825: It's a fraction: -260314335/1848060857. It's decimal value: -0.140858
+826: It's a polar number: r=-119048318, phi=-350606414. It's distance: -350606414.000000
+827: It's a complex number: 1770649986 + -1992828954*i. It's distance: 2665814812.177045
+828: It's a complex number: 1297184954 + 411296354*i. It's distance: 1360828238.866932
+829: It's a complex number: 512463788 + -895090068*i. It's distance: 1031409406.513026
+830: It's a complex number: 1992674003 + 1331986124*i. It's distance: 2396859761.596533
+831: It's a complex number: 511663174 + -2056197862*i. It's distance: 2118902747.018165
+832: It's a complex number: -742177024 + -1707153593*i. It's distance: 1861504801.241809
+833: It's a complex number: 335284933 + -754026839*i. It's distance: 825210555.088304
+834: It's a polar number: r=-1200371390, phi=262736623. It's distance: 262736623.000000
+835: It's a polar number: r=-1614149413, phi=1615416203. It's distance: 1615416203.000000
+836: It's a fraction: -1984972311/-2103615499. It's decimal value: 0.943600
+837: It's a complex number: -2073450549 + 1412656202*i. It's distance: 2508942949.570091
+838: It's a fraction: 1277980043/199916770. It's decimal value: 6.392560
+839: It's a complex number: -329033910 + -620313029*i. It's distance: 702176308.256725
+840: It's a fraction: -359090230/329736023. It's decimal value: -1.089023
+841: It's a complex number: 1642302732 + 634862498*i. It's distance: 1760740939.179147
+842: It's a polar number: r=-1980674699, phi=1323873823. It's distance: 1323873823.000000
+Container was sorted by straight merge sort
+Container contains 843 elements.
+0: It's a polar number: r=-598984369, phi=-2125923618. It's distance: -2125923618.000000
+1: It's a polar number: r=-1754197095, phi=-2125911330. It's distance: -2125911330.000000
+2: It's a polar number: r=1993536108, phi=-2084089240. It's distance: -2084089240.000000
+3: It's a polar number: r=-424499480, phi=-2072398349. It's distance: -2072398349.000000
+4: It's a polar number: r=-26656827, phi=-2064489081. It's distance: -2064489081.000000
+5: It's a polar number: r=-1252548684, phi=-2062844905. It's distance: -2062844905.000000
+6: It's a polar number: r=-1082593813, phi=-2042365278. It's distance: -2042365278.000000
+7: It's a polar number: r=816184920, phi=-2041964627. It's distance: -2041964627.000000
+8: It's a polar number: r=-1768161626, phi=-1997316669. It's distance: -1997316669.000000
+9: It's a polar number: r=-1246863817, phi=-1978869193. It's distance: -1978869193.000000
+10: It's a polar number: r=101580656, phi=-1948303940. It's distance: -1948303940.000000
+11: It's a polar number: r=-280057102, phi=-1941977359. It's distance: -1941977359.000000
+12: It's a polar number: r=154861406, phi=-1940057061. It's distance: -1940057061.000000
+13: It's a polar number: r=1508946583, phi=-1906279363. It's distance: -1906279363.000000
+14: It's a polar number: r=-1996459500, phi=-1896066605. It's distance: -1896066605.000000
+15: It's a polar number: r=2067809553, phi=-1878459710. It's distance: -1878459710.000000
+16: It's a polar number: r=54009114, phi=-1827805155. It's distance: -1827805155.000000
+17: It's a polar number: r=-1332639193, phi=-1810222678. It's distance: -1810222678.000000
+18: It's a polar number: r=758446680, phi=-1773428887. It's distance: -1773428887.000000
+19: It's a polar number: r=942230826, phi=-1772423960. It's distance: -1772423960.000000
+20: It's a polar number: r=-1580668563, phi=-1766766290. It's distance: -1766766290.000000
+21: It's a polar number: r=1023619267, phi=-1756731290. It's distance: -1756731290.000000
+22: It's a polar number: r=1772757419, phi=-1755883577. It's distance: -1755883577.000000
+23: It's a polar number: r=1949570321, phi=-1750670064. It's distance: -1750670064.000000
+24: It's a polar number: r=-1079770315, phi=-1749794968. It's distance: -1749794968.000000
+25: It's a polar number: r=-81810740, phi=-1744067231. It's distance: -1744067231.000000
+26: It's a polar number: r=1538226702, phi=-1709561730. It's distance: -1709561730.000000
+27: It's a polar number: r=-217009950, phi=-1701048040. It's distance: -1701048040.000000
+28: It's a polar number: r=1379828832, phi=-1688466127. It's distance: -1688466127.000000
+29: It's a polar number: r=-656278678, phi=-1678347019. It's distance: -1678347019.000000
+30: It's a polar number: r=1845620793, phi=-1663791150. It's distance: -1663791150.000000
+31: It's a polar number: r=2054457328, phi=-1658371687. It's distance: -1658371687.000000
+32: It's a polar number: r=1930383843, phi=-1644352813. It's distance: -1644352813.000000
+33: It's a polar number: r=1512630159, phi=-1644011727. It's distance: -1644011727.000000
+34: It's a polar number: r=-1594054848, phi=-1572172855. It's distance: -1572172855.000000
+35: It's a polar number: r=-2059884604, phi=-1568104795. It's distance: -1568104795.000000
+36: It's a polar number: r=-482340016, phi=-1497841674. It's distance: -1497841674.000000
+37: It's a polar number: r=-295976256, phi=-1497377478. It's distance: -1497377478.000000
+38: It's a polar number: r=1196754802, phi=-1494560036. It's distance: -1494560036.000000
+39: It's a polar number: r=-1228897623, phi=-1480078337. It's distance: -1480078337.000000
+40: It's a polar number: r=-1449700582, phi=-1470017568. It's distance: -1470017568.000000
+41: It's a polar number: r=1473652209, phi=-1440588439. It's distance: -1440588439.000000
+42: It's a polar number: r=-1606357857, phi=-1430529339. It's distance: -1430529339.000000
+43: It's a polar number: r=733441603, phi=-1423345774. It's distance: -1423345774.000000
+44: It's a polar number: r=469239706, phi=-1407442989. It's distance: -1407442989.000000
+45: It's a polar number: r=3948484, phi=-1405334163. It's distance: -1405334163.000000
+46: It's a polar number: r=-1121865176, phi=-1343364148. It's distance: -1343364148.000000
+47: It's a polar number: r=908330851, phi=-1338668018. It's distance: -1338668018.000000
+48: It's a polar number: r=-608723375, phi=-1323489199. It's distance: -1323489199.000000
+49: It's a polar number: r=-1953590423, phi=-1314059073. It's distance: -1314059073.000000
+50: It's a polar number: r=-885438228, phi=-1313353164. It's distance: -1313353164.000000
+51: It's a polar number: r=2062054820, phi=-1284698799. It's distance: -1284698799.000000
+52: It's a polar number: r=-1998960868, phi=-1283477891. It's distance: -1283477891.000000
+53: It's a polar number: r=1858765608, phi=-1254140841. It's distance: -1254140841.000000
+54: It's a polar number: r=-969289618, phi=-1248884642. It's distance: -1248884642.000000
+55: It's a polar number: r=1583167606, phi=-1230461822. It's distance: -1230461822.000000
+56: It's a polar number: r=940740841, phi=-1229519264. It's distance: -1229519264.000000
+57: It's a polar number: r=-1877633993, phi=-1200421266. It's distance: -1200421266.000000
+58: It's a polar number: r=91329577, phi=-1192409549. It's distance: -1192409549.000000
+59: It's a polar number: r=993131537, phi=-1189154892. It's distance: -1189154892.000000
+60: It's a polar number: r=1129716649, phi=-1186686404. It's distance: -1186686404.000000
+61: It's a polar number: r=-1632392774, phi=-1167004571. It's distance: -1167004571.000000
+62: It's a polar number: r=523060609, phi=-1147724171. It's distance: -1147724171.000000
+63: It's a polar number: r=-1325619526, phi=-1133088662. It's distance: -1133088662.000000
+64: It's a polar number: r=1208414572, phi=-1130782375. It's distance: -1130782375.000000
+65: It's a polar number: r=-843326210, phi=-1113399196. It's distance: -1113399196.000000
+66: It's a polar number: r=301059789, phi=-1069716677. It's distance: -1069716677.000000
+67: It's a polar number: r=-734458403, phi=-1026149999. It's distance: -1026149999.000000
+68: It's a polar number: r=1739313894, phi=-1023020226. It's distance: -1023020226.000000
+69: It's a polar number: r=1622490478, phi=-1005895547. It's distance: -1005895547.000000
+70: It's a polar number: r=-1334803592, phi=-964426775. It's distance: -964426775.000000
+71: It's a polar number: r=1190905717, phi=-941818310. It's distance: -941818310.000000
+72: It's a polar number: r=-1884736149, phi=-924368248. It's distance: -924368248.000000
+73: It's a polar number: r=43916539, phi=-922969978. It's distance: -922969978.000000
+74: It's a polar number: r=-1599693970, phi=-881734693. It's distance: -881734693.000000
+75: It's a polar number: r=-648127323, phi=-877141373. It's distance: -877141373.000000
+76: It's a polar number: r=-1829488835, phi=-873649204. It's distance: -873649204.000000
+77: It's a polar number: r=1999346077, phi=-829527571. It's distance: -829527571.000000
+78: It's a polar number: r=-1302860718, phi=-813699040. It's distance: -813699040.000000
+79: It's a polar number: r=574498271, phi=-812784056. It's distance: -812784056.000000
+80: It's a polar number: r=1235724480, phi=-703952208. It's distance: -703952208.000000
+81: It's a polar number: r=-1912040679, phi=-694868030. It's distance: -694868030.000000
+82: It's a polar number: r=761443536, phi=-679453075. It's distance: -679453075.000000
+83: It's a polar number: r=543065047, phi=-669744968. It's distance: -669744968.000000
+84: It's a polar number: r=1768473860, phi=-650328168. It's distance: -650328168.000000
+85: It's a polar number: r=682409166, phi=-649688710. It's distance: -649688710.000000
+86: It's a polar number: r=-2140005254, phi=-634714145. It's distance: -634714145.000000
+87: It's a polar number: r=-254641808, phi=-630061244. It's distance: -630061244.000000
+88: It's a polar number: r=-1004231371, phi=-628763748. It's distance: -628763748.000000
+89: It's a polar number: r=234913036, phi=-617713977. It's distance: -617713977.000000
+90: It's a polar number: r=-1009989727, phi=-612176125. It's distance: -612176125.000000
+91: It's a polar number: r=1387225383, phi=-606715187. It's distance: -606715187.000000
+92: It's a polar number: r=820083245, phi=-601823846. It's distance: -601823846.000000
+93: It's a polar number: r=1653460525, phi=-594187524. It's distance: -594187524.000000
+94: It's a polar number: r=-1334547117, phi=-589592748. It's distance: -589592748.000000
+95: It's a polar number: r=801376096, phi=-563192402. It's distance: -563192402.000000
+96: It's a polar number: r=-759258505, phi=-552107500. It's distance: -552107500.000000
+97: It's a polar number: r=-117149013, phi=-541694382. It's distance: -541694382.000000
+98: It's a polar number: r=-382495954, phi=-533361869. It's distance: -533361869.000000
+99: It's a polar number: r=-1639772863, phi=-531484536. It's distance: -531484536.000000
+100: It's a polar number: r=109054545, phi=-528793787. It's distance: -528793787.000000
+101: It's a polar number: r=1869114625, phi=-516245691. It's distance: -516245691.000000
+102: It's a polar number: r=1515349323, phi=-497110887. It's distance: -497110887.000000
+103: It's a polar number: r=-2056899569, phi=-485779542. It's distance: -485779542.000000
+104: It's a polar number: r=-61756242, phi=-422548059. It's distance: -422548059.000000
+105: It's a polar number: r=936905274, phi=-399808631. It's distance: -399808631.000000
+106: It's a polar number: r=375751199, phi=-398715753. It's distance: -398715753.000000
+107: It's a polar number: r=1868353873, phi=-372147205. It's distance: -372147205.000000
+108: It's a polar number: r=-119048318, phi=-350606414. It's distance: -350606414.000000
+109: It's a polar number: r=-1073147640, phi=-336841866. It's distance: -336841866.000000
+110: It's a polar number: r=152996013, phi=-320951780. It's distance: -320951780.000000
+111: It's a polar number: r=254234482, phi=-293324709. It's distance: -293324709.000000
+112: It's a polar number: r=-225598976, phi=-289970160. It's distance: -289970160.000000
+113: It's a polar number: r=1571415231, phi=-283753229. It's distance: -283753229.000000
+114: It's a polar number: r=1965270766, phi=-278271335. It's distance: -278271335.000000
+115: It's a polar number: r=1833019603, phi=-265032878. It's distance: -265032878.000000
+116: It's a polar number: r=-1615254761, phi=-250792718. It's distance: -250792718.000000
+117: It's a polar number: r=881006294, phi=-218400872. It's distance: -218400872.000000
+118: It's a polar number: r=-1402104944, phi=-191035951. It's distance: -191035951.000000
+119: It's a polar number: r=1878531175, phi=-132156860. It's distance: -132156860.000000
+120: It's a polar number: r=-1917112347, phi=-106354656. It's distance: -106354656.000000
+121: It's a polar number: r=729801363, phi=-73864738. It's distance: -73864738.000000
+122: It's a polar number: r=1831511182, phi=-60317608. It's distance: -60317608.000000
+123: It's a polar number: r=848993233, phi=-31210199. It's distance: -31210199.000000
+124: It's a polar number: r=-302885638, phi=-17880754. It's distance: -17880754.000000
+125: It's a polar number: r=1670010797, phi=-6936917. It's distance: -6936917.000000
+126: It's a polar number: r=1524564706, phi=-3193994. It's distance: -3193994.000000
+127: It's a fraction: 2007497671/-54453265. It's decimal value: -36.866433
+128: It's a fraction: 494499102/-17457021. It's decimal value: -28.326660
+129: It's a fraction: -1470224343/66367840. It's decimal value: -22.152662
+130: It's a fraction: 1638265665/-89515925. It's decimal value: -18.301388
+131: It's a fraction: 688887650/-71981124. It's decimal value: -9.570393
+132: It's a fraction: -2119281233/224748068. It's decimal value: -9.429586
+133: It's a fraction: 1702016748/-185238985. It's decimal value: -9.188221
+134: It's a fraction: 1397060386/-154134196. It's decimal value: -9.063922
+135: It's a fraction: 471887405/-65258700. It's decimal value: -7.231027
+136: It's a fraction: -1854818840/260804247. It's decimal value: -7.111920
+137: It's a fraction: -835953524/134318229. It's decimal value: -6.223679
+138: It's a fraction: 1476078713/-270259559. It's decimal value: -5.461708
+139: It's a fraction: 2091505279/-387546661. It's decimal value: -5.396783
+140: It's a fraction: -1234996287/266990143. It's decimal value: -4.625625
+141: It's a fraction: 866138545/-205535238. It's decimal value: -4.214064
+142: It's a fraction: 1158391929/-280504710. It's decimal value: -4.129670
+143: It's a fraction: 1137698256/-317361252. It's decimal value: -3.584868
+144: It's a fraction: 1204417444/-352464205. It's decimal value: -3.417134
+145: It's a fraction: -1504628375/463175839. It's decimal value: -3.248504
+146: It's a fraction: -894081059/283245462. It's decimal value: -3.156559
+147: It's a fraction: -1233045929/431913838. It's decimal value: -2.854842
+148: It's a fraction: -990426172/352708715. It's decimal value: -2.808057
+149: It's a fraction: 1947212377/-700130456. It's decimal value: -2.781214
+150: It's a fraction: 1838721380/-661575694. It's decimal value: -2.779306
+151: It's a fraction: -2095875778/759327593. It's decimal value: -2.760173
+152: It's a fraction: 1321997905/-489888979. It's decimal value: -2.698566
+153: It's a fraction: -832463057/313493833. It's decimal value: -2.655437
+154: It's a fraction: 1825086693/-687337872. It's decimal value: -2.655298
+155: It's a fraction: -1492138948/565364990. It's decimal value: -2.639249
+156: It's a fraction: -419302210/170828245. It's decimal value: -2.454525
+157: It's a fraction: 1636344268/-726393155. It's decimal value: -2.252698
+158: It's a fraction: -1310589916/583837965. It's decimal value: -2.244784
+159: It's a fraction: 563362607/-260610005. It's decimal value: -2.161708
+160: It's a fraction: 1688758262/-794639382. It's decimal value: -2.125188
+161: It's a fraction: 1629311112/-778699129. It's decimal value: -2.092350
+162: It's a fraction: 2112012249/-1041830848. It's decimal value: -2.027212
+163: It's a fraction: -1551181570/765398677. It's decimal value: -2.026632
+164: It's a fraction: -1392574770/721208546. It's decimal value: -1.930891
+165: It's a fraction: -714362793/370952101. It's decimal value: -1.925755
+166: It's a fraction: 1883047298/-988105095. It's decimal value: -1.905716
+167: It's a fraction: 1658927317/-874949937. It's decimal value: -1.896025
+168: It's a fraction: -1930094164/1020404821. It's decimal value: -1.891498
+169: It's a fraction: -1909743760/1156899613. It's decimal value: -1.650743
+170: It's a fraction: 2000573444/-1274724259. It's decimal value: -1.569417
+171: It's a fraction: -1308996547/837447148. It's decimal value: -1.563080
+172: It's a fraction: 1112196749/-729463365. It's decimal value: -1.524678
+173: It's a fraction: -2068069194/1366121229. It's decimal value: -1.513826
+174: It's a fraction: -796709581/533931972. It's decimal value: -1.492156
+175: It's a fraction: -1082715977/797710547. It's decimal value: -1.357279
+176: It's a fraction: -1923957554/1440731970. It's decimal value: -1.335403
+177: It's a fraction: -1562561783/1192682380. It's decimal value: -1.310124
+178: It's a fraction: -1180972394/914470085. It's decimal value: -1.291428
+179: It's a fraction: -1913989487/1487447001. It's decimal value: -1.286761
+180: It's a fraction: -947482333/748376641. It's decimal value: -1.266050
+181: It's a fraction: 2065236371/-1664219628. It's decimal value: -1.240964
+182: It's a fraction: 517516520/-418502335. It's decimal value: -1.236592
+183: It's a fraction: -1580937779/1307759250. It's decimal value: -1.208891
+184: It's a fraction: -1145557555/959862910. It's decimal value: -1.193460
+185: It's a fraction: 1100325104/-930079885. It's decimal value: -1.183044
+186: It's a fraction: 732354624/-640553539. It's decimal value: -1.143315
+187: It's a fraction: -1607306923/1422318537. It's decimal value: -1.130061
+188: It's a fraction: 1360381876/-1207222326. It's decimal value: -1.126869
+189: It's a fraction: -1978030536/1774630286. It's decimal value: -1.114616
+190: It's a fraction: -437531406/395946572. It's decimal value: -1.105026
+191: It's a fraction: 1891805979/-1720037739. It's decimal value: -1.099863
+192: It's a fraction: -1605943226/1469810938. It's decimal value: -1.092619
+193: It's a fraction: -359090230/329736023. It's decimal value: -1.089023
+194: It's a fraction: -1022897890/953260245. It's decimal value: -1.073052
+195: It's a fraction: 860971690/-810404868. It's decimal value: -1.062397
+196: It's a fraction: -1546932756/1460960225. It's decimal value: -1.058847
+197: It's a fraction: 1052679879/-996656655. It's decimal value: -1.056211
+198: It's a fraction: -1695093974/1638068297. It's decimal value: -1.034813
+199: It's a fraction: 2128196501/-2069923684. It's decimal value: -1.028152
+200: It's a fraction: 704750143/-699140252. It's decimal value: -1.008024
+201: It's a fraction: -1963496741/1965919405. It's decimal value: -0.998768
+202: It's a fraction: -1558228913/1569272692. It's decimal value: -0.992962
+203: It's a fraction: 1727447524/-1762422366. It's decimal value: -0.980155
+204: It's a fraction: -969555647/1005271589. It's decimal value: -0.964471
+205: It's a fraction: 525391403/-548832687. It's decimal value: -0.957289
+206: It's a fraction: 1392083186/-1474438085. It's decimal value: -0.944145
+207: It's a fraction: 1631320085/-1751906667. It's decimal value: -0.931168
+208: It's a fraction: 1603499797/-1758044037. It's decimal value: -0.912093
+209: It's a fraction: 1558281088/-1727619492. It's decimal value: -0.901982
+210: It's a fraction: 1042018749/-1164151535. It's decimal value: -0.895089
+211: It's a fraction: 28094210/-31970901. It's decimal value: -0.878743
+212: It's a fraction: 124460128/-144984068. It's decimal value: -0.858440
+213: It's a fraction: 1766003247/-2068256247. It's decimal value: -0.853861
+214: It's a fraction: -1179571858/1477683205. It's decimal value: -0.798258
+215: It's a fraction: 339884927/-434728036. It's decimal value: -0.781833
+216: It's a fraction: -1434597983/1874571838. It's decimal value: -0.765294
+217: It's a fraction: -712752841/943022259. It's decimal value: -0.755818
+218: It's a fraction: 915057408/-1240211364. It's decimal value: -0.737824
+219: It's a fraction: -1179419931/1626561273. It's decimal value: -0.725100
+220: It's a fraction: 1256045709/-1764804233. It's decimal value: -0.711720
+221: It's a fraction: -892582185/1318581230. It's decimal value: -0.676926
+222: It's a fraction: 972004333/-1436627109. It's decimal value: -0.676588
+223: It's a fraction: 404922992/-626798977. It's decimal value: -0.646017
+224: It's a fraction: 1279927157/-2044028333. It's decimal value: -0.626179
+225: It's a fraction: 897014334/-1539366227. It's decimal value: -0.582717
+226: It's a fraction: 344512609/-609636808. It's decimal value: -0.565111
+227: It's a fraction: -872870891/1562658064. It's decimal value: -0.558581
+228: It's a fraction: -1047218009/1876041721. It's decimal value: -0.558206
+229: It's a fraction: -825941870/1552227789. It's decimal value: -0.532101
+230: It's a fraction: -1085489930/2088055549. It's decimal value: -0.519857
+231: It's a fraction: -682085789/1317119382. It's decimal value: -0.517862
+232: It's a fraction: -443413639/901970887. It's decimal value: -0.491605
+233: It's a fraction: -516040275/1064613965. It's decimal value: -0.484721
+234: It's a fraction: -204956945/436125265. It's decimal value: -0.469950
+235: It's a fraction: 916317818/-2000325234. It's decimal value: -0.458084
+236: It's a fraction: 682382197/-1661009861. It's decimal value: -0.410824
+237: It's a fraction: -763707555/1869360949. It's decimal value: -0.408539
+238: It's a fraction: 757267762/-1868454851. It's decimal value: -0.405291
+239: It's a fraction: -249496569/662572973. It's decimal value: -0.376557
+240: It's a fraction: -439656798/1271337841. It's decimal value: -0.345822
+241: It's a fraction: -508420915/1520805638. It's decimal value: -0.334310
+242: It's a fraction: -528130739/1663030812. It's decimal value: -0.317571
+243: It's a fraction: -418349715/1372003845. It's decimal value: -0.304919
+244: It's a fraction: -234063385/790878478. It's decimal value: -0.295954
+245: It's a fraction: -534504967/1814856023. It's decimal value: -0.294516
+246: It's a fraction: -247613275/877691602. It's decimal value: -0.282119
+247: It's a fraction: 521640280/-1941561282. It's decimal value: -0.268671
+248: It's a fraction: 123631174/-519690954. It's decimal value: -0.237894
+249: It's a fraction: 365220555/-1585751269. It's decimal value: -0.230314
+250: It's a fraction: 358486939/-1813969050. It's decimal value: -0.197626
+251: It's a fraction: 84257555/-557169740. It's decimal value: -0.151224
+252: It's a fraction: -260314335/1848060857. It's decimal value: -0.140858
+253: It's a fraction: 116259928/-945822250. It's decimal value: -0.122919
+254: It's a fraction: -150244742/1801733120. It's decimal value: -0.083389
+255: It's a fraction: -70728636/1292261983. It's decimal value: -0.054732
+256: It's a fraction: 111262070/-2069255423. It's decimal value: -0.053769
+257: It's a fraction: 36127872/-1458585114. It's decimal value: -0.024769
+258: It's a fraction: -22259333/1834515582. It's decimal value: -0.012134
+259: It's a fraction: 4275629/-448022297. It's decimal value: -0.009543
+260: It's a fraction: 19929206/1640274468. It's decimal value: 0.012150
+261: It's a fraction: 7727505/599265315. It's decimal value: 0.012895
+262: It's a fraction: -54680462/-2089134456. It's decimal value: 0.026174
+263: It's a fraction: 164983484/2011794858. It's decimal value: 0.082008
+264: It's a fraction: 105445238/1266626606. It's decimal value: 0.083249
+265: It's a fraction: -79183974/-659303261. It's decimal value: 0.120103
+266: It's a fraction: 179011633/1326589129. It's decimal value: 0.134941
+267: It's a fraction: -131037280/-920702356. It's decimal value: 0.142323
+268: It's a fraction: -225567697/-1473006746. It's decimal value: 0.153134
+269: It's a fraction: -338717143/-2121572810. It's decimal value: 0.159654
+270: It's a fraction: 383875032/2127026409. It's decimal value: 0.180475
+271: It's a fraction: -204118745/-1096155429. It's decimal value: 0.186213
+272: It's a fraction: -412708198/-2042733978. It's decimal value: 0.202037
+273: It's a fraction: 341977832/1575430072. It's decimal value: 0.217070
+274: It's a fraction: 459232831/2046467270. It's decimal value: 0.224403
+275: It's a fraction: -95611116/-398563359. It's decimal value: 0.239889
+276: It's a fraction: -463251184/-1879430011. It's decimal value: 0.246485
+277: It's a fraction: 273765878/1097124531. It's decimal value: 0.249530
+278: It's a fraction: -466261611/-1853498978. It's decimal value: 0.251558
+279: It's a fraction: 514461889/2040205171. It's decimal value: 0.252162
+280: It's a fraction: 129333370/511921422. It's decimal value: 0.252643
+281: It's a fraction: -543343389/-2133226330. It's decimal value: 0.254705
+282: It's a fraction: 491848645/1926600646. It's decimal value: 0.255294
+283: It's a fraction: -571453591/-1995753412. It's decimal value: 0.286335
+284: It's a fraction: 551533848/1872815074. It's decimal value: 0.294495
+285: It's a fraction: -566053239/-1777002834. It's decimal value: 0.318544
+286: It's a fraction: 524959078/1530175898. It's decimal value: 0.343071
+287: It's a fraction: -746239965/-2137432030. It's decimal value: 0.349129
+288: It's a fraction: 743507429/2088196380. It's decimal value: 0.356052
+289: It's a fraction: 639802786/1770731865. It's decimal value: 0.361321
+290: It's a fraction: -727225027/-1964926366. It's decimal value: 0.370103
+291: It's a fraction: -807730743/-2135043189. It's decimal value: 0.378321
+292: It's a fraction: -408012023/-1069942511. It's decimal value: 0.381340
+293: It's a fraction: -669812515/-1621216413. It's decimal value: 0.413154
+294: It's a fraction: -910861957/-1961647891. It's decimal value: 0.464335
+295: It's a fraction: 844485870/1675942909. It's decimal value: 0.503887
+296: It's a fraction: -1010670674/-2004641552. It's decimal value: 0.504165
+297: It's a fraction: -212113231/-417785392. It's decimal value: 0.507709
+298: It's a fraction: -561471717/-1095768478. It's decimal value: 0.512400
+299: It's a fraction: -1007449181/-1914693229. It's decimal value: 0.526167
+300: It's a fraction: 1098237863/2062681979. It's decimal value: 0.532432
+301: It's a fraction: -479181200/-877288790. It's decimal value: 0.546207
+302: It's a fraction: 911507280/1648529675. It's decimal value: 0.552921
+303: It's a fraction: 696457425/1207873106. It's decimal value: 0.576598
+304: It's a fraction: -1071407133/-1849220610. It's decimal value: 0.579383
+305: It's a fraction: 443111162/760490824. It's decimal value: 0.582665
+306: It's a fraction: 612834362/1011975859. It's decimal value: 0.605582
+307: It's a fraction: -945750365/-1552384037. It's decimal value: 0.609224
+308: It's a fraction: 1211485907/1984513009. It's decimal value: 0.610470
+309: It's a fraction: 977484914/1574722608. It's decimal value: 0.620735
+310: It's a fraction: -991770589/-1596179108. It's decimal value: 0.621340
+311: It's a fraction: -797592391/-1276372748. It's decimal value: 0.624890
+312: It's a fraction: 1281031608/2041985572. It's decimal value: 0.627346
+313: It's a fraction: -512766963/-816170955. It's decimal value: 0.628259
+314: It's a fraction: 1323699823/2106659895. It's decimal value: 0.628341
+315: It's a fraction: -1202515990/-1773331058. It's decimal value: 0.678111
+316: It's a fraction: -1028980633/-1513465662. It's decimal value: 0.679884
+317: It's a fraction: -978280360/-1408360734. It's decimal value: 0.694623
+318: It's a fraction: 1289069496/1754739574. It's decimal value: 0.734622
+319: It's a fraction: -1431192783/-1929043951. It's decimal value: 0.741918
+320: It's a fraction: 1405601049/1851288258. It's decimal value: 0.759256
+321: It's a fraction: 1479973615/1916959580. It's decimal value: 0.772042
+322: It's a fraction: 1104313642/1373141059. It's decimal value: 0.804224
+323: It's a fraction: -1324712264/-1629572086. It's decimal value: 0.812920
+324: It's a fraction: -580048560/-699504137. It's decimal value: 0.829228
+325: It's a fraction: 1470736791/1745980318. It's decimal value: 0.842356
+326: It's a fraction: 1462698928/1733432711. It's decimal value: 0.843816
+327: It's a fraction: -731614612/-857295995. It's decimal value: 0.853398
+328: It's a fraction: -1171974685/-1370636614. It's decimal value: 0.855059
+329: It's a fraction: -1231068342/-1367506223. It's decimal value: 0.900229
+330: It's a fraction: -615785174/-672147218. It's decimal value: 0.916146
+331: It's a fraction: 749943213/799484184. It's decimal value: 0.938034
+332: It's a fraction: -1984972311/-2103615499. It's decimal value: 0.943600
+333: It's a fraction: 1089915924/1145018523. It's decimal value: 0.951876
+334: It's a fraction: 1791364503/1829207117. It's decimal value: 0.979312
+335: It's a fraction: 871528127/887575031. It's decimal value: 0.981921
+336: It's a fraction: 564151854/567646813. It's decimal value: 0.993843
+337: It's a fraction: 191443240/189938925. It's decimal value: 1.007920
+338: It's a fraction: 1605255651/1543439594. It's decimal value: 1.040051
+339: It's a fraction: 1834628899/1735701802. It's decimal value: 1.056995
+340: It's a fraction: -1909896696/-1734537036. It's decimal value: 1.101099
+341: It's a fraction: -1727397543/-1554493205. It's decimal value: 1.111229
+342: It's a fraction: -1819908818/-1614627891. It's decimal value: 1.127138
+343: It's a fraction: 1776530711/1539476974. It's decimal value: 1.153983
+344: It's a fraction: 1059963614/911863998. It's decimal value: 1.162414
+345: It's a fraction: -1468611277/-1217898740. It's decimal value: 1.205857
+346: It's a fraction: -1189970330/-984502433. It's decimal value: 1.208702
+347: It's a fraction: 1981210161/1636156584. It's decimal value: 1.210893
+348: It's a fraction: 1862061981/1530008326. It's decimal value: 1.217027
+349: It's a fraction: 828237505/668021981. It's decimal value: 1.239836
+350: It's a fraction: -1067111882/-858503452. It's decimal value: 1.242991
+351: It's a fraction: -788059930/-629291694. It's decimal value: 1.252297
+352: It's a fraction: 1893513032/1505822991. It's decimal value: 1.257461
+353: It's a fraction: -1939484212/-1537685443. It's decimal value: 1.261301
+354: It's a fraction: 345987263/272979022. It's decimal value: 1.267450
+355: It's a fraction: -2096046405/-1650535241. It's decimal value: 1.269919
+356: It's a fraction: -858463024/-667452692. It's decimal value: 1.286178
+357: It's a fraction: 1350740562/1041234329. It's decimal value: 1.297249
+358: It's a fraction: -251742367/-191387187. It's decimal value: 1.315356
+359: It's a fraction: 1545385769/1156516763. It's decimal value: 1.336242
+360: It's a fraction: 1606090002/1189094875. It's decimal value: 1.350683
+361: It's a fraction: -782381794/-564736111. It's decimal value: 1.385394
+362: It's a fraction: -1698245358/-1163353615. It's decimal value: 1.459784
+363: It's a fraction: -1363099968/-886404865. It's decimal value: 1.537785
+364: It's a fraction: 2127707147/1360515147. It's decimal value: 1.563898
+365: It's a fraction: 1466744282/910966525. It's decimal value: 1.610097
+366: It's a fraction: 1394256500/841989842. It's decimal value: 1.655907
+367: It's a fraction: 494434545/273393317. It's decimal value: 1.808510
+368: It's a fraction: 2058790511/1062857892. It's decimal value: 1.937033
+369: It's a fraction: -855586414/-434513724. It's decimal value: 1.969066
+370: It's a fraction: 2042259018/1031191092. It's decimal value: 1.980486
+371: It's a fraction: 1390938528/698639591. It's decimal value: 1.990924
+372: It's a fraction: 2145819694/1037224923. It's decimal value: 2.068808
+373: It's a fraction: 996180966/469750529. It's decimal value: 2.120660
+374: It's a fraction: -1865503588/-819424953. It's decimal value: 2.276601
+375: It's a fraction: 1993337298/845842315. It's decimal value: 2.356630
+376: It's a fraction: -2112591662/-874043794. It's decimal value: 2.417032
+377: It's a fraction: 837962268/344951977. It's decimal value: 2.429214
+378: It's a fraction: 1291834998/516578308. It's decimal value: 2.500753
+379: It's a fraction: 1625996692/634782787. It's decimal value: 2.561501
+380: It's a fraction: -1998260532/-778627414. It's decimal value: 2.566389
+381: It's a fraction: -183597506/-64416053. It's decimal value: 2.850182
+382: It's a fraction: 967879046/334830708. It's decimal value: 2.890652
+383: It's a fraction: 1746800484/567562423. It's decimal value: 3.077724
+384: It's a fraction: -1938531152/-629200672. It's decimal value: 3.080943
+385: It's a fraction: -1839364662/-494531772. It's decimal value: 3.719406
+386: It's a fraction: 1822835088/465474199. It's decimal value: 3.916082
+387: It's a fraction: -1949887238/-419078993. It's decimal value: 4.652792
+388: It's a fraction: 1277980043/199916770. It's decimal value: 6.392560
+389: It's a fraction: -888471736/-125692063. It's decimal value: 7.068638
+390: It's a fraction: 1057392387/132373047. It's decimal value: 7.987973
+391: It's a fraction: 1209427349/143104279. It's decimal value: 8.451371
+392: It's a fraction: -1047652316/-98163151. It's decimal value: 10.672562
+393: It's a fraction: -1761873646/-163876028. It's decimal value: 10.751259
+394: It's a fraction: 2061413184/153034394. It's decimal value: 13.470261
+395: It's a fraction: 1965712368/139645045. It's decimal value: 14.076492
+396: It's a fraction: 1764393393/38201751. It's decimal value: 46.186192
+397: It's a polar number: r=-476126854, phi=16212659. It's distance: 16212659.000000
+398: It's a polar number: r=490165070, phi=16290263. It's distance: 16290263.000000
+399: It's a polar number: r=-722089840, phi=19789283. It's distance: 19789283.000000
+400: It's a polar number: r=304453196, phi=20468254. It's distance: 20468254.000000
+401: It's a polar number: r=-1018955018, phi=79005280. It's distance: 79005280.000000
+402: It's a complex number: -23666529 + 82133001*i. It's distance: 85474759.129078
+403: It's a polar number: r=-432015859, phi=108860740. It's distance: 108860740.000000
+404: It's a complex number: -97753933 + -70910209*i. It's distance: 120764602.253277
+405: It's a polar number: r=1551273565, phi=124348541. It's distance: 124348541.000000
+406: It's a polar number: r=99354123, phi=143300533. It's distance: 143300533.000000
+407: It's a polar number: r=33000210, phi=146223171. It's distance: 146223171.000000
+408: It's a complex number: 28642959 + -150675628*i. It's distance: 153373935.117640
+409: It's a polar number: r=1070372074, phi=155747359. It's distance: 155747359.000000
+410: It's a complex number: -150561006 + -48622041*i. It's distance: 158217317.000187
+411: It's a polar number: r=-627464384, phi=158358752. It's distance: 158358752.000000
+412: It's a complex number: -63251638 + -150320584*i. It's distance: 163086013.145776
+413: It's a polar number: r=718870665, phi=177538698. It's distance: 177538698.000000
+414: It's a polar number: r=-2033596581, phi=180489325. It's distance: 180489325.000000
+415: It's a polar number: r=1624017792, phi=188323814. It's distance: 188323814.000000
+416: It's a complex number: 133892533 + -145178633*i. It's distance: 197494419.852574
+417: It's a polar number: r=2003250678, phi=211363021. It's distance: 211363021.000000
+418: It's a complex number: -205800847 + -60011763*i. It's distance: 214372107.150827
+419: It's a polar number: r=-1516223224, phi=214719896. It's distance: 214719896.000000
+420: It's a polar number: r=2060705529, phi=216824951. It's distance: 216824951.000000
+421: It's a polar number: r=2034172781, phi=219128585. It's distance: 219128585.000000
+422: It's a polar number: r=-1437421536, phi=223710512. It's distance: 223710512.000000
+423: It's a polar number: r=880427764, phi=232167007. It's distance: 232167007.000000
+424: It's a complex number: 148928712 + -180420998*i. It's distance: 233947638.964994
+425: It's a polar number: r=-1200371390, phi=262736623. It's distance: 262736623.000000
+426: It's a polar number: r=1412126977, phi=269816350. It's distance: 269816350.000000
+427: It's a polar number: r=-1693719883, phi=338877616. It's distance: 338877616.000000
+428: It's a polar number: r=1920974029, phi=345295523. It's distance: 345295523.000000
+429: It's a polar number: r=1545747515, phi=358793884. It's distance: 358793884.000000
+430: It's a complex number: -167697639 + 323549311*i. It's distance: 364426473.756709
+431: It's a polar number: r=-1756856140, phi=375708872. It's distance: 375708872.000000
+432: It's a polar number: r=1438283879, phi=381531237. It's distance: 381531237.000000
+433: It's a complex number: -279727112 + -283638907*i. It's distance: 398369535.421592
+434: It's a complex number: 49632942 + -410664428*i. It's distance: 413652875.435603
+435: It's a complex number: -369978394 + -216316584*i. It's distance: 428575403.564237
+436: It's a complex number: 265242573 + 337900865*i. It's distance: 429570270.269497
+437: It's a polar number: r=-2046344730, phi=454198525. It's distance: 454198525.000000
+438: It's a complex number: 230989260 + -397413766*i. It's distance: 459666987.765763
+439: It's a polar number: r=-1449876604, phi=461731061. It's distance: 461731061.000000
+440: It's a complex number: 456666439 + -105213834*i. It's distance: 468630117.869008
+441: It's a complex number: 496988972 + 84472214*i. It's distance: 504116646.449687
+442: It's a polar number: r=1137926234, phi=505691272. It's distance: 505691272.000000
+443: It's a polar number: r=1937986832, phi=513463982. It's distance: 513463982.000000
+444: It's a polar number: r=-1996416296, phi=519632552. It's distance: 519632552.000000
+445: It's a complex number: -468420004 + 297305171*i. It's distance: 554804168.018499
+446: It's a polar number: r=131050442, phi=557487228. It's distance: 557487228.000000
+447: It's a polar number: r=-1560136298, phi=564642413. It's distance: 564642413.000000
+448: It's a complex number: 188193741 + 537685889*i. It's distance: 569669201.713850
+449: It's a polar number: r=-92347792, phi=578995942. It's distance: 578995942.000000
+450: It's a polar number: r=636164180, phi=586799447. It's distance: 586799447.000000
+451: It's a polar number: r=199232562, phi=589998129. It's distance: 589998129.000000
+452: It's a complex number: -406267439 + -432440402*i. It's distance: 593344700.215263
+453: It's a complex number: -380797734 + -497092769*i. It's distance: 626185384.061000
+454: It's a polar number: r=-122013947, phi=629639002. It's distance: 629639002.000000
+455: It's a complex number: 611805729 + -159573770*i. It's distance: 632273705.059157
+456: It's a polar number: r=-1611863274, phi=652650894. It's distance: 652650894.000000
+457: It's a complex number: -372628611 + -551645981*i. It's distance: 665706669.704639
+458: It's a complex number: -239530406 + 623631019*i. It's distance: 668049746.094932
+459: It's a complex number: -614298016 + -268398896*i. It's distance: 670373045.278191
+460: It's a complex number: 685716508 + -110308439*i. It's distance: 694532275.029988
+461: It's a polar number: r=505681920, phi=699958861. It's distance: 699958861.000000
+462: It's a complex number: -329033910 + -620313029*i. It's distance: 702176308.256725
+463: It's a complex number: -402823448 + 578274024*i. It's distance: 704746462.986343
+464: It's a polar number: r=109642946, phi=716391519. It's distance: 716391519.000000
+465: It's a complex number: 444029342 + -564803468*i. It's distance: 718446249.918378
+466: It's a complex number: -197712687 + 699429154*i. It's distance: 726836603.416418
+467: It's a complex number: -708299936 + 205286807*i. It's distance: 737449301.624091
+468: It's a polar number: r=57012330, phi=739358639. It's distance: 739358639.000000
+469: It's a polar number: r=62401516, phi=753206896. It's distance: 753206896.000000
+470: It's a polar number: r=98508233, phi=756898473. It's distance: 756898473.000000
+471: It's a complex number: 726067462 + 227283105*i. It's distance: 760809811.446700
+472: It's a complex number: 749600135 + -166883138*i. It's distance: 767952045.469472
+473: It's a complex number: 368073487 + -695312246*i. It's distance: 786725626.422518
+474: It's a polar number: r=-569492614, phi=789696830. It's distance: 789696830.000000
+475: It's a complex number: 676924901 + -445756526*i. It's distance: 810509840.819622
+476: It's a complex number: -393436720 + 714430045*i. It's distance: 815599621.041514
+477: It's a polar number: r=1421174341, phi=815776819. It's distance: 815776819.000000
+478: It's a polar number: r=1427945074, phi=815919731. It's distance: 815919731.000000
+479: It's a complex number: -163503360 + 807046492*i. It's distance: 823442401.738455
+480: It's a complex number: 335284933 + -754026839*i. It's distance: 825210555.088304
+481: It's a complex number: 463690463 + 695191175*i. It's distance: 835643234.445798
+482: It's a complex number: 835549289 + -31140104*i. It's distance: 836129368.235285
+483: It's a complex number: -686035895 + 480326871*i. It's distance: 837471881.458179
+484: It's a complex number: -855055784 + 45164372*i. It's distance: 856247752.843772
+485: It's a complex number: 185924778 + 844428680*i. It's distance: 864654739.581581
+486: It's a polar number: r=387254508, phi=867248843. It's distance: 867248843.000000
+487: It's a polar number: r=1308674027, phi=874866765. It's distance: 874866765.000000
+488: It's a complex number: -155587003 + 865081377*i. It's distance: 878961378.181509
+489: It's a complex number: -525029860 + 719106947*i. It's distance: 890376973.598981
+490: It's a polar number: r=-633124828, phi=899960263. It's distance: 899960263.000000
+491: It's a complex number: -508089237 + 744493844*i. It's distance: 901346635.046217
+492: It's a complex number: -582958921 + 696494100*i. It's distance: 908264903.488126
+493: It's a complex number: 179069936 + 893657342*i. It's distance: 911421684.452125
+494: It's a complex number: 764711991 + 509565960*i. It's distance: 918935197.263608
+495: It's a polar number: r=164570675, phi=924773697. It's distance: 924773697.000000
+496: It's a polar number: r=-1924762289, phi=933792642. It's distance: 933792642.000000
+497: It's a complex number: 744957045 + -568104466*i. It's distance: 936858411.492514
+498: It's a complex number: -662824319 + 665320518*i. It's distance: 939141879.339646
+499: It's a polar number: r=1669430492, phi=941378712. It's distance: 941378712.000000
+500: It's a complex number: 338599025 + -879109639*i. It's distance: 942063191.677533
+501: It's a complex number: 579046871 + -747830111*i. It's distance: 945803972.149178
+502: It's a complex number: -429470599 + 847623703*i. It's distance: 950216258.171186
+503: It's a complex number: 455497009 + -856004972*i. It's distance: 969650471.714765
+504: It's a complex number: -577595460 + -790402809*i. It's distance: 978955114.337579
+505: It's a complex number: 427213072 + -893200937*i. It's distance: 990110560.869520
+506: It's a complex number: -792318894 + 606337138*i. It's distance: 997704342.331642
+507: It's a polar number: r=561005368, phi=1005173646. It's distance: 1005173646.000000
+508: It's a polar number: r=-766323215, phi=1014214525. It's distance: 1014214525.000000
+509: It's a complex number: -150899826 + 1014396881*i. It's distance: 1025559257.024848
+510: It's a complex number: -343125425 + -967148634*i. It's distance: 1026212228.308305
+511: It's a complex number: 575529087 + 849920146*i. It's distance: 1026449211.875441
+512: It's a complex number: 690814319 + 760298434*i. It's distance: 1027267312.863739
+513: It's a complex number: 512463788 + -895090068*i. It's distance: 1031409406.513026
+514: It's a polar number: r=-2016668101, phi=1031853734. It's distance: 1031853734.000000
+515: It's a polar number: r=-765427130, phi=1035563755. It's distance: 1035563755.000000
+516: It's a complex number: -1011436890 + -232315931*i. It's distance: 1037774192.321850
+517: It's a polar number: r=754064767, phi=1037960829. It's distance: 1037960829.000000
+518: It's a polar number: r=-2133319222, phi=1047470838. It's distance: 1047470838.000000
+519: It's a complex number: -968740789 + 416115454*i. It's distance: 1054329543.989909
+520: It's a polar number: r=-598792872, phi=1066647185. It's distance: 1066647185.000000
+521: It's a complex number: -686705769 + -816624485*i. It's distance: 1066977208.134924
+522: It's a complex number: 667367180 + -833911263*i. It's distance: 1068076283.558158
+523: It's a complex number: -732042952 + -780001641*i. It's distance: 1069714655.193415
+524: It's a complex number: -29987059 + 1070920649*i. It's distance: 1071340403.495570
+525: It's a complex number: 518727174 + 938509955*i. It's distance: 1072324025.973553
+526: It's a polar number: r=473016398, phi=1072495737. It's distance: 1072495737.000000
+527: It's a complex number: -814526714 + 700961866*i. It's distance: 1074616817.942954
+528: It's a complex number: -910006921 + -572623884*i. It's distance: 1075179384.472724
+529: It's a polar number: r=815242040, phi=1079462761. It's distance: 1079462761.000000
+530: It's a complex number: -1042449410 + -289284411*i. It's distance: 1081843908.730351
+531: It's a polar number: r=616360828, phi=1083979181. It's distance: 1083979181.000000
+532: It's a polar number: r=2141938618, phi=1087866958. It's distance: 1087866958.000000
+533: It's a polar number: r=-504061932, phi=1088913519. It's distance: 1088913519.000000
+534: It's a polar number: r=-141298996, phi=1097828012. It's distance: 1097828012.000000
+535: It's a polar number: r=1358860729, phi=1108143480. It's distance: 1108143480.000000
+536: It's a complex number: -999719959 + 483154957*i. It's distance: 1110350714.367597
+537: It's a complex number: 327241016 + 1061564275*i. It's distance: 1110857953.344615
+538: It's a polar number: r=-1967353525, phi=1113199585. It's distance: 1113199585.000000
+539: It's a polar number: r=-670168421, phi=1114602105. It's distance: 1114602105.000000
+540: It's a polar number: r=1695948939, phi=1115104587. It's distance: 1115104587.000000
+541: It's a polar number: r=234804090, phi=1117067528. It's distance: 1117067528.000000
+542: It's a complex number: -1142054019 + 112639681*i. It's distance: 1147595346.823014
+543: It's a complex number: -1132568300 + -195238676*i. It's distance: 1149273289.853690
+544: It's a polar number: r=-1072139146, phi=1150779011. It's distance: 1150779011.000000
+545: It's a complex number: -780361238 + -847227771*i. It's distance: 1151850058.699708
+546: It's a complex number: -137489228 + 1153457710*i. It's distance: 1161622992.443969
+547: It's a complex number: -477139934 + -1063865666*i. It's distance: 1165964266.995841
+548: It's a polar number: r=1969325577, phi=1174310922. It's distance: 1174310922.000000
+549: It's a complex number: 548863879 + 1042994493*i. It's distance: 1178596228.612350
+550: It's a complex number: -314930101 + -1140059224*i. It's distance: 1182757795.469280
+551: It's a complex number: 785126482 + 892067632*i. It's distance: 1188363687.092375
+552: It's a polar number: r=2029700488, phi=1190775108. It's distance: 1190775108.000000
+553: It's a complex number: 716617041 + -969152778*i. It's distance: 1205320326.949111
+554: It's a polar number: r=228648981, phi=1209044728. It's distance: 1209044728.000000
+555: It's a complex number: -1152630759 + 378540989*i. It's distance: 1213198642.822359
+556: It's a complex number: -943959983 + 771513121*i. It's distance: 1219136147.188049
+557: It's a complex number: -1207779380 + 172125330*i. It's distance: 1219982852.330636
+558: It's a complex number: 1225139716 + 57464823*i. It's distance: 1226486660.996760
+559: It's a complex number: -1101987312 + 541952221*i. It's distance: 1228042444.566074
+560: It's a polar number: r=-1859304189, phi=1235544257. It's distance: 1235544257.000000
+561: It's a polar number: r=-1246709152, phi=1237487953. It's distance: 1237487953.000000
+562: It's a complex number: 814787088 + 936261122*i. It's distance: 1241153853.210882
+563: It's a polar number: r=1077644657, phi=1252527274. It's distance: 1252527274.000000
+564: It's a polar number: r=-2103936892, phi=1257022486. It's distance: 1257022486.000000
+565: It's a polar number: r=1733887932, phi=1258816007. It's distance: 1258816007.000000
+566: It's a complex number: -643484150 + -1083086228*i. It's distance: 1259820474.744116
+567: It's a complex number: -1250380467 + 184883499*i. It's distance: 1263975166.076304
+568: It's a polar number: r=-485601882, phi=1264245565. It's distance: 1264245565.000000
+569: It's a polar number: r=-1548386219, phi=1267341581. It's distance: 1267341581.000000
+570: It's a polar number: r=-1404422426, phi=1268501324. It's distance: 1268501324.000000
+571: It's a complex number: 746007186 + 1037451799*i. It's distance: 1277823523.344274
+572: It's a polar number: r=272682241, phi=1278080798. It's distance: 1278080798.000000
+573: It's a polar number: r=476715889, phi=1278232886. It's distance: 1278232886.000000
+574: It's a complex number: 1207948776 + -423248943*i. It's distance: 1279953090.230464
+575: It's a complex number: 34560953 + 1300817168*i. It's distance: 1301276205.897813
+576: It's a complex number: 955596061 + 885625527*i. It's distance: 1302880042.779359
+577: It's a complex number: -927860111 + 937315102*i. It's distance: 1318894986.730256
+578: It's a complex number: 1238687335 + 462931671*i. It's distance: 1322366078.627342
+579: It's a polar number: r=-1980674699, phi=1323873823. It's distance: 1323873823.000000
+580: It's a polar number: r=-1289977068, phi=1327695459. It's distance: 1327695459.000000
+581: It's a polar number: r=-272136858, phi=1329206300. It's distance: 1329206300.000000
+582: It's a complex number: -698791212 + -1130907673*i. It's distance: 1329383813.207722
+583: It's a complex number: 1134595262 + 699150244*i. It's distance: 1332710573.319694
+584: It's a polar number: r=1072202718, phi=1337248081. It's distance: 1337248081.000000
+585: It's a polar number: r=638294310, phi=1339463788. It's distance: 1339463788.000000
+586: It's a complex number: -1254169385 + -489397329*i. It's distance: 1346272851.952238
+587: It's a polar number: r=-1313076789, phi=1350361880. It's distance: 1350361880.000000
+588: It's a complex number: 417607512 + 1293728927*i. It's distance: 1359459661.275538
+589: It's a complex number: 1297184954 + 411296354*i. It's distance: 1360828238.866932
+590: It's a polar number: r=830787605, phi=1361905999. It's distance: 1361905999.000000
+591: It's a complex number: -649170492 + -1216950365*i. It's distance: 1379271734.850372
+592: It's a complex number: -1351090917 + -292890618*i. It's distance: 1382472994.351905
+593: It's a complex number: 1234013612 + 648882134*i. It's distance: 1394215771.832208
+594: It's a complex number: -1382090885 + 240058678*i. It's distance: 1402784154.203059
+595: It's a complex number: -266695478 + -1379674842*i. It's distance: 1405214982.710252
+596: It's a complex number: -1073639204 + 907169236*i. It's distance: 1405580720.951514
+597: It's a complex number: -316377081 + -1370829771*i. It's distance: 1406864854.363060
+598: It's a complex number: -429576260 + -1344763051*i. It's distance: 1411709398.739846
+599: It's a polar number: r=45092627, phi=1411742635. It's distance: 1411742635.000000
+600: It's a complex number: 1115571009 + 867182746*i. It's distance: 1412977208.266778
+601: It's a polar number: r=-178633126, phi=1413294979. It's distance: 1413294979.000000
+602: It's a polar number: r=-1059016282, phi=1413998599. It's distance: 1413998599.000000
+603: It's a complex number: -1414727143 + -27467690*i. It's distance: 1414993767.878459
+604: It's a polar number: r=-1136433441, phi=1416462253. It's distance: 1416462253.000000
+605: It's a complex number: -1417675190 + 61986782*i. It's distance: 1419029705.638417
+606: It's a complex number: -1425655602 + 21450586*i. It's distance: 1425816966.918870
+607: It's a complex number: 136730642 + 1421770965*i. It's distance: 1428330474.847738
+608: It's a complex number: -1301706795 + 635696382*i. It's distance: 1448637453.000944
+609: It's a polar number: r=942516645, phi=1456532450. It's distance: 1456532450.000000
+610: It's a polar number: r=2003060691, phi=1460439669. It's distance: 1460439669.000000
+611: It's a polar number: r=347892697, phi=1466983524. It's distance: 1466983524.000000
+612: It's a complex number: 1463541648 + -103903373*i. It's distance: 1467225295.021638
+613: It's a complex number: -542520892 + -1387489124*i. It's distance: 1489783537.120330
+614: It's a polar number: r=1264426777, phi=1492954628. It's distance: 1492954628.000000
+615: It's a complex number: 1356766538 + -623142216*i. It's distance: 1493024333.357597
+616: It's a complex number: -1106923788 + 1007516607*i. It's distance: 1496786553.193561
+617: It's a complex number: -86238585 + -1500641874*i. It's distance: 1503117802.284649
+618: It's a complex number: -92828152 + 1510364621*i. It's distance: 1513214576.381092
+619: It's a polar number: r=968746657, phi=1513544546. It's distance: 1513544546.000000
+620: It's a complex number: -129166531 + 1513612860*i. It's distance: 1519114176.975501
+621: It's a polar number: r=456138433, phi=1519454033. It's distance: 1519454033.000000
+622: It's a complex number: -716105236 + -1340744463*i. It's distance: 1520000797.398401
+623: It's a complex number: 1476896539 + -379901384*i. It's distance: 1524974900.932895
+624: It's a complex number: 768646713 + -1325555846*i. It's distance: 1532291117.989816
+625: It's a complex number: 591913755 + -1418967308*i. It's distance: 1537475240.298512
+626: It's a complex number: 294614462 + 1513043550*i. It's distance: 1541459848.784960
+627: It's a complex number: 1496102978 + 420974900*i. It's distance: 1554202041.952873
+628: It's a polar number: r=-1676890215, phi=1560683211. It's distance: 1560683211.000000
+629: It's a complex number: 258282982 + -1541139435*i. It's distance: 1562632668.576634
+630: It's a polar number: r=-1744611029, phi=1570247324. It's distance: 1570247324.000000
+631: It's a complex number: -74606883 + 1574669973*i. It's distance: 1576436396.071467
+632: It's a complex number: 391917961 + 1533608027*i. It's distance: 1582893953.691539
+633: It's a complex number: -119011961 + -1580339256*i. It's distance: 1584814188.135536
+634: It's a complex number: 579375197 + -1477807588*i. It's distance: 1587321922.626020
+635: It's a complex number: -1542267796 + -384618774*i. It's distance: 1589503556.426333
+636: It's a complex number: -763011107 + 1401748405*i. It's distance: 1595958815.360036
+637: It's a complex number: 512772500 + 1518331912*i. It's distance: 1602581489.894921
+638: It's a complex number: 1071842625 + -1202451059*i. It's distance: 1610818165.423122
+639: It's a complex number: 1310401403 + -939346360*i. It's distance: 1612303762.021790
+640: It's a polar number: r=-1421421498, phi=1613203051. It's distance: 1613203051.000000
+641: It's a complex number: 852245619 + 1372145765*i. It's distance: 1615272916.727117
+642: It's a polar number: r=-1614149413, phi=1615416203. It's distance: 1615416203.000000
+643: It's a complex number: 1529617894 + -536286479*i. It's distance: 1620905330.117466
+644: It's a polar number: r=19066774, phi=1624370774. It's distance: 1624370774.000000
+645: It's a complex number: 1502871592 + 619996243*i. It's distance: 1625736252.709747
+646: It's a polar number: r=-1540254521, phi=1627739367. It's distance: 1627739367.000000
+647: It's a polar number: r=1335097875, phi=1628601936. It's distance: 1628601936.000000
+648: It's a complex number: -214442110 + 1614985949*i. It's distance: 1629160837.366490
+649: It's a complex number: -952823199 + 1327853121*i. It's distance: 1634339609.598334
+650: It's a complex number: 1316073041 + 990644640*i. It's distance: 1647247720.292160
+651: It's a complex number: -1486807343 + 711476035*i. It's distance: 1648270069.975804
+652: It's a complex number: 1573049431 + -494607148*i. It's distance: 1648975664.836239
+653: It's a complex number: -1357749990 + -941239758*i. It's distance: 1652094826.995381
+654: It's a complex number: -250026889 + 1638852680*i. It's distance: 1657815294.888487
+655: It's a polar number: r=793175785, phi=1658573447. It's distance: 1658573447.000000
+656: It's a polar number: r=83627444, phi=1663151484. It's distance: 1663151484.000000
+657: It's a complex number: -1560726302 + 584971483*i. It's distance: 1666750798.913207
+658: It's a complex number: -393866219 + 1621348698*i. It's distance: 1668502981.410477
+659: It's a polar number: r=378803566, phi=1671382962. It's distance: 1671382962.000000
+660: It's a polar number: r=-947566557, phi=1680864049. It's distance: 1680864049.000000
+661: It's a complex number: 1555174133 + 670019013*i. It's distance: 1693367078.259701
+662: It's a complex number: -1644936693 + 426804369*i. It's distance: 1699405394.064425
+663: It's a complex number: 531653225 + 1617033876*i. It's distance: 1702190855.275778
+664: It's a complex number: -1469767777 + -883619027*i. It's distance: 1714934372.850445
+665: It's a complex number: -1335530967 + 1107171899*i. It's distance: 1734783150.065512
+666: It's a complex number: -282200478 + -1717875736*i. It's distance: 1740900386.041939
+667: It's a polar number: r=1390205469, phi=1741771041. It's distance: 1741771041.000000
+668: It's a complex number: -1736806549 + -160412935*i. It's distance: 1744198755.407366
+669: It's a complex number: -1671240184 + -504574905*i. It's distance: 1745749004.688851
+670: It's a polar number: r=501598660, phi=1749311006. It's distance: 1749311006.000000
+671: It's a polar number: r=637407746, phi=1749542357. It's distance: 1749542357.000000
+672: It's a complex number: -920412183 + 1490194877*i. It's distance: 1751524866.523987
+673: It's a complex number: 1592285874 + -735997880*i. It's distance: 1754157114.942797
+674: It's a complex number: 1642302732 + 634862498*i. It's distance: 1760740939.179147
+675: It's a complex number: 1570675918 + 798827949*i. It's distance: 1762143277.798003
+676: It's a polar number: r=-1220202677, phi=1766578532. It's distance: 1766578532.000000
+677: It's a complex number: -1327158440 + 1168167746*i. It's distance: 1768039990.401222
+678: It's a complex number: 481539522 + 1702007941*i. It's distance: 1768816367.652405
+679: It's a polar number: r=184518138, phi=1769915794. It's distance: 1769915794.000000
+680: It's a polar number: r=-1796801459, phi=1770556799. It's distance: 1770556799.000000
+681: It's a complex number: 1741231863 + -356088520*i. It's distance: 1777269657.312092
+682: It's a polar number: r=1687357380, phi=1786153949. It's distance: 1786153949.000000
+683: It's a polar number: r=1476217211, phi=1786741088. It's distance: 1786741088.000000
+684: It's a polar number: r=1294378839, phi=1787539129. It's distance: 1787539129.000000
+685: It's a complex number: -294607125 + -1769043883*i. It's distance: 1793407264.979286
+686: It's a complex number: 729966063 + -1639330468*i. It's distance: 1794506850.487013
+687: It's a complex number: 1034056907 + -1467504553*i. It's distance: 1795227924.245313
+688: It's a complex number: 1790614257 + 170129417*i. It's distance: 1798678246.908107
+689: It's a complex number: 1363891678 + 1175054639*i. It's distance: 1800264956.597522
+690: It's a complex number: 1502881753 + 998278074*i. It's distance: 1804220794.839008
+691: It's a complex number: 1683625915 + 659776435*i. It's distance: 1808286804.088582
+692: It's a complex number: 946521510 + -1541281513*i. It's distance: 1808715475.470990
+693: It's a complex number: -1008027002 + 1514838544*i. It's distance: 1819575294.168710
+694: It's a complex number: 692549725 + -1683559367*i. It's distance: 1820438755.852834
+695: It's a complex number: -1559670914 + 939519647*i. It's distance: 1820788435.562078
+696: It's a complex number: -1741837951 + -539628781*i. It's distance: 1823512727.903873
+697: It's a complex number: 321742935 + 1799187493*i. It's distance: 1827729233.554587
+698: It's a complex number: -1414043636 + 1168576829*i. It's distance: 1834418493.634371
+699: It's a complex number: 783911821 + -1662326232*i. It's distance: 1837891793.522909
+700: It's a polar number: r=1594152375, phi=1852338175. It's distance: 1852338175.000000
+701: It's a complex number: -1670642366 + -801125073*i. It's distance: 1852794456.399126
+702: It's a complex number: -1276186262 + 1345356311*i. It's distance: 1854355677.550847
+703: It's a complex number: -1676741841 + 797526432*i. It's distance: 1856747589.495869
+704: It's a complex number: 154050614 + -1850524201*i. It's distance: 1856925257.020450
+705: It's a complex number: -742177024 + -1707153593*i. It's distance: 1861504801.241809
+706: It's a complex number: 1858908573 + -143105573*i. It's distance: 1864408830.647547
+707: It's a polar number: r=1670275385, phi=1869250206. It's distance: 1869250206.000000
+708: It's a complex number: 1047526616 + -1551705709*i. It's distance: 1872191928.882187
+709: It's a complex number: 1694360072 + -806315919*i. It's distance: 1876433162.897272
+710: It's a complex number: 1339889041 + 1316050804*i. It's distance: 1878108719.137672
+711: It's a polar number: r=160126452, phi=1879419055. It's distance: 1879419055.000000
+712: It's a polar number: r=-1848817919, phi=1888612762. It's distance: 1888612762.000000
+713: It's a complex number: -895667604 + -1665487292*i. It's distance: 1891049543.684299
+714: It's a complex number: 1869670636 + 340060963*i. It's distance: 1900344638.658244
+715: It's a complex number: 1897256705 + 140783693*i. It's distance: 1902472878.356529
+716: It's a complex number: -431798826 + 1858192904*i. It's distance: 1907703093.935461
+717: It's a complex number: 1056893792 + -1596978438*i. It's distance: 1915036453.701354
+718: It's a complex number: 1052750038 + -1610496166*i. It's distance: 1924053154.985512
+719: It's a complex number: 1883142173 + 420534833*i. It's distance: 1929526882.294595
+720: It's a polar number: r=-436826165, phi=1933835550. It's distance: 1933835550.000000
+721: It's a polar number: r=2079984075, phi=1934145543. It's distance: 1934145543.000000
+722: It's a polar number: r=-566817474, phi=1936686766. It's distance: 1936686766.000000
+723: It's a polar number: r=-1807301198, phi=1936726572. It's distance: 1936726572.000000
+724: It's a complex number: -1435861099 + 1312148148*i. It's distance: 1945104073.802047
+725: It's a complex number: -1182714748 + -1547859118*i. It's distance: 1947994359.414945
+726: It's a complex number: -1902038092 + -430540102*i. It's distance: 1950157348.228386
+727: It's a complex number: 1923769703 + 328912907*i. It's distance: 1951684803.079611
+728: It's a complex number: 1056281404 + -1641882083*i. It's distance: 1952308166.994297
+729: It's a polar number: r=-609511142, phi=1953608328. It's distance: 1953608328.000000
+730: It's a complex number: -1874906193 + 559389325*i. It's distance: 1956576001.456041
+731: It's a complex number: -1962282550 + 50877410*i. It's distance: 1962942005.481265
+732: It's a complex number: -1934929460 + 340264638*i. It's distance: 1964620074.988842
+733: It's a complex number: 1378839361 + -1400462417*i. It's distance: 1965322610.889207
+734: It's a polar number: r=-2109133871, phi=1965695565. It's distance: 1965695565.000000
+735: It's a complex number: -704530794 + -1837919294*i. It's distance: 1968326947.169024
+736: It's a complex number: 826048418 + 1797100599*i. It's distance: 1977859082.899098
+737: It's a complex number: -748775968 + -1834533941*i. It's distance: 1981459116.644936
+738: It's a complex number: -1507351355 + -1288487859*i. It's distance: 1983005060.561052
+739: It's a complex number: 952686867 + -1740333491*i. It's distance: 1984029467.132614
+740: It's a polar number: r=2018966378, phi=1991649509. It's distance: 1991649509.000000
+741: It's a complex number: -281614610 + 1971839353*i. It's distance: 1991847690.614147
+742: It's a complex number: -616317410 + 1894202078*i. It's distance: 1991945948.606193
+743: It's a complex number: 1884133272 + -647707956*i. It's distance: 1992356339.343724
+744: It's a polar number: r=1508632096, phi=1993625884. It's distance: 1993625884.000000
+745: It's a complex number: 1203873001 + -1594319871*i. It's distance: 1997790292.698961
+746: It's a complex number: -1955847516 + 419410034*i. It's distance: 2000311046.428343
+747: It's a polar number: r=-2140101634, phi=2002488213. It's distance: 2002488213.000000
+748: It's a complex number: -1657552887 + -1124859926*i. It's distance: 2003195304.088635
+749: It's a polar number: r=1093134972, phi=2003908116. It's distance: 2003908116.000000
+750: It's a complex number: 1863950025 + 744208761*i. It's distance: 2007026750.107396
+751: It's a complex number: -2006024057 + -65378237*i. It's distance: 2007089143.794059
+752: It's a complex number: -1104718950 + -1681075091*i. It's distance: 2011570883.680155
+753: It's a complex number: -1200603385 + 1615441398*i. It's distance: 2012734308.955271
+754: It's a complex number: 1520845590 + -1321119914*i. It's distance: 2014529507.301845
+755: It's a complex number: -1260055869 + 1577922878*i. It's distance: 2019302206.683573
+756: It's a complex number: -283608388 + 2000715962*i. It's distance: 2020717218.797708
+757: It's a complex number: -1909535506 + -668445675*i. It's distance: 2023152359.339474
+758: It's a polar number: r=-534913684, phi=2025246639. It's distance: 2025246639.000000
+759: It's a complex number: 864075572 + -1834975411*i. It's distance: 2028240950.454789
+760: It's a polar number: r=1437379560, phi=2031548655. It's distance: 2031548655.000000
+761: It's a complex number: 1037876138 + 1747959806*i. It's distance: 2032867521.807890
+762: It's a polar number: r=1903628034, phi=2037463439. It's distance: 2037463439.000000
+763: It's a polar number: r=399224092, phi=2037656196. It's distance: 2037656196.000000
+764: It's a complex number: -2017779397 + -284505747*i. It's distance: 2037738259.697185
+765: It's a polar number: r=-1216666907, phi=2043137676. It's distance: 2043137676.000000
+766: It's a complex number: -981209906 + 1799909682*i. It's distance: 2049987254.348151
+767: It's a complex number: -1138054745 + 1721030086*i. It's distance: 2063277286.147982
+768: It's a complex number: -561729590 + -1992741292*i. It's distance: 2070400441.731840
+769: It's a complex number: -7771716 + 2077155138*i. It's distance: 2077169676.961751
+770: It's a complex number: -1962564243 + -683824334*i. It's distance: 2078286344.003806
+771: It's a complex number: -194813857 + -2071420762*i. It's distance: 2080561561.724112
+772: It's a complex number: 1948101728 + -757241510*i. It's distance: 2090099291.206919
+773: It's a complex number: 875885327 + 1900961645*i. It's distance: 2093043306.244523
+774: It's a complex number: 790615049 + 1940616661*i. It's distance: 2095486860.053305
+775: It's a polar number: r=433135010, phi=2097825770. It's distance: 2097825770.000000
+776: It's a complex number: 1385368097 + 1590003785*i. It's distance: 2108875719.548150
+777: It's a complex number: -792746740 + -1956251802*i. It's distance: 2110774385.529840
+778: It's a polar number: r=1581605795, phi=2111052161. It's distance: 2111052161.000000
+779: It's a polar number: r=522183688, phi=2114414948. It's distance: 2114414948.000000
+780: It's a complex number: 511663174 + -2056197862*i. It's distance: 2118902747.018165
+781: It's a complex number: 1118084323 + 1804297217*i. It's distance: 2122640101.527415
+782: It's a complex number: 1531983033 + -1469620926*i. It's distance: 2122912546.370429
+783: It's a polar number: r=238959268, phi=2131386089. It's distance: 2131386089.000000
+784: It's a complex number: -1296572199 + 1696850175*i. It's distance: 2135509303.097794
+785: It's a complex number: 313687474 + 2114597234*i. It's distance: 2137737423.863125
+786: It's a complex number: 977127541 + 1908533744*i. It's distance: 2144126694.803123
+787: It's a complex number: -1789268815 + 1185947307*i. It's distance: 2146614522.291335
+788: It's a complex number: -2142630398 + 244557947*i. It's distance: 2156542049.642087
+789: It's a complex number: 1522875018 + 1532431681*i. It's distance: 2160438653.926786
+790: It's a complex number: -967164476 + 1934040006*i. It's distance: 2162387076.460835
+791: It's a complex number: -1649367682 + -1418938865*i. It's distance: 2175730050.588432
+792: It's a complex number: 589783559 + 2094825644*i. It's distance: 2176267245.819484
+793: It's a complex number: -437971993 + 2140920361*i. It's distance: 2185259586.135424
+794: It's a complex number: -1994264743 + 922981614*i. It's distance: 2197495602.943246
+795: It's a complex number: -1464046264 + 1652231027*i. It's distance: 2207554943.758780
+796: It's a complex number: 1115765733 + 1911122534*i. It's distance: 2212989496.337389
+797: It's a complex number: -1838725867 + 1249550612*i. It's distance: 2223126075.130351
+798: It's a complex number: 1501035160 + -1642570540*i. It's distance: 2225116745.348908
+799: It's a complex number: 1949150988 + -1078944235*i. It's distance: 2227848791.157315
+800: It's a complex number: -2070379559 + 850375143*i. It's distance: 2238215673.735957
+801: It's a complex number: 2090059961 + -828862179*i. It's distance: 2248413474.508626
+802: It's a complex number: 1474689883 + 1703355148*i. It's distance: 2253026633.495631
+803: It's a complex number: 1353805656 + 1815007494*i. It's distance: 2264297232.585367
+804: It's a complex number: -967735303 + -2049768622*i. It's distance: 2266729586.961859
+805: It's a complex number: -1288113189 + -1874158461*i. It's distance: 2274138413.688498
+806: It's a complex number: 1212346446 + -1933353287*i. It's distance: 2282025161.448167
+807: It's a complex number: -1167728028 + -1979192046*i. It's distance: 2297996932.619022
+808: It's a complex number: -1670855791 + 1584766256*i. It's distance: 2302877148.367774
+809: It's a complex number: -1415578126 + 1889719429*i. It's distance: 2361122815.770022
+810: It's a complex number: -1213696222 + 2027984981*i. It's distance: 2363425819.114838
+811: It's a complex number: 2020214289 + 1245104010*i. It's distance: 2373088655.991987
+812: It's a complex number: 2107148507 + 1098918495*i. It's distance: 2376488310.344781
+813: It's a complex number: 2146242868 + 1039878674*i. It's distance: 2384891214.517103
+814: It's a complex number: -1921663122 + -1414797552*i. It's distance: 2386302844.904640
+815: It's a complex number: 1992674003 + 1331986124*i. It's distance: 2396859761.596533
+816: It's a complex number: 1112589432 + -2140749323*i. It's distance: 2412605004.579706
+817: It's a complex number: -1775790254 + -1684591062*i. It's distance: 2447708739.284900
+818: It's a complex number: 1870212039 + 1624218817*i. It's distance: 2477050632.570400
+819: It's a complex number: -1538144618 + -1961939819*i. It's distance: 2493009570.631473
+820: It's a complex number: -1625902259 + 1890524560*i. It's distance: 2493519855.101318
+821: It's a complex number: 1809731143 + 1724010260*i. It's distance: 2499467580.611790
+822: It's a complex number: -2022630119 + 1473711600*i. It's distance: 2502570374.287307
+823: It's a complex number: -2073450549 + 1412656202*i. It's distance: 2508942949.570091
+824: It's a complex number: -1741601628 + -1810014244*i. It's distance: 2511837533.387688
+825: It's a complex number: 1373251952 + -2115757282*i. It's distance: 2522350055.009779
+826: It's a complex number: -2067780409 + 1453534444*i. It's distance: 2527543906.589675
+827: It's a complex number: -1509639770 + -2042123442*i. It's distance: 2539543342.321918
+828: It's a complex number: 1825429168 + 1790178140*i. It's distance: 2556741954.190730
+829: It's a complex number: 2038936403 + -1585042291*i. It's distance: 2582560884.032960
+830: It's a complex number: -1623489667 + -2053255527*i. It's distance: 2617551710.666251
+831: It's a complex number: 1873676389 + 1890953361*i. It's distance: 2662023257.631923
+832: It's a complex number: 1770649986 + -1992828954*i. It's distance: 2665814812.177045
+833: It's a complex number: 1839564339 + -1930215214*i. It's distance: 2666407270.031638
+834: It's a complex number: -1774790064 + -2052614669*i. It's distance: 2713504514.583881
+835: It's a complex number: -1710088516 + 2108457049*i. It's distance: 2714773261.256430
+836: It's a complex number: -1748663199 + 2111193239*i. It's distance: 2741342714.061163
+837: It's a complex number: 1759972675 + -2123918944*i. It's distance: 2758357391.171190
+838: It's a complex number: 1975604748 + -1938351439*i. It's distance: 2767710321.076524
+839: It's a complex number: 2122769246 + -1946771147*i. It's distance: 2880289424.789652
+840: It's a complex number: 2110576549 + 1962760372*i. It's distance: 2882180016.425471
+841: It's a complex number: 1982759819 + 2116025405*i. It's distance: 2899810341.116523
+842: It's a complex number: 2065131133 + -2074843088*i. It's distance: 2927411900.690991
