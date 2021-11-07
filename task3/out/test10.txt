@@ -1,0 +1,3 @@
+container contains 0 elements.
+Container was sorted by straight merge sort
+container contains 0 elements.

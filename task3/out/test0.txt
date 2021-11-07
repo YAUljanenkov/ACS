@@ -1,0 +1,1689 @@
+container contains 843 elements.
+0: It's a complex number: 2669065037 + 1890524560*i. It's distance: 3270778391.1018806.
+1: It's a complex number: 3221328092 + 907169236*i. It's distance: 3346626764.228898.
+2: It's a polar number: r = 228648981, phi = -3085922568. It's distance: -3085922568.
+3: It's a fraction: -1636344268 / 726393155. It's distance: -2.2526978079797573.
+4: It's a polar number: r = 3290735925, phi = -628763748. It's distance: -628763748.
+5: It's a complex number: 1570675918 + -3496139347*i. It's distance: 3832755297.827756.
+6: It's a fraction: -22259333 / 1834515582. It's distance: -0.012133629835802616.
+7: It's a fraction: 338717143 / 2121572810. It's distance: 0.15965379147180908.
+8: It's a complex number: 3342144097 + -2967114175*i. It's distance: 4469193852.653728.
+9: It's a complex number: 2735296382 + -3355447649*i. It's distance: 4329073252.159394.
+10: It's a complex number: -279727112 + 4011328389*i. It's distance: 4021069845.4000025.
+11: It's a complex number: -1335530967 + 1107171899*i. It's distance: 1734783150.0655122.
+12: It's a complex number: 3192979984 + -3753015075*i. It's distance: 4927498689.132438.
+13: It's a complex number: -380797734 + -497092769*i. It's distance: 626185384.0610001.
+14: It's a fraction: 977484914 / 1574722608. It's distance: 0.6207346671941602.
+15: It's a complex number: 955596061 + -3409341769*i. It's distance: 3540730875.066159.
+16: It's a complex number: 4220360413 + -2720297323*i. It's distance: 5021101427.091321.
+17: It's a complex number: -429576260 + -1344763051*i. It's distance: 1411709398.7398455.
+18: It's a polar number: r = 801376096, phi = -563192402. It's distance: -563192402.
+19: It's a polar number: r = 2296006428, phi = 3011489405. It's distance: 3011489405.
+20: It's a fraction: -3950454687 / 3685330488. It's distance: -1.0719404134482062.
+21: It's a fraction: 418349715 / 2922963451. It's distance: 0.14312519537556134.
+22: It's a fraction: 1104313642 / 1373141059. It's distance: 0.8042244711582832.
+23: It's a polar number: r = -4240958182, phi = 2467162141. It's distance: 2467162141.
+24: It's a complex number: 3439911512 + -4249802924*i. It's distance: 5467523763.389517.
+25: It's a fraction: 2403161317 / 1720037739. It's distance: 1.3971561568161617.
+26: It's a complex number: 4208728711 + 2794325422*i. It's distance: 5051895874.5040655.
+27: It's a fraction: 408012023 / 1069942511. It's distance: 0.38134013632065134.
+28: It's a complex number: 2637414409 + 3170107370*i. It's distance: 4123776849.2159147.
+29: It's a complex number: 4271300767 + 82133001*i. It's distance: 4272090363.2797904.
+30: It's a fraction: -4275629 / 448022297. It's distance: -0.009543339759270955.
+31: It's a fraction: -3743433448 / 1872815074. It's distance: -1.9988270598467.
+32: It's a complex number: -1327158440 + -3126799550*i. It's distance: 3396796277.4861016.
+33: It's a complex number: 4202139144 + 1510364621*i. It's distance: 4465330298.410805.
+34: It's a complex number: -3317839755 + 1908533744*i. It's distance: 3827605216.2997584.
+35: It's a fraction: -4240286834 / 2089134456. It's distance: -2.029685940903365.
+36: It's a polar number: r = -1009989727, phi = 3682791171. It's distance: 3682791171.
+37: It's a complex number: 1353805656 + 1815007494*i. It's distance: 2264297232.5853667.
+38: It's a complex number: 2880240153 + -27467690*i. It's distance: 2880371124.169141.
+39: It's a complex number: -1106923788 + -3287450689*i. It's distance: 3468805602.08364.
+40: It's a fraction: 2971267473 / 2188307401. It's distance: 1.3577925439735785.
+41: It's a complex number: 2090059961 + 3466105117*i. It's distance: 4047497414.782239.
+42: It's a complex number: 463690463 + 695191175*i. It's distance: 835643234.445798.
+43: It's a complex number: 2152336898 + 244557947*i. It's distance: 2166186213.5867076.
+44: It's a complex number: 2912876411 + 240058678*i. It's distance: 2922751640.9444284.
+45: It's a fraction: -7727505 / 3695701981. It's distance: -0.0020909437610846142.
+46: It's a complex number: -927860111 + 937315102*i. It's distance: 1318894986.730256.
+47: It's a polar number: r = 1733887932, phi = 1258816007. It's distance: 1258816007.
+48: It's a complex number: 481539522 + 1702007941*i. It's distance: 1768816367.652405.
+49: It's a fraction: -3751623907 / 2133226330. It's distance: -1.7586619170409359.
+50: It's a complex number: -1213696222 + 2027984981*i. It's distance: 2363425819.114838.
+51: It's a fraction: 1965712368 / 139645045. It's distance: 14.076492066009216.
+52: It's a polar number: r = 33000210, phi = -4148744125. It's distance: -4148744125.
+53: It's a fraction: -508420915 / 1520805638. It's distance: -0.33431025128800845.
+54: It's a complex number: -3442721677 + -2922821531*i. It's distance: 4516106536.316751.
+55: It's a fraction: -1211485907 / 2310454287. It's distance: -0.5243496544452515.
+56: It's a fraction: -3349216931 / 1552384037. It's distance: -2.1574667422324185.
+57: It's a complex number: 1501035160 + -1642570540*i. It's distance: 2225116745.348908.
+58: It's a polar number: r = -2356980464, phi = -3781503314. It's distance: -3781503314.
+59: It's a complex number: -2006024057 + 4229589059*i. It's distance: 4681191741.989986.
+60: It's a polar number: r = -2345396975, phi = -1750670064. It's distance: -1750670064.
+61: It's a complex number: -1670855791 + 1584766256*i. It's distance: 2302877148.3677745.
+62: It's a polar number: r = 3696174424, phi = 1066647185. It's distance: 1066647185.
+63: It's a polar number: r = 616360828, phi = 1083979181. It's distance: 1083979181.
+64: It's a fraction: -978280360 / 2886606562. It's distance: -0.3389032550810089.
+65: It's a fraction: 2518436585 / 2755490322. It's distance: 0.913970397534207.
+66: It's a complex number: -1649367682 + -1418938865*i. It's distance: 2175730050.5884323.
+67: It's a polar number: r = 505681920, phi = 699958861. It's distance: 699958861.
+68: It's a fraction: -2688877294 / 1189094875. It's distance: -2.2612807022652417.
+69: It's a fraction: -2832268368 / 1733432711. It's distance: -1.6339073042910865.
+70: It's a complex number: -2256030893 + 2709925005*i. It's distance: 3526098257.691443.
+71: It's a fraction: 204956945 / 3858842031. It's distance: 0.053113587794856275.
+72: It's a fraction: -3287518115 / 1914693229. It's distance: -1.7169946940884073.
+73: It's a fraction: 123631174 / 3775276342. It's distance: 0.03274758264040212.
+74: It's a polar number: r = 2079984075, phi = -2360821753. It's distance: -2360821753.
+75: It's a complex number: -2436058723 + -143105573*i. It's distance: 2440258450.846559.
+76: It's a fraction: 514461889 / 2040205171. It's distance: 0.2521618395603998.
+77: It's a fraction: -2371009742 / 2854235326. It's distance: -0.8306987585788153.
+78: It's a complex number: -4161074763 + 4149788663*i. It's distance: 5876673304.7565975.
+79: It's a fraction: -2567569753 / 1554493205. It's distance: -1.6517085727627867.
+80: It's a fraction: 3402385111 / 1318581230. It's distance: 2.580337891659507.
+81: It's a complex number: -1741837951 + 3755338515*i. It's distance: 4139633656.470858.
+82: It's a polar number: r = -4110449158, phi = 1769915794. It's distance: 1769915794.
+83: It's a complex number: 548863879 + 1042994493*i. It's distance: 1178596228.6123495.
+84: It's a complex number: -910006921 + 3722343412*i. It's distance: 3831964649.253396.
+85: It's a polar number: r = 91329577, phi = -1192409549. It's distance: -1192409549.
+86: It's a polar number: r = 718870665, phi = 177538698. It's distance: 177538698.
+87: It's a fraction: -3136575367 / 4014462586. It's distance: -0.7813188689162192.
+88: It's a fraction: 2252708278 / 3263776204. It's distance: 0.6902153019067725.
+89: It's a complex number: -406267439 + -432440402*i. It's distance: 593344700.215263.
+90: It's a fraction: -996180966 / 3825216767. It's distance: -0.2604247096776359.
+91: It's a polar number: r = -280057102, phi = 2352989937. It's distance: 2352989937.
+92: It's a complex number: -4158236654 + 1421770965*i. It's distance: 4394583569.302801.
+93: It's a fraction: 2824742953 / 66367840. It's distance: 42.56192386252137.
+94: It's a polar number: r = 3004990228, phi = 1327695459. It's distance: 1327695459.
+95: It's a fraction: -782381794 / 3730231185. It's distance: -0.20974083245727837.
+96: It's a fraction: -1695093974 / 1638068297. It's distance: -1.034812759092181.
+97: It's a fraction: -3598509871 / 1207873106. It's distance: -2.9792118502554024.
+98: It's a polar number: r = 199232562, phi = -3704969167. It's distance: -3704969167.
+99: It's a polar number: r = 761443536, phi = -679453075. It's distance: -679453075.
+100: It's a complex number: -1736806549 + -160412935*i. It's distance: 1744198755.4073656.
+101: It's a fraction: 3580604503 / 370952101. It's distance: 9.652471284965172.
+102: It's a polar number: r = -254641808, phi = -630061244. It's distance: -630061244.
+103: It's a fraction: -3723513705 / 1995753412. It's distance: -1.8657183210167048.
+104: It's a fraction: 788059930 / 629291694. It's distance: 1.252296729026905.
+105: It's a complex number: 444029342 + 3730163828*i. It's distance: 3756498933.8846574.
+106: It's a fraction: 3728914057 / 2517964462. It's distance: 1.4809240214765191.
+107: It's a fraction: 2119281233 / 4070219228. It's distance: 0.5206798735608548.
+108: It's a complex number: 3678649886 + 1894202078*i. It's distance: 4137688545.077714.
+109: It's a polar number: r = -1859304189, phi = -3059423039. It's distance: -3059423039.
+110: It's a complex number: -163503360 + 807046492*i. It's distance: 823442401.7384554.
+111: It's a fraction: -1913989487 / 1487447001. It's distance: -1.286761468283064.
+112: It's a polar number: r = 1335097875, phi = 1628601936. It's distance: 1628601936.
+113: It's a fraction: 1394256500 / 841989842. It's distance: 1.6559065566494091.
+114: It's a complex number: 1052750038 + 2684471130*i. It's distance: 2883516584.0189786.
+115: It's a polar number: r = -3990514100, phi = 20468254. It's distance: 20468254.
+116: It's a polar number: r = -3793368636, phi = 1749311006. It's distance: 1749311006.
+117: It's a polar number: r = 3535708791, phi = -552107500. It's distance: -552107500.
+118: It's a fraction: 3770008218 / 2764791398. It's distance: 1.3635778166581232.
+119: It's a polar number: r = 476715889, phi = 1278232886. It's distance: 1278232886.
+120: It's a complex number: 4231715658 + 4144646712*i. It's distance: 5923302607.283776.
+121: It's a polar number: r = -302885638, phi = -17880754. It's distance: -17880754.
+122: It's a polar number: r = -3086552724, phi = -1130782375. It's distance: -1130782375.
+123: It's a polar number: r = -4195613173, phi = -4151666763. It's distance: -4151666763.
+124: It's a polar number: r = 1930383843, phi = 2650614483. It's distance: 2650614483.
+125: It's a fraction: 2828223014 / 3384000771. It's distance: 0.835763111591797.
+126: It's a polar number: r = -843326210, phi = 3181568100. It's distance: 3181568100.
+127: It's a polar number: r = -2625536804, phi = -3353588584. It's distance: -3353588584.
+128: It's a fraction: -3497374905 / 1276372748. It's distance: -2.7400889830029493.
+129: It's a complex number: -3056279961 + 462931671*i. It's distance: 3091141040.4614367.
+130: It's a fraction: -866138545 / 205535238. It's distance: -4.214063502823784.
+131: It's a polar number: r = -734458403, phi = -1026149999. It's distance: -1026149999.
+132: It's a complex number: 1225139716 + -4237502473*i. It's distance: 4411053675.982835.
+133: It's a polar number: r = -4056008028, phi = 2131386089. It's distance: 2131386089.
+134: It's a complex number: -2818070757 + 3915065912*i. It's distance: 4823822538.896196.
+135: It's a fraction: -1082715977 / 797710547. It's distance: -1.35727925507797.
+136: It's a polar number: r = 131050442, phi = -3737480068. It's distance: -3737480068.
+137: It's a fraction: 249496569 / 3632394323. It's distance: 0.06868653202660564.
+138: It's a fraction: -2472132208 / 465474199. It's distance: -5.310997286876474.
+139: It's a polar number: r = 1624017792, phi = 188323814. It's distance: 188323814.
+140: It's a complex number: -437971993 + -2154046935*i. It's distance: 2198121394.4719443.
+141: It's a fraction: -2687660373 / 2872648759. It's distance: -0.9356035486690004.
+142: It's a fraction: 1766003247 / 2226711049. It's distance: 0.7930994224837118.
+143: It's a polar number: r = 3325677678, phi = 3046082654. It's distance: 3046082654.
+144: It's a fraction: 191443240 / 189938925. It's distance: 1.0079199932294025.
+145: It's a fraction: -3551459867 / 2088196380. It's distance: -1.7007307842378312.
+146: It's a polar number: r = 3667502912, phi = 158358752. It's distance: 158358752.
+147: It's a polar number: r = 815242040, phi = 1079462761. It's distance: 1079462761.
+148: It's a complex number: -150899826 + -3280570415*i. It's distance: 3284039129.6785893.
+149: It's a polar number: r = 830787605, phi = 1361905999. It's distance: 1361905999.
+150: It's a polar number: r = -1606357857, phi = 2864437957. It's distance: 2864437957.
+151: It's a complex number: 531653225 + 1617033876*i. It's distance: 1702190855.2757778.
+152: It's a fraction: -2748034540 / 2834007071. It's distance: -0.9696639673627688.
+153: It's a complex number: -2931075618 + -3119912657*i. It's distance: 4280777880.916374.
+154: It's a fraction: 491848645 / 1926600646. It's distance: 0.25529351192795147.
+155: It's a polar number: r = -2526493436, phi = 3644639128. It's distance: 3644639128.
+156: It's a complex number: -2702681422 + -735997880*i. It's distance: 2801103309.088837.
+157: It's a polar number: r = 2655194433, phi = -531484536. It's distance: -531484536.
+158: It's a fraction: 1289069496 / 1754739574. It's distance: 0.7346215444731288.
+159: It's a fraction: 2429463708 / 3475542343. It's distance: 0.6990171513499527.
+160: It's a complex number: -3782194796 + 1518331912*i. It's distance: 4075577170.1548066.
+161: It's a polar number: r = 2446149377, phi = 1888612762. It's distance: 1888612762.
+162: It's a fraction: -990426172 / 352708715. It's distance: -2.808056988328173.
+163: It's a polar number: r = 1358860729, phi = -3186823816. It's distance: -3186823816.
+164: It's a polar number: r = -1136433441, phi = 1416462253. It's distance: 1416462253.
+165: It's a polar number: r = -3658803116, phi = 586799447. It's distance: 586799447.
+166: It's a complex number: 1112589432 + -2140749323*i. It's distance: 2412605004.579705.
+167: It's a fraction: -1947212377 / 700130456. It's distance: -2.7812136442754607.
+168: It's a complex number: -3877359784 + -3001238369*i. It's distance: 4903198001.522915.
+169: It's a fraction: -3851856134 / 760490824. It's distance: -5.064960697014275.
+170: It's a complex number: 1385368097 + 1590003785*i. It's distance: 2108875719.54815.
+171: It's a complex number: -2921715344 + 2179210014*i. It's distance: 3644911087.596365.
+172: It's a complex number: -3260910389 + -1467504553*i. It's distance: 3575906343.5951257.
+173: It's a fraction: 3406495560 / 4169275233. It's distance: 0.8170474170276492.
+174: It's a polar number: r = -2986293269, phi = 874866765. It's distance: 874866765.
+175: It's a polar number: r = 523060609, phi = -1147724171. It's distance: -1147724171.
+176: It's a polar number: r = -2046344730, phi = -3840768771. It's distance: -3840768771.
+177: It's a polar number: r = 254234482, phi = 4001642587. It's distance: 4001642587.
+178: It's a polar number: r = -3326220639, phi = -2781422750. It's distance: -2781422750.
+179: It's a fraction: 3379909888 / 1240211364. It's distance: 2.7252692453155105.
+180: It's a polar number: r = 1858765608, phi = -1254140841. It's distance: -1254140841.
+181: It's a fraction: 3766836557 / 1663030812. It's distance: 2.2650431548348244.
+182: It's a complex number: 2065131133 + -2074843088*i. It's distance: 2927411900.690991.
+183: It's a fraction: -2790338921 / 3831791457. It's distance: -0.7282074069825872.
+184: It's a complex number: 2224587737 + -3444592153*i. It's distance: 4100488470.9166.
+185: It's a fraction: 2061413184 / 153034394. It's distance: 13.470260704923627.
+186: It's a fraction: -3590217153 / 3595827044. It's distance: -0.9984398885343052.
+187: It's a complex number: -704530794 + 2457048002*i. It's distance: 2556061134.6027036.
+188: It's a complex number: -4266324337 + -150675628*i. It's distance: 4268984246.088486.
+189: It's a fraction: -3948980033 / 272979022. It's distance: -14.46623994791805.
+190: It's a fraction: -471887405 / 65258700. It's distance: -7.23102674432681.
+191: It's a complex number: 338599025 + 3415857657*i. It's distance: 3432598553.9553676.
+192: It's a complex number: 2520177232 + -2052614669*i. It's distance: 3250310794.3833866.
+193: It's a fraction: -3875665086 / 4124139051. It's distance: -0.9397513124733873.
+194: It's a fraction: -1764393393 / 4256765545. It's distance: -0.4144915603990588.
+195: It's a complex number: 1790614257 + -4124837879*i. It's distance: 4496730695.22791.
+196: It's a polar number: r = -1421421498, phi = 1613203051. It's distance: 1613203051.
+197: It's a fraction: 612834362 / 1011975859. It's distance: 0.6055819973863625.
+198: It's a polar number: r = 2662574522, phi = -1167004571. It's distance: -1167004571.
+199: It's a complex number: -3838300857 + -105213834*i. It's distance: 3839742624.149686.
+200: It's a polar number: r = 820083245, phi = -601823846. It's distance: -601823846.
+201: It's a complex number: 3018781034 + 1345356311*i. It's distance: 3304999627.047731.
+202: It's a polar number: r = -1449876604, phi = -3833236235. It's distance: -3833236235.
+203: It's a polar number: r = -1216666907, phi = 2043137676. It's distance: 2043137676.
+204: It's a fraction: -2814993681 / 1916959580. It's distance: -1.468467937649473.
+205: It's a fraction: 2970255032 / 2665395210. It's distance: 1.114376967759314.
+206: It's a polar number: r = -485601882, phi = 1264245565. It's distance: 1264245565.
+207: It's a polar number: r = -1540254521, phi = -2667227929. It's distance: -2667227929.
+208: It's a fraction: -3247749287 / 2418925575. It's distance: -1.3426412621231638.
+209: It's a polar number: r = -2260794515, phi = 219128585. It's distance: 219128585.
+210: It's a complex number: 3901101077 + -2673618598*i. It's distance: 4729357886.705344.
+211: It's a complex number: 3295247337 + -3811812339*i. It's distance: 5038707008.723393.
+212: It's a polar number: r = -4060163206, phi = -3177899768. It's distance: -3177899768.
+213: It's a fraction: 2455602634 / 3800435524. It's distance: 0.6461371646730245.
+214: It's a polar number: r = 1594152375, phi = -2442629121. It's distance: -2442629121.
+215: It's a fraction: -1909896696 / 2560430260. It's distance: -0.7459280285181444.
+216: It's a complex number: -686705769 + -816624485*i. It's distance: 1066977208.1349238.
+217: It's a polar number: r = -2291716618, phi = 211363021. It's distance: 211363021.
+218: It's a polar number: r = -1996416296, phi = -3775334744. It's distance: -3775334744.
+219: It's a polar number: r = 758446680, phi = -1773428887. It's distance: -1773428887.
+220: It's a complex number: 2734240994 + 584971483*i. It's distance: 2796116136.5711055.
+221: It's a complex number: 34560953 + -2994150128*i. It's distance: 2994349586.884384.
+222: It's a fraction: 2592950548 / 185238985. It's distance: 13.99786631307659.
+223: It's a polar number: r = -534913684, phi = -2269720657. It's distance: -2269720657.
+224: It's a polar number: r = -2882840319, phi = 269816350. It's distance: 269816350.
+225: It's a polar number: r = -2103936892, phi = 1257022486. It's distance: 1257022486.
+226: It's a complex number: -614298016 + 4026568400*i. It's distance: 4073157882.078731.
+227: It's a fraction: -2198920891 / 1650535241. It's distance: -1.332247162240385.
+228: It's a complex number: -1142054019 + -4182327615*i. It's distance: 4335452878.478284.
+229: It's a polar number: r = 1999346077, phi = 3465439725. It's distance: 3465439725.
+230: It's a complex number: 4089166449 + 4234955533*i. It's distance: 5886945779.783824.
+231: It's a complex number: 1474689883 + 1703355148*i. It's distance: 2253026633.4956307.
+232: It's a complex number: -2184390747 + -2332206924*i. It's distance: 3195426743.321267.
+233: It's a complex number: 313687474 + 2114597234*i. It's distance: 2137737423.8631253.
+234: It's a complex number: -3545367161 + -166883138*i. It's distance: 3549292646.154432.
+235: It's a fraction: 1468611277 / 1217898740. It's distance: 1.205856635503211.
+236: It's a polar number: r = -3271348029, phi = 2538236006. It's distance: 2538236006.
+237: It's a complex number: 230989260 + -397413766*i. It's distance: 459666987.7657632.
+238: It's a fraction: 3090549852 / 352464205. It's distance: 8.76840770823806.
+239: It's a complex number: -3504352247 + -2354350635*i. It's distance: 4221782986.319743.
+240: It's a polar number: r = -3165250647, phi = 3108280892. It's distance: 3108280892.
+241: It's a fraction: -3085539947 / 143104279. It's distance: -21.561479283229538.
+242: It's a complex number: -1838725867 + 1249550612*i. It's distance: 2223126075.1303506.
+243: It's a polar number: r = 3042418612, phi = 2232122391. It's distance: 2232122391.
+244: It's a fraction: -3828705685 / 1853498978. It's distance: -2.065663769143983.
+245: It's a fraction: 2226898102 / 1366121229. It's distance: 1.630088205005121.
+246: It's a polar number: r = -2857587736, phi = -2263418641. It's distance: -2263418641.
+247: It's a polar number: r = -1079770315, phi = 2545172328. It's distance: 2545172328.
+248: It's a polar number: r = 301059789, phi = -1069716677. It's distance: -1069716677.
+249: It's a fraction: 2166770795 / 2069923684. It's distance: 1.0467877689156388.
+250: It's a complex number: -214442110 + -2679981347*i. It's distance: 2688547086.9615035.
+251: It's a polar number: r = 1438283879, phi = 381531237. It's distance: 381531237.
+252: It's a complex number: -316377081 + -1370829771*i. It's distance: 1406864854.3630598.
+253: It's a fraction: 1688758262 / 3500327914. It's distance: 0.48245715929801886.
+254: It's a complex number: 2671477629 + -2053255527*i. It's distance: 3369369522.834132.
+255: It's a complex number: -2938200758 + 3671825080*i. It's distance: 4702693176.513728.
+256: It's a fraction: -3325411649 / 3289695707. It's distance: -1.0108569135813996.
+257: It's a complex number: -1962282550 + -4244089886*i. It's distance: 4675772852.318854.
+258: It's a polar number: r = 109054545, phi = 3766173509. It's distance: 3766173509.
+259: It's a complex number: -792746740 + -1956251802*i. It's distance: 2110774385.52984.
+260: It's a complex number: 1949150988 + 3216023061*i. It's distance: 3760584250.2070317.
+261: It's a polar number: r = -2672476818, phi = -1005895547. It's distance: -1005895547.
+262: It's a polar number: r = -3561525693, phi = 2871621522. It's distance: 2871621522.
+263: It's a polar number: r = 2154962042, phi = 3660253151. It's distance: 3660253151.
+264: It's a polar number: r = -3352736470, phi = 2522543336. It's distance: 2522543336.
+265: It's a complex number: -2765349402 + 3758680817*i. It's distance: 4666351765.482918.
+266: It's a polar number: r = -3895743204, phi = -2257311100. It's distance: -2257311100.
+267: It's a fraction: -3835734465 / 2046467270. It's distance: -1.8743199665245562.
+268: It's a polar number: r = -2555653402, phi = 3271947070. It's distance: 3271947070.
+269: It's a complex number: 4012766818 + 2577091560*i. It's distance: 4769035378.801994.
+270: It's a polar number: r = 793175785, phi = 1658573447. It's distance: 1658573447.
+271: It's a polar number: r = 1093134972, phi = 2003908116. It's distance: 2003908116.
+272: It's a complex number: -1207779380 + -4122841966*i. It's distance: 4296109508.306781.
+273: It's a fraction: 3537699534 / 1868454851. It's distance: 1.8933824020990486.
+274: It's a fraction: -2934585420 / 3087744970. It's distance: -0.9503976035948332.
+275: It's a polar number: r = -504061932, phi = -3206053777. It's distance: -3206053777.
+276: It's a polar number: r = -225598976, phi = 4004997136. It's distance: 4004997136.
+277: It's a fraction: -2355483084 / 1537685443. It's distance: -1.5318367581112622.
+278: It's a polar number: r = 3212373483, phi = 2252602018. It's distance: 2252602018.
+279: It's a polar number: r = -2607609916, phi = 1786153949. It's distance: 1786153949.
+280: It's a complex number: -294607125 + 2525923413*i. It's distance: 2543045899.397479.
+281: It's a complex number: 2650030603 + 426804369*i. It's distance: 2684180352.7769947.
+282: It's a polar number: r = 816184920, phi = -2041964627. It's distance: -2041964627.
+283: It's a polar number: r = 2029700488, phi = -3104192188. It's distance: -3104192188.
+284: It's a fraction: 2127707147 / 1360515147. It's distance: 1.563898168786797.
+285: It's a polar number: r = -1246709152, phi = 1237487953. It's distance: 1237487953.
+286: It's a fraction: 858463024 / 667452692. It's distance: 1.286178083165181.
+287: It's a complex number: -1509639770 + 2252843854*i. It's distance: 2711884522.9233537.
+288: It's a complex number: -967164476 + -2360927290*i. It's distance: 2551349602.1327806.
+289: It's a polar number: r = 43916539, phi = -922969978. It's distance: -922969978.
+290: It's a polar number: r = 2370205007, phi = -3361174654. It's distance: -3361174654.
+291: It's a fraction: -95611116 / 3896403937. It's distance: -0.024538296733581193.
+292: It's a complex number: -468420004 + -3997662125*i. It's distance: 4025011772.132707.
+293: It's a polar number: r = -3919216097, phi = -398715753. It's distance: -398715753.
+294: It's a complex number: -4029724723 + -3957066431*i. It's distance: 5647747877.030676.
+295: It's a complex number: 3034911427 + -2717044418*i. It's distance: 4073452803.1045275.
+296: It's a polar number: r = -2301431188, phi = 2210878056. It's distance: 2210878056.
+297: It's a polar number: r = -1560136298, phi = 564642413. It's distance: 564642413.
+298: It's a polar number: r = -2133319222, phi = -3247496458. It's distance: -3247496458.
+299: It's a complex number: 3399299692 + -1665487292*i. It's distance: 3785377962.085792.
+300: It's a polar number: r = 3686243921, phi = -1323489199. It's distance: -1323489199.
+301: It's a complex number: 3374555113 + 1490194877*i. It's distance: 3688943342.2203016.
+302: It's a complex number: 1839564339 + 2364752082*i. It's distance: 2996005568.526841.
+303: It's a complex number: 946521510 + -1541281513*i. It's distance: 1808715475.47099.
+304: It's a complex number: -2831425648 + 4191063923*i. It's distance: 5057863976.702455.
+305: It's a fraction: 1909743760 / 3138067683. It's distance: 0.6085731580442779.
+306: It's a complex number: 1115765733 + 1911122534*i. It's distance: 2212989496.3373885.
+307: It's a fraction: 3205051372 / 3149948773. It's distance: 1.0174931730548495.
+308: It's a fraction: 3347484963 / 748376641. It's distance: 4.472994986223789.
+309: It's a complex number: -1789268815 + -3109019989*i. It's distance: 3587128124.883897.
+310: It's a fraction: 479181200 / 877288790. It's distance: 0.5462069109534615.
+311: It's a fraction: -2863774513 / 1929043951. It's distance: -1.4845563842728642.
+312: It's a complex number: 2360037836 + 340264638*i. It's distance: 2384440943.119547.
+313: It's a fraction: -525391403 / 548832687. It's distance: -0.9572888340012445.
+314: It's a polar number: r = -947566557, phi = 1680864049. It's distance: 1680864049.
+315: It's a complex number: 1118084323 + -2490670079*i. It's distance: 2730119044.247748.
+316: It's a polar number: r = 2154865662, phi = 2002488213. It's distance: 2002488213.
+317: It's a polar number: r = 109642946, phi = 716391519. It's distance: 716391519.
+318: It's a fraction: 1631320085 / 2543060629. It's distance: 0.6414790376592315.
+319: It's a fraction: 2749581527 / 3138450533. It's distance: 0.876095225363235.
+320: It's a polar number: r = -2599018357, phi = 1115104587. It's distance: 1115104587.
+321: It's a fraction: 2000573444 / 3020243037. It's distance: 0.6623882315070793.
+322: It's a polar number: r = 469239706, phi = 2887524307. It's distance: 2887524307.
+323: It's a complex number: 3817827362 + 3231101630*i. It's distance: 5001582100.63821.
+324: It's a complex number: 2272337177 + 1473711600*i. It's distance: 2708383674.066673.
+325: It's a polar number: r = -26656827, phi = -2064489081. It's distance: -2064489081.
+326: It's a polar number: r = -4196459063, phi = -3538068823. It's distance: -3538068823.
+327: It's a complex number: 4028271818 + -1379674842*i. It's distance: 4257989726.3075624.
+328: It's a complex number: 3127239268 + 2315775250*i. It's distance: 3891328879.4232926.
+329: It's a complex number: -250026889 + 1638852680*i. It's distance: 1657815294.8884866.
+330: It's a fraction: 1363099968 / 886404865. It's distance: 1.5377848450775369.
+331: It's a polar number: r = -3413961002, phi = 4076566424. It's distance: 4076566424.
+332: It's a complex number: -3604152977 + -3534668862*i. It's distance: 5048148437.359022.
+333: It's a complex number: 1948101728 + 3537725786*i. It's distance: 4038638889.473272.
+334: It's a complex number: 3752446404 + -1387489124*i. It's distance: 4000747440.6804056.
+335: It's a fraction: -3115395438 / 2817284091. It's distance: -1.1058151529525675.
+336: It's a complex number: -2397710591 + 140783693*i. It's distance: 2401840154.216822.
+337: It's a complex number: 692549725 + -1683559367*i. It's distance: 1820438755.8528345.
+338: It's a polar number: r = -566817474, phi = 1936686766. It's distance: 1936686766.
+339: It's a fraction: 2904028768 / 3596327705. It's distance: 0.8074983722875165.
+340: It's a fraction: -2897906910 / 4140833100. It's distance: -0.6998366850380905.
+341: It's a fraction: 4258839424 / 1458585114. It's distance: 2.919842923887128.
+342: It's a complex number: 3252517886 + -289284411*i. It's distance: 3265357265.1698503.
+343: It's a complex number: -197712687 + 699429154*i. It's distance: 726836603.4164183.
+344: It's a polar number: r = -2016668101, phi = -3263113562. It's distance: -3263113562.
+345: It's a polar number: r = -141298996, phi = -3197139284. It's distance: -3197139284.
+346: It's a fraction: 564151854 / 567646813. It's distance: 0.9938430747430269.
+347: It's a polar number: r = 2261370715, phi = 180489325. It's distance: 180489325.
+348: It's a polar number: r = -2756740594, phi = -1709561730. It's distance: -1709561730.
+349: It's a fraction: 1551181570 / 3529568619. It's distance: 0.4394819133561659.
+350: It's a fraction: 682085789 / 2977847914. It's distance: 0.22905326554564936.
+351: It's a fraction: 2984377380 / 583837965. It's distance: 5.111653504752812.
+352: It's a fraction: -1893513032 / 2789144305. It's distance: -0.6788867211372199.
+353: It's a complex number: -3087018520 + -423248943*i. It's distance: 3115898427.512297.
+354: It's a polar number: r = -2818750085, phi = 1786741088. It's distance: 1786741088.
+355: It's a fraction: 3911092264 / 2167940887. It's distance: 1.8040585365831519.
+356: It's a polar number: r = -3540902529, phi = 1037960829. It's distance: 1037960829.
+357: It's a complex number: -2978894255 + 990644640*i. It's distance: 3139297339.4109607.
+358: It's a fraction: -2112012249 / 1041830848. It's distance: -2.0272122418475367.
+359: It's a fraction: -412708198 / 2252233318. It's distance: -0.18324398040896045.
+360: It's a complex number: 2879389170 + -2405247867*i. It's distance: 3751812801.036499.
+361: It's a complex number: -1921663122 + -1414797552*i. It's distance: 2386302844.90464.
+362: It's a polar number: r = 1551273565, phi = 124348541. It's distance: 124348541.
+363: It's a complex number: 3924988902 + 4078650712*i. It's distance: 5660470785.307639.
+364: It's a complex number: -1357749990 + -941239758*i. It's distance: 1652094826.9953814.
+365: It's a fraction: 2469880603 / 687337872. It's distance: 3.593401009336497.
+366: It's a complex number: 3040797911 + -489397329*i. It's distance: 3079928843.5245214.
+367: It's a polar number: r = -3720469025, phi = 3482183240. It's distance: 3482183240.
+368: It's a fraction: -1658927317 / 874949937. It's distance: -1.8960254145375177.
+369: It's a fraction: -1256045709 / 1764804233. It's distance: -0.7117195695212275.
+370: It's a complex number: 3865496697 + 847623703*i. It's distance: 3957338835.1776676.
+371: It's a polar number: r = -1754197095, phi = 2169055966. It's distance: 2169055966.
+372: It's a fraction: -2596721938 / 1163353615. It's distance: -2.232100287065339.
+373: It's a polar number: r = 2235082692, phi = -1568104795. It's distance: -1568104795.
+374: It's a polar number: r = 1294378839, phi = -2507428167. It's distance: -2507428167.
+375: It's a complex number: 611805729 + 4135393526*i. It's distance: 4180404988.1464753.
+376: It's a polar number: r = -2711799690, phi = 3064505474. It's distance: 3064505474.
+377: It's a fraction: 2824230505 / 2548986978. It's distance: 1.1079815351649867.
+378: It's a polar number: r = -2786020713, phi = -1906279363. It's distance: -1906279363.
+379: It's a polar number: r = -2227157743, phi = -1878459710. It's distance: -1878459710.
+380: It's a fraction: 1625996692 / 634782787. It's distance: 2.561500918581146.
+381: It's a complex number: 1037876138 + 1747959806*i. It's distance: 2032867521.8078902.
+382: It's a fraction: 580048560 / 699504137. It's distance: 0.8292282051221093.
+383: It's a polar number: r = -2232912476, phi = 3010268497. It's distance: 3010268497.
+384: It's a polar number: r = 2382926617, phi = 3600099266. It's distance: 3600099266.
+385: It's a fraction: -2065236371 / 1664219628. It's distance: -1.2409638344921623.
+386: It's a complex number: 4139380293 + -3429885919*i. It's distance: 5375740565.487813.
+387: It's a fraction: 1981210161 / 1636156584. It's distance: 1.2108927595159804.
+388: It's a polar number: r = -1676890215, phi = -2734284085. It's distance: -2734284085.
+389: It's a polar number: r = 160126452, phi = 1879419055. It's distance: 1879419055.
+390: It's a fraction: 2007497671 / 4240514031. It's distance: 0.4734090386977427.
+391: It's a fraction: -70728636 / 1292261983. It's distance: -0.05473242804512651.
+392: It's a polar number: r = 1670275385, phi = -2425717090. It's distance: -2425717090.
+393: It's a polar number: r = 1878531175, phi = -132156860. It's distance: -132156860.
+394: It's a polar number: r = -3772783608, phi = 2114414948. It's distance: 2114414948.
+395: It's a polar number: r = 2341376873, phi = 2980908223. It's distance: 2980908223.
+396: It's a polar number: r = 1137926234, phi = -3789276024. It's distance: -3789276024.
+397: It's a polar number: r = -1121865176, phi = -1343364148. It's distance: -1343364148.
+398: It's a polar number: r = 2857545760, phi = 223710512. It's distance: 223710512.
+399: It's a polar number: r = 2992106578, phi = 3481268256. It's distance: 3481268256.
+400: It's a fraction: -1605943226 / 1469810938. It's distance: -1.0926189106914919.
+401: It's a fraction: -2432905315 / 1530008326. It's distance: -1.5901255396174883.
+402: It's a complex number: -3468918878 + -2497866697*i. It's distance: 4274662117.4224367.
+403: It's a fraction: -2301629998 / 845842315. It's distance: -2.7211100191883872.
+404: It's a polar number: r = -1313076789, phi = 1350361880. It's distance: 1350361880.
+405: It's a fraction: 1028980633 / 1513465662. It's distance: 0.6798836992708726.
+406: It's a fraction: -2665656184 / 3516268167. It's distance: -0.7580924029108613.
+407: It's a polar number: r = 2538111156, phi = 375708872. It's distance: 375708872.
+408: It's a complex number: -4140916682 + -1850524201*i. It's distance: 4535595968.089814.
+409: It's a fraction: 1112196749 / 3565503931. It's distance: 0.3119325544224172.
+410: It's a complex number: 1573049431 + 3800360148*i. It's distance: 4113055040.5843105.
+411: It's a fraction: 3115547365 / 1626561273. It's distance: 1.915419613583779.
+412: It's a polar number: r = 908330851, phi = -1338668018. It's distance: -1338668018.
+413: It's a complex number: -3342280429 + 2554633805*i. It's distance: 4206779331.4749947.
+414: It's a polar number: r = -4291018812, phi = 2889633133. It's distance: 2889633133.
+415: It's a polar number: r = -2782337137, phi = -1644011727. It's distance: -1644011727.
+416: It's a complex number: -4146038584 + -180420998*i. It's distance: 4149962370.4963927.
+417: It's a fraction: 339884927 / 3860239260. It's distance: 0.08804763231178578.
+418: It's a polar number: r = -3821950898, phi = -3222471559. It's distance: -3222471559.
+419: It's a polar number: r = 1508632096, phi = -2301341412. It's distance: -2301341412.
+420: It's a polar number: r = 2683104022, phi = -3642316402. It's distance: -3642316402.
+421: It's a fraction: 3397952962 / 1539366227. It's distance: 2.2073713859645436.
+422: It's a polar number: r = 101580656, phi = 2346663356. It's distance: 2346663356.
+423: It's a fraction: -1727447524 / 1762422366. It's distance: -0.9801552438991233.
+424: It's a complex number: -3480180208 + 936261122*i. It's distance: 3603919972.5748105.
+425: It's a complex number: 579046871 + 3547137185*i. It's distance: 3594089243.191468.
+426: It's a complex number: 2623727112 + 3790392391*i. It's distance: 4609882692.216208.
+427: It's a fraction: 3092451306 / 2521636238. It's distance: 1.2263669356420472.
+428: It's a fraction: 439656798 / 3023629455. It's distance: 0.14540697018047802.
+429: It's a fraction: 911507280 / 1648529675. It's distance: 0.5529213661258479.
+430: It's a polar number: r = -3104061579, phi = -941818310. It's distance: -941818310.
+431: It's a fraction: -2091505279 / 387546661. It's distance: -5.396783121813557.
+432: It's a complex number: -792318894 + -3688630158*i. It's distance: 3772765785.5075617.
+433: It's a fraction: -3247314980 / 98163151. It's distance: -33.08079403441318.
+434: It's a complex number: 2808159953 + -3583491261*i. It's distance: 4552710394.841334.
+435: It's a polar number: r = 3529540166, phi = 1035563755. It's distance: 1035563755.
+436: It's a fraction: -3303196707 / 1596179108. It's distance: -2.0694398833091356.
+437: It's a fraction: 443413639 / 3392996409. It's distance: 0.13068497149712133.
+438: It's a complex number: 2618225455 + 797526432*i. It's distance: 2736997066.6678853.
+439: It's a polar number: r = -2234261767, phi = -4078142345. It's distance: -4078142345.
+440: It's a polar number: r = 2487666098, phi = 1936726572. It's distance: 1936726572.
+441: It's a complex number: 783911821 + -1662326232*i. It's distance: 1837891793.5229087.
+442: It's a complex number: 591913755 + 2875999988*i. It's distance: 2936279588.924427.
+443: It's a complex number: -2792095704 + -3674971053*i. It's distance: 4615323462.194517.
+444: It's a polar number: r = 3685456154, phi = 1953608328. It's distance: 1953608328.
+445: It's a polar number: r = -382495954, phi = -533361869. It's distance: -533361869.
+446: It's a complex number: -3548960110 + 1037451799*i. It's distance: 3697488890.804075.
+447: It's a polar number: r = 682409166, phi = 3645278586. It's distance: 3645278586.
+448: It's a polar number: r = -4249874669, phi = -2883224661. It's distance: -2883224661.
+449: It's a polar number: r = 1965270766, phi = 4016695961. It's distance: 4016695961.
+450: It's a polar number: r = -3565165933, phi = -73864738. It's distance: -73864738.
+451: It's a polar number: r = 2410231147, phi = -924368248. It's distance: -924368248.
+452: It's a complex number: -1250380467 + 184883499*i. It's distance: 1263975166.0763044.
+453: It's a polar number: r = 3812627280, phi = -1497841674. It's distance: -1497841674.
+454: It's a complex number: 2339119780 + 419410034*i. It's distance: 2376422967.783119.
+455: It's a complex number: 294614462 + -2781923746*i. It's distance: 2797480546.809615.
+456: It's a polar number: r = 1515349323, phi = 3797856409. It's distance: 3797856409.
+457: It's a polar number: r = 3695982927, phi = 2169043678. It's distance: 2169043678.
+458: It's a complex number: -2172198050 + -1946771147*i. It's distance: 2916909711.872395.
+459: It's a complex number: -2425296660 + 340060963*i. It's distance: 2449021304.024047.
+460: It's a fraction: 150244742 / 2493234176. It's distance: 0.06026098288169783.
+461: It's a fraction: -732354624 / 640553539. It's distance: -1.1433152412885195.
+462: It's a fraction: 2985970749 / 837447148. It's distance: 3.565563219280317.
+463: It's a complex number: -1542267796 + -384618774*i. It's distance: 1589503556.426333.
+464: It's a complex number: 1870212039 + 1624218817*i. It's distance: 2477050632.5703998.
+465: It's a complex number: -2955078255 + 1316050804*i. It's distance: 3234884420.1737547.
+466: It's a fraction: -844485870 / 2619024387. It's distance: -0.3224429196580826.
+467: It's a complex number: -3967726280 + 1061564275*i. It's distance: 4107282622.7274537.
+468: It's a fraction: -825941870 / 1552227789. It's distance: -0.5321009428210927.
+469: It's a polar number: r = 2498165837, phi = -2524410497. It's distance: -2524410497.
+470: It's a polar number: r = 1969325577, phi = 1174310922. It's distance: 1174310922.
+471: It's a fraction: -3563352684 / 857295995. It's distance: -4.156502193854294.
+472: It's a complex number: -3430891724 + 2459991885*i. It's distance: 4221679534.9810176.
+473: It's a polar number: r = -3861832286, phi = 2097825770. It's distance: 2097825770.
+474: It's a complex number: -1301706795 + 635696382*i. It's distance: 1448637453.000944.
+475: It's a polar number: r = 543065047, phi = 3625222328. It's distance: 3625222328.
+476: It's a fraction: -3929746741 / 2709216027. It's distance: -1.4505106650175594.
+477: It's a polar number: r = 2969347770, phi = -1133088662. It's distance: -1133088662.
+478: It's a polar number: r = 1670010797, phi = -6936917. It's distance: -6936917.
+479: It's a complex number: -3578350255 + -969152778*i. It's distance: 3707269568.6399283.
+480: It's a polar number: r = 993131537, phi = 3105812404. It's distance: 3105812404.
+481: It's a polar number: r = -1334803592, phi = -964426775. It's distance: -964426775.
+482: It's a complex number: -3526320583 + 2969411450*i. It's distance: 4610026161.908473.
+483: It's a polar number: r = 2746581077, phi = -3027625715. It's distance: -3027625715.
+484: It's a fraction: -1938531152 / 3665766624. It's distance: -0.5288201216379452.
+485: It's a polar number: r = 637407746, phi = 1749542357. It's distance: 1749542357.
+486: It's a polar number: r = -3354226455, phi = 3065448032. It's distance: 3065448032.
+487: It's a fraction: 341977832 / 1575430072. It's distance: 0.21706950887757334.
+488: It's a complex number: 4287195580 + 2077155138*i. It's distance: 4763887006.268236.
+489: It's a polar number: r = -178633126, phi = 1413294979. It's distance: 1413294979.
+490: It's a complex number: -2611341381 + 659776435*i. It's distance: 2693400963.8938456.
+491: It's a polar number: r = 378803566, phi = 1671382962. It's distance: 1671382962.
+492: It's a polar number: r = 3235951014, phi = -2880968697. It's distance: -2880968697.
+493: It's a fraction: 3252948547 / 1164151535. It's distance: 2.7942655652642334.
+494: It's a polar number: r = -2463456114, phi = 4234649688. It's distance: 4234649688.
+495: It's a complex number: -2274753007 + 1245104010*i. It's distance: 2593219088.0397325.
+496: It's a complex number: 3546191328 + -1834533941*i. It's distance: 3992616650.2011423.
+497: It's a complex number: 3142336537 + -3916426307*i. It's distance: 5021222354.161067.
+498: It's a polar number: r = 2327613771, phi = -3181767711. It's distance: -3181767711.
+499: It's a polar number: r = 2377854949, phi = -106354656. It's distance: -106354656.
+500: It's a complex number: 3326226507 + -3878851842*i. It's distance: 5109723513.856324.
+501: It's a fraction: 3423439169 / 3407392265. It's distance: 1.0047094384068516.
+502: It's a complex number: -4106773555 + -3757281407*i. It's distance: 5566215285.401315.
+503: It's a complex number: -780361238 + 3447739525*i. It's distance: 3534949998.8005657.
+504: It's a fraction: 204118745 / 1096155429. It's distance: 0.1862133230377861.
+505: It's a complex number: -3705183737 + 2094825644*i. It's distance: 4256369462.780375.
+506: It's a polar number: r = 2890544870, phi = 1268501324. It's distance: 1268501324.
+507: It's a polar number: r = -4211339852, phi = 1663151484. It's distance: 1663151484.
+508: It's a fraction: 1558228913 / 2725694604. It's distance: 0.5716814021326067.
+509: It's a complex number: 2146242868 + 1039878674*i. It's distance: 2384891214.517103.
+510: It's a complex number: -2485236153 + 1724010260*i. It's distance: 3024666942.4522605.
+511: It's a polar number: r = 2141938618, phi = 1087866958. It's distance: 1087866958.
+512: It's a complex number: -2798864318 + 420974900*i. It's distance: 2830346504.7593756.
+513: It's a fraction: 28094210 / 4262996395. It's distance: 0.006590249532688146.
+514: It's a fraction: -860971690 / 810404868. It's distance: -1.0623969869835481.
+515: It's a complex number: -281614610 + -2323127943*i. It's distance: 2340134660.2520256.
+516: It's a fraction: -2689711645 / 1543439594. It's distance: -1.7426737369288972.
+517: It's a polar number: r = -4022285055, phi = 1278080798. It's distance: 1278080798.
+518: It's a polar number: r = -3098212494, phi = -1494560036. It's distance: -1494560036.
+519: It's a fraction: 3284296622 / 2290325744. It's distance: 1.4339866853454886.
+520: It's a polar number: r = -432015859, phi = 108860740. It's distance: 108860740.
+521: It's a complex number: 3578862060 + 2954222833*i. It's distance: 4640655793.260903.
+522: It's a complex number: -4109042518 + -3450538616*i. It's distance: 5365673038.421086.
+523: It's a polar number: r = -4140105890, phi = -1940057061. It's distance: -1940057061.
+524: It's a complex number: -525029860 + -3575860349*i. It's distance: 3614198886.2598615.
+525: It's a complex number: -3568899834 + -4067684191*i. It's distance: 5411386208.989019.
+526: It's a fraction: 247613275 / 3417275694. It's distance: 0.0724592620474712.
+527: It's a polar number: r = -1072139146, phi = -3144188285. It's distance: -3144188285.
+528: It's a complex number: 49632942 + -410664428*i. It's distance: 413652875.435603.
+529: It's a complex number: 764711991 + 509565960*i. It's distance: 918935197.2636077.
+530: It's a complex number: 179069936 + 893657342*i. It's distance: 911421684.4521251.
+531: It's a polar number: r = 1869114625, phi = 3778721605. It's distance: 3778721605.
+532: It's a complex number: 2277187899 + -284505747*i. It's distance: 2294891772.4868994.
+533: It's a polar number: r = -766323215, phi = -3280752771. It's distance: -3280752771.
+534: It's a complex number: -3609250788 + 4184658857*i. It's distance: 5526125315.277166.
+535: It's a fraction: 1137698256 / 3977606044. It's distance: 0.2860258767245578.
+536: It's a fraction: -164983484 / 2283172438. It's distance: -0.07226063229132236.
+537: It's a complex number: 258282982 + 2753827861*i. It's distance: 2765913589.903099.
+538: It's a polar number: r = 2298507796, phi = 2398900691. It's distance: 2398900691.
+539: It's a polar number: r = -272136858, phi = -2965760996. It's distance: -2965760996.
+540: It's a fraction: -3237574909 / 132373047. It's distance: -24.45796166496039.
+541: It's a fraction: 1638265665 / 4205451371. It's distance: 0.38955762900914065.
+542: It's a polar number: r = 1387225383, phi = -606715187. It's distance: -606715187.
+543: It's a polar number: r = 1653460525, phi = 3700779772. It's distance: 3700779772.
+544: It's a polar number: r = -424499480, phi = 2222568947. It's distance: 2222568947.
+545: It's a fraction: -1761873646 / 4131091268. It's distance: -0.4264910968314148.
+546: It's a polar number: r = -3947074599, phi = 1466983524. It's distance: 1466983524.
+547: It's a polar number: r = -2461947693, phi = 4029934418. It's distance: 4029934418.
+548: It's a complex number: -1011436890 + 4062651365*i. It's distance: 4186662238.1067753.
+549: It's a polar number: r = -1615254761, phi = -250792718. It's distance: -250792718.
+550: It's a fraction: 4111369790 / 4230551243. It's distance: 0.9718283868568661.
+551: It's a fraction: 2112591662 / 874043794. It's distance: 2.417031819803757.
+552: It's a complex number: -1200603385 + 1615441398*i. It's distance: 2012734308.955271.
+553: It's a complex number: 455497009 + -856004972*i. It's distance: 969650471.7147653.
+554: It's a complex number: 744957045 + 3726862830*i. It's distance: 3800587790.3991036.
+555: It's a fraction: 3235003682 / 3383103298. It's distance: 0.9562237381023652.
+556: It's a complex number: -2534994621 + 2171048352*i. It's distance: 3337611222.898924.
+557: It's a polar number: r = -3059242816, phi = 3591015088. It's distance: 3591015088.
+558: It's a complex number: -2411825123 + -3874432463*i. It's distance: 4563784321.621938.
+559: It's a fraction: -639802786 / 2524235431. It's distance: -0.2534639907762233.
+560: It's a polar number: r = -2904761827, phi = -2553196255. It's distance: -2553196255.
+561: It's a fraction: -894081059 / 283245462. It's distance: -3.1565591649267093.
+562: It's a polar number: r = -2109133871, phi = 1965695565. It's distance: 1965695565.
+563: It's a complex number: 3733237706 + 2302226004*i. It's distance: 4386035606.671924.
+564: It's a complex number: -943959983 + 771513121*i. It's distance: 1219136147.1880493.
+565: It's a fraction: 2149147602 / 3257742373. It's distance: 0.6597045916865691.
+566: It's a complex number: -129166531 + 1513612860*i. It's distance: 1519114176.9755008.
+567: It's a polar number: r = 2238067727, phi = 3809187754. It's distance: 3809187754.
+568: It's a fraction: 3013935688 / 2252981724. It's distance: 1.3377541663538146.
+569: It's a complex number: -577595460 + -790402809*i. It's distance: 978955114.3375789.
+570: It's a polar number: r = 1421174341, phi = 815776819. It's distance: 815776819.
+571: It's a polar number: r = 1427945074, phi = 815919731. It's distance: 815919731.
+572: It's a polar number: r = 1545747515, phi = 358793884. It's distance: 358793884.
+573: It's a fraction: 3606079646 / 71981124. It's distance: 50.097573441615054.
+574: It's a complex number: 3901530576 + 714430045*i. It's distance: 3966402794.051758.
+575: It's a fraction: -4275038090 / 1640274468. It's distance: -2.6062943570734163.
+576: It's a polar number: r = -3804802226, phi = -4278677033. It's distance: -4278677033.
+577: It's a complex number: -3797978324 + -4210495082*i. It's distance: 5670353444.461821.
+578: It's a fraction: 1492138948 / 3729602306. It's distance: 0.40007990814450123.
+579: It's a fraction: -3122992611 / 1370636614. It's distance: -2.278497873981353.
+580: It's a polar number: r = -3445974063, phi = 4263757097. It's distance: 4263757097.
+581: It's a complex number: 3980037195 + 3154908072*i. It's distance: 5078793263.7935.
+582: It's a fraction: 3422096405 / 1562658064. It's distance: 2.1899201647738082.
+583: It's a complex number: 3313757390 + 1799909682*i. It's distance: 3771029422.2051563.
+584: It's a polar number: r = 2845266714, phi = -1470017568. It's distance: -1470017568.
+585: It's a fraction: -3194642192 / 3364887411. It's distance: -0.949405374324425.
+586: It's a polar number: r = -1693719883, phi = 338877616. It's distance: 338877616.
+587: It's a polar number: r = -1402104944, phi = -191035951. It's distance: -191035951.
+588: It's a fraction: 1291834998 / 516578308. It's distance: 2.500753473372715.
+589: It's a complex number: 2880923660 + -3126390467*i. It's distance: 4251357252.324988.
+590: It's a fraction: 3548727331 / 2157535266. It's distance: 1.6448061762527872.
+591: It's a complex number: -1435861099 + 1312148148*i. It's distance: 1945104073.8020468.
+592: It's a fraction: 1562561783 / 3102284916. It's distance: 0.5036809401164623.
+593: It's a complex number: 1555174133 + -3624948283*i. It's distance: 3944466584.7712474.
+594: It's a polar number: r = -3656672986, phi = 1339463788. It's distance: 1339463788.
+595: It's a fraction: 3733495579 / 3199198818. It's distance: 1.1670095518896257.
+596: It's a fraction: -3015040139 / 2250938963. It's distance: -1.3394588607509923.
+597: It's a complex number: -150561006 + -48622041*i. It's distance: 158217317.0001872.
+598: It's a fraction: 521640280 / 2353406014. It's distance: 0.22165333006580817.
+599: It's a fraction: 2296706764 / 3516339882. It's distance: 0.6531526647229832.
+600: It's a polar number: r = 3221819656, phi = -336841866. It's distance: -336841866.
+601: It's a complex number: 1502881753 + -3296689222*i. It's distance: 3623094449.4935985.
+602: It's a polar number: r = 1903628034, phi = -2257503857. It's distance: -2257503857.
+603: It's a polar number: r = -295976256, phi = 2797589818. It's distance: 2797589818.
+604: It's a complex number: 1234013612 + -3646085162*i. It's distance: 3849250135.176701.
+605: It's a polar number: r = 3074764619, phi = 1766578532. It's distance: 1766578532.
+606: It's a complex number: -1670642366 + 3493842223*i. It's distance: 3872722478.3466806.
+607: It's a fraction: -3462504239 / 3981473463. It's distance: -0.8696539789043422.
+608: It's a complex number: 1741231863 + -356088520*i. It's distance: 1777269657.3120918.
+609: It's a fraction: 4210709741 / 557169740. It's distance: 7.557319500158067.
+610: It's a complex number: -2421290907 + 1890953361*i. It's distance: 3072190467.6953344.
+611: It's a polar number: r = 1077644657, phi = -3042440022. It's distance: -3042440022.
+612: It's a complex number: -3509840814 + -3402899664*i. It's distance: 4888630550.867134.
+613: It's a complex number: -343125425 + -967148634*i. It's distance: 1026212228.3083049.
+614: It's a polar number: r = -2915138464, phi = -1688466127. It's distance: -1688466127.
+615: It's a fraction: 1071407133 / 1849220610. It's distance: 0.5793830802048004.
+616: It's a complex number: 2756822678 + -1961939819*i. It's distance: 3383678343.3584294.
+617: It's a polar number: r = -4060054260, phi = -617713977. It's distance: -617713977.
+618: It's a fraction: 3466729791 / 3626945315. It's distance: 0.9558263193720085.
+619: It's a complex number: -1994264743 + 922981614*i. It's distance: 2197495602.9432464.
+620: It's a fraction: -3800468194 / 4277510275. It's distance: -0.8884766954767864.
+621: It's a fraction: 358486939 / 2480998246. It's distance: 0.14449302395838937.
+622: It's a fraction: -1180972394 / 914470085. It's distance: -1.2914281323921055.
+623: It's a complex number: 3286940294 + -2780128752*i. It's distance: 4305007825.082073.
+624: It's a polar number: r = 2778744072, phi = -4080247400. It's distance: -4080247400.
+625: It's a polar number: r = 3276012278, phi = 79005280. It's distance: 79005280.
+626: It's a fraction: -124460128 / 144984068. It's distance: -0.8584400321833983.
+627: It's a polar number: r = -117149013, phi = 3753272914. It's distance: 3753272914.
+628: It's a complex number: 3531956189 + -2893218891*i. It's distance: 4565679584.930886.
+629: It's a complex number: 1047526616 + 2743261587*i. It's distance: 2936459798.113737.
+630: It's a fraction: 1231068342 / 1367506223. It's distance: 0.9002286946082877.
+631: It's a polar number: r = 1868353873, phi = -372147205. It's distance: -372147205.
+632: It's a fraction: 1189970330 / 984502433. It's distance: 1.2087022744818345.
+633: It's a complex number: -1296572199 + 1696850175*i. It's distance: 2135509303.097794.
+634: It's a polar number: r = -2240509968, phi = -1658371687. It's distance: -1658371687.
+635: It's a polar number: r = -722089840, phi = 19789283. It's distance: 19789283.
+636: It's a polar number: r = -4232565780, phi = -3541760400. It's distance: -3541760400.
+637: It's a complex number: -3903049335 + -2761359269*i. It's distance: 4781098108.587206.
+638: It's a fraction: -512766963 / 3478796341. It's distance: -0.14739781025887885.
+639: It's a polar number: r = 4202619504, phi = 578995942. It's distance: 578995942.
+640: It's a complex number: -643484150 + -1083086228*i. It's distance: 1259820474.7441163.
+641: It's a polar number: r = 387254508, phi = -3427718453. It's distance: -3427718453.
+642: It's a polar number: r = 2960420179, phi = -589592748. It's distance: -589592748.
+643: It's a polar number: r = -2522209877, phi = -1755883577. It's distance: -1755883577.
+644: It's a fraction: 749943213 / 799484184. It's distance: 0.9380338323240676.
+645: It's a polar number: r = -656278678, phi = -1678347019. It's distance: -1678347019.
+646: It's a complex number: -3926893809 + -695312246*i. It's distance: 3987976191.829647.
+647: It's a polar number: r = 2465478461, phi = -873649204. It's distance: -873649204.
+648: It's a complex number: -2469538128 + 1790178140*i. It's distance: 3050140380.1431174.
+649: It's a complex number: -1417675190 + -4232980514*i. It's distance: 4464070673.30315.
+650: It's a fraction: 3149409741 / 959862910. It's distance: 3.281103695318324.
+651: It's a fraction: -1098237863 / 2232285317. It's distance: -0.49197916352195403.
+652: It's a complex number: -119011961 + 2714628040*i. It's distance: 2717235588.316793.
+653: It's a complex number: 2385431790 + 3626521621*i. It's distance: 4340730801.641939.
+654: It's a polar number: r = 880427764, phi = -4062800289. It's distance: -4062800289.
+655: It's a polar number: r = -2770402590, phi = -3193994. It's distance: -3193994.
+656: It's a fraction: -251742367 / 4103580109. It's distance: -0.06134700927316538.
+657: It's a complex number: -3618042395 + 3849210770*i. It's distance: 5282674921.278171.
+658: It's a fraction: 3487236553 / 2159924107. It's distance: 1.6145180942693187.
+659: It's a complex number: -508089237 + 744493844*i. It's distance: 901346635.0462172.
+660: It's a polar number: r = -81810740, phi = 2550900065. It's distance: 2550900065.
+661: It's a fraction: 2902392526 / 721208546. It's distance: 4.024345720939364.
+662: It's a polar number: r = -4141971283, phi = 3974015516. It's distance: 3974015516.
+663: It's a complex number: 579375197 + -1477807588*i. It's distance: 1587321922.6260207.
+664: It's a complex number: -1507351355 + 3006479437*i. It's distance: 3363186987.4457135.
+665: It's a polar number: r = 57012330, phi = -3555608657. It's distance: -3555608657.
+666: It's a polar number: r = 3725474682, phi = -3505270466. It's distance: -3505270466.
+667: It's a complex number: 1378839361 + 2894504879*i. It's distance: 3206143552.3066792.
+668: It's a fraction: -1949887238 / 3875888303. It's distance: -0.5030813804646423.
+669: It's a polar number: r = 1581605795, phi = -2183915135. It's distance: -2183915135.
+670: It's a fraction: 3567742269 / 2330040930. It's distance: 1.5311929602026346.
+671: It's a complex number: 835549289 + -31140104*i. It's distance: 836129368.2352847.
+672: It's a complex number: -2431017271 + -3550758535*i. It's distance: 4303223343.701281.
+673: It's a fraction: 131037280 / 920702356. It's distance: 0.14232317224568936.
+674: It's a complex number: 1531983033 + 2825346370*i. It's distance: 3213962371.2595105.
+675: It's a polar number: r = 942516645, phi = -2838434846. It's distance: -2838434846.
+676: It's a fraction: 4215783322 / 3635664035. It's distance: 1.1595635024070645.
+677: It's a fraction: 105445238 / 1266626606. It's distance: 0.08324887342529105.
+678: It's a complex number: -3419081969 + -2394005651*i. It's distance: 4173893214.705049.
+679: It's a fraction: -3857435890 / 3899020724. It's distance: -0.9893345439935651.
+680: It's a complex number: -2984565893 + -939346360*i. It's distance: 3128898392.9977875.
+681: It's a fraction: 2411919998 / 988105095. It's distance: 2.440954924941461.
+682: It's a complex number: -1425655602 + 21450586*i. It's distance: 1425816966.91887.
+683: It's a fraction: 3778927021 / 1064613965. It's distance: 3.549574911878974.
+684: It's a fraction: 2889366247 / 2443679038. It's distance: 1.182383693631373.
+685: It's a complex number: 3608931401 + -3814640425*i. It's distance: 5251272934.172057.
+686: It's a polar number: r = 2695273326, phi = 3413232603. It's distance: 3413232603.
+687: It's a fraction: -179011633 / 2968378167. It's distance: -0.060306208619273945.
+688: It's a polar number: r = -3222764578, phi = 1337248081. It's distance: 1337248081.
+689: It's a fraction: 1558281088 / 2567347804. It's distance: 0.6069614274981185.
+690: It's a complex number: -1748663199 + 2111193239*i. It's distance: 2741342714.061163.
+691: It's a complex number: 1203873001 + 2700647425*i. It's distance: 2956823754.7571006.
+692: It's a polar number: r = -217009950, phi = 2593919256. It's distance: 2593919256.
+693: It's a fraction: -212113231 / 3877181904. It's distance: -0.05470809372682969.
+694: It's a polar number: r = 2714298733, phi = -1766766290. It's distance: -1766766290.
+695: It's a complex number: -582958921 + -3598473196*i. It's distance: 3645387557.7095966.
+696: It's a fraction: -2331470555 / 2329047891. It's distance: -1.0010401950124606.
+697: It's a fraction: -4183705226 / 2225711873. It's distance: -1.879715553820025.
+698: It's a fraction: 563362607 / 4034357291. It's distance: 0.1396412281720241.
+699: It's a complex number: -1710088516 + -2186510247*i. It's distance: 2775829568.397722.
+700: It's a complex number: 3645796804 + -1216950365*i. It's distance: 3843540363.6400447.
+701: It's a polar number: r = -1877633993, phi = -1200421266. It's distance: -1200421266.
+702: It's a complex number: -3867754224 + 3401766359*i. It's distance: 5150877313.477186.
+703: It's a complex number: 2825199519 + 3411348269*i. It's distance: 4429339604.790666.
+704: It's a complex number: -814526714 + 700961866*i. It's distance: 1074616817.9429538.
+705: It's a complex number: -3082620850 + 2361614009*i. It's distance: 3883268215.351571.
+706: It's a complex number: -3719438209 + -3445047150*i. It's distance: 5069770256.756439.
+707: It's a polar number: r = 3409529068, phi = -1313353164. It's distance: -1313353164.
+708: It's a complex number: 3922338685 + -551645981*i. It's distance: 3960941055.8857074.
+709: It's a polar number: r = 1571415231, phi = 4011214067. It's distance: 4011214067.
+710: It's a complex number: 4157478068 + 1153457710*i. It's distance: 4314520665.689233.
+711: It's a fraction: 1434597983 / 2420395458. It's distance: 0.5927122273586749.
+712: It's a fraction: 2058790511 / 1062857892. It's distance: 1.9370327176344662.
+713: It's a fraction: 1746800484 / 567562423. It's distance: 3.0777239880801623.
+714: It's a fraction: 763707555 / 2425606347. It's distance: 0.3148522248651586.
+715: It's a fraction: -3612585099 / 2633957435. It's distance: -1.3715427026253368.
+716: It's a fraction: 1819908818 / 1614627891. It's distance: 1.127138226797793.
+717: It's a complex number: -967735303 + 2245198674*i. It's distance: 2444878054.710267.
+718: It's a polar number: r = -436826165, phi = 1933835550. It's distance: 1933835550.
+719: It's a complex number: 2420061103 + 559389325*i. It's distance: 2483870399.0300164.
+720: It's a polar number: r = 3661842468, phi = 899960263. It's distance: 899960263.
+721: It's a complex number: -3160372034 + 699150244*i. It's distance: 3236782732.432709.
+722: It's a fraction: 4069399599 / 2821960550. It's distance: 1.4420469481757994.
+723: It's a fraction: -2199091518 / 3535639703. It's distance: -0.6219783978933331.
+724: It's a complex number: -1775790254 + -1684591062*i. It's distance: 2447708739.2848997.
+725: It's a complex number: -283608388 + 2000715962*i. It's distance: 2020717218.797708.
+726: It's a complex number: 2553365668 + 2484953052*i. It's distance: 3562957746.755524.
+727: It's a fraction: 3242287417 / 996656655. It's distance: 3.25316386614606.
+728: It's a fraction: -3384105339 / 1961647891. It's distance: -1.7251339317959178.
+729: It's a complex number: -3238073504 + 2697988858*i. It's distance: 4214767359.558411.
+730: It's a complex number: -1351090917 + 4002076678*i. It's distance: 4223986790.0588202.
+731: It's a complex number: -239530406 + 623631019*i. It's distance: 668049746.094932.
+732: It's a complex number: 3586667360 + 205286807*i. It's distance: 3592537463.1891623.
+733: It's a polar number: r = -1332639193, phi = -1810222678. It's distance: -1810222678.
+734: It's a fraction: 669812515 / 1621216413. It's distance: 0.41315428935273185.
+735: It's a fraction: -837962268 / 3950015319. It's distance: -0.21214152359594937.
+736: It's a polar number: r = 936905274, phi = 3895158665. It's distance: 3895158665.
+737: It's a polar number: r = 3066069673, phi = -1480078337. It's distance: -1480078337.
+738: It's a polar number: r = -2291906605, phi = 1460439669. It's distance: 1460439669.
+739: It's a fraction: -855586414 / 3860453572. It's distance: -0.22162846879071338.
+740: It's a complex number: -1138054745 + -2573937210*i. It's distance: 2814306551.1133647.
+741: It's a polar number: r = -3224595222, phi = 155747359. It's distance: 155747359.
+742: It's a polar number: r = -4130396621, phi = -3370193599. It's distance: -3370193599.
+743: It's a fraction: -1234996287 / 266990143. It's distance: -4.625625025415264.
+744: It's a complex number: -3565001233 + -1639330468*i. It's distance: 3923855014.4729633.
+745: It's a fraction: -463251184 / 2415537285. It's distance: -0.19177976960931076.
+746: It's a polar number: r = 1845620793, phi = 2631176146. It's distance: 2631176146.
+747: It's a complex number: 1056281404 + -1641882083*i. It's distance: 1952308166.9942966.
+748: It's a complex number: 1982759819 + 2116025405*i. It's distance: 2899810341.1165233.
+749: It's a complex number: -698791212 + 3164059623*i. It's distance: 3240305920.1049724.
+750: It's a fraction: 1067111882 / 858503452. It's distance: 1.242990787647992.
+751: It's a fraction: 1350740562 / 1041234329. It's distance: 1.2972493552889766.
+752: It's a polar number: r = 3818840442, phi = 16212659. It's distance: 16212659.
+753: It's a complex number: 1522875018 + -2762535615*i. It's distance: 3154481152.9936156.
+754: It's a polar number: r = -670168421, phi = -3180365191. It's distance: -3180365191.
+755: It's a complex number: -1288113189 + -1874158461*i. It's distance: 2274138413.688498.
+756: It's a fraction: -534504967 / 1814856023. It's distance: -0.29451645762866113.
+757: It's a fraction: -3378649478 / 2294642062. It's distance: -1.4724080648356912.
+758: It's a complex number: -2774121706 + -1321119914*i. It's distance: 3072638779.106278.
+759: It's a complex number: 3162398996 + 4099728620*i. It's distance: 5177696608.294939.
+760: It's a polar number: r = -4275900522, phi = -2670596522. It's distance: -2670596522.
+761: It's a complex number: -732042952 + 3514965655*i. It's distance: 3590385834.336256.
+762: It's a complex number: 321742935 + 1799187493*i. It's distance: 1827729233.5545871.
+763: It's a fraction: 1476078713 / 4024707737. It's distance: 0.36675426129209143.
+764: It's a polar number: r = -3030540519, phi = -2802012668. It's distance: -2802012668.
+765: It's a complex number: 1923769703 + -3966054389*i. It's distance: 4408001507.110322.
+766: It's a polar number: r = 561005368, phi = -3289793650. It's distance: -3289793650.
+767: It's a complex number: 3892143848 + 578274024*i. It's distance: 3934867797.0622344.
+768: It's a complex number: -1464046264 + -2642736269*i. It's distance: 3021173025.6012144.
+769: It's a fraction: -2691467499 / 2536923259. It's distance: -1.060917979860738.
+770: It's a complex number: 2227186887 + -2841432852*i. It's distance: 3610277286.0335264.
+771: It's a fraction: 3322962963 / 1436627109. It's distance: 2.313030947406409.
+772: It's a polar number: r = 3646839973, phi = -877141373. It's distance: -877141373.
+773: It's a complex number: 1884133272 + -647707956*i. It's distance: 1992356339.343724.
+774: It's a polar number: r = 2526805670, phi = 2297650627. It's distance: 2297650627.
+775: It's a polar number: r = 3048103479, phi = 2316098103. It's distance: 2316098103.
+776: It's a fraction: -234063385 / 790878478. It's distance: -0.2959536660953366.
+777: It's a fraction: 1580937779 / 2987208046. It's distance: 0.5292359134868239.
+778: It's a fraction: 1854818840 / 4034163049. It's distance: 0.45977785663863485.
+779: It's a complex number: -1962564243 + -683824334*i. It's distance: 2078286344.0038064.
+780: It's a complex number: 3863168470 + 1858192904*i. It's distance: 4286834670.952227.
+781: It's a fraction: 1791364503 / 1829207117. It's distance: 0.9793120124843686.
+782: It's a fraction: 2316936760 / 1774630286. It's distance: 1.3055884249684218.
+783: It's a complex number: 1694360072 + -806315919*i. It's distance: 1876433162.8972716.
+784: It's a complex number: 2392929204 + 3864427194*i. It's distance: 4545317119.088919.
+785: It's a fraction: -273765878 / 3197842765. It's distance: -0.08560954934880921.
+786: It's a complex number: -97753933 + -70910209*i. It's distance: 120764602.25327688.
+787: It's a complex number: -1104718950 + 2613892205*i. It's distance: 2837752000.765547.
+788: It's a fraction: 1392083186 / 2820529211. It's distance: 0.4935538978185041.
+789: It's a fraction: -2364873132 / 3274562475. It's distance: -0.7221951482235807.
+790: It's a fraction: 3459013772 / 134318229. It's distance: 25.75237775060301.
+791: It's a fraction: -1838721380 / 661575694. It's distance: -2.779306127289495.
+792: It's a complex number: 4100153439 + -2071420762*i. It's distance: 4593695919.0381975.
+793: It's a complex number: -1182714748 + -1547859118*i. It's distance: 1947994359.4149451.
+794: It's a polar number: r = -2276000918, phi = 1991649509. It's distance: 1991649509.
+795: It's a polar number: r = -61756242, phi = 3872419237. It's distance: 3872419237.
+796: It's a polar number: r = 456138433, phi = -2775513263. It's distance: -2775513263.
+797: It's a fraction: 3498257715 / 533931972. It's distance: 6.551879075336586.
+798: It's a fraction: -3327088250 / 334830708. It's distance: -9.936628184055328.
+799: It's a complex number: 1071842625 + -1202451059*i. It's distance: 1610818165.4231217.
+800: It's a complex number: 4264980237 + -3224046647*i. It's distance: 5346450523.855291.
+801: It's a fraction: -3272069406 / 3341707051. It's distance: -0.9791610563292312.
+802: It's a fraction: -494434545 / 4021573979. It's distance: -0.12294553017844659.
+803: It's a fraction: -3679182122 / 672147218. It's distance: -5.473774232001657.
+804: It's a complex number: 1115571009 + -3427784550*i. It's distance: 3604747646.831881.
+805: It's a complex number: 667367180 + -833911263*i. It's distance: 1068076283.5581584.
+806: It's a polar number: r = -2821315087, phi = 2854378857. It's distance: 2854378857.
+807: It's a fraction: -3061921367 / 3863053458. It's distance: -0.7926168768539987.
+808: It's a fraction: -1321997905 / 489888979. It's distance: -2.6985663316994115.
+809: It's a fraction: 4178707368 / 945822250. It's distance: 4.418068371726294.
+810: It's a polar number: r = -1744611029, phi = -2724719972. It's distance: -2724719972.
+811: It's a fraction: -712752841 / 943022259. It's distance: -0.755817621692003.
+812: It's a polar number: r = 1920974029, phi = -3949671773. It's distance: -3949671773.
+813: It's a complex number: 3632142977 + -3629646778*i. It's distance: 5134861082.679473.
+814: It's a polar number: r = 4172953349, phi = 629639002. It's distance: 629639002.
+815: It's a complex number: -2187818789 + -3196048801*i. It's distance: 3873148459.8288975.
+816: It's a fraction: -3777450776 / 3876464961. It's distance: -0.9744576086728106.
+817: It's a fraction: -1834628899 / 2559265494. It's distance: -0.7168575918759291.
+818: It's a polar number: r = -1594054848, phi = 2722794441. It's distance: 2722794441.
+819: It's a complex number: -167697639 + -3971417985*i. It's distance: 3974957019.8566465.
+820: It's a fraction: -3209477366 / 2206911747. It's distance: -1.4542844181978973.
+821: It's a fraction: -404922992 / 626798977. It's distance: -0.6460173147347048.
+822: It's a complex number: -3776240122 + 938509955*i. It's distance: 3891116856.9752154.
+823: It's a complex number: 1975604748 + -1938351439*i. It's distance: 2767710321.076524.
+824: It's a fraction: 129333370 / 511921422. It's distance: 0.2526430120753962.
+825: It's a fraction: -260314335 / 1848060857. It's distance: -0.1408580967526006.
+826: It's a polar number: r = -119048318, phi = -350606414. It's distance: -350606414.
+827: It's a complex number: 1770649986 + -1992828954*i. It's distance: 2665814812.1770453.
+828: It's a complex number: 1297184954 + 411296354*i. It's distance: 1360828238.866932.
+829: It's a complex number: 512463788 + 3399877228*i. It's distance: 3438282172.754917.
+830: It's a complex number: 1992674003 + -2962981172*i. It's distance: 3570715209.5705614.
+831: It's a complex number: 511663174 + 2238769434*i. It's distance: 2296494672.809069.
+832: It's a complex number: -742177024 + 2587813703*i. It's distance: 2692137904.415015.
+833: It's a complex number: -3959682363 + -754026839*i. It's distance: 4030836251.9191465.
+834: It's a polar number: r = 3094595906, phi = -4032230673. It's distance: -4032230673.
+835: It's a polar number: r = -1614149413, phi = -2679551093. It's distance: -2679551093.
+836: It's a fraction: -1984972311 / 2191351797. It's distance: -0.9058209246536603.
+837: It's a complex number: -2073450549 + 1412656202*i. It's distance: 2508942949.5700903.
+838: It's a fraction: -1277980043 / 4095050526. It's distance: -0.3120791880065804.
+839: It's a complex number: 3965933386 + 3674654267*i. It's distance: 5406635886.035857.
+840: It's a fraction: -359090230 / 329736023. It's distance: -1.089023354903507.
+841: It's a complex number: -2652664564 + 634862498*i. It's distance: 2727577621.346111.
+842: It's a polar number: r = 2314292597, phi = 1323873823. It's distance: 1323873823.
+Container was sorted by straight merge sort
+container contains 843 elements.
+0: It's a polar number: r = -3804802226, phi = -4278677033. It's distance: -4278677033.
+1: It's a polar number: r = -4195613173, phi = -4151666763. It's distance: -4151666763.
+2: It's a polar number: r = 33000210, phi = -4148744125. It's distance: -4148744125.
+3: It's a polar number: r = 2778744072, phi = -4080247400. It's distance: -4080247400.
+4: It's a polar number: r = -2234261767, phi = -4078142345. It's distance: -4078142345.
+5: It's a polar number: r = 880427764, phi = -4062800289. It's distance: -4062800289.
+6: It's a polar number: r = 3094595906, phi = -4032230673. It's distance: -4032230673.
+7: It's a polar number: r = 1920974029, phi = -3949671773. It's distance: -3949671773.
+8: It's a polar number: r = -2046344730, phi = -3840768771. It's distance: -3840768771.
+9: It's a polar number: r = -1449876604, phi = -3833236235. It's distance: -3833236235.
+10: It's a polar number: r = 1137926234, phi = -3789276024. It's distance: -3789276024.
+11: It's a polar number: r = -2356980464, phi = -3781503314. It's distance: -3781503314.
+12: It's a polar number: r = -1996416296, phi = -3775334744. It's distance: -3775334744.
+13: It's a polar number: r = 131050442, phi = -3737480068. It's distance: -3737480068.
+14: It's a polar number: r = 199232562, phi = -3704969167. It's distance: -3704969167.
+15: It's a polar number: r = 2683104022, phi = -3642316402. It's distance: -3642316402.
+16: It's a polar number: r = 57012330, phi = -3555608657. It's distance: -3555608657.
+17: It's a polar number: r = -4232565780, phi = -3541760400. It's distance: -3541760400.
+18: It's a polar number: r = -4196459063, phi = -3538068823. It's distance: -3538068823.
+19: It's a polar number: r = 3725474682, phi = -3505270466. It's distance: -3505270466.
+20: It's a polar number: r = 387254508, phi = -3427718453. It's distance: -3427718453.
+21: It's a polar number: r = -4130396621, phi = -3370193599. It's distance: -3370193599.
+22: It's a polar number: r = 2370205007, phi = -3361174654. It's distance: -3361174654.
+23: It's a polar number: r = -2625536804, phi = -3353588584. It's distance: -3353588584.
+24: It's a polar number: r = 561005368, phi = -3289793650. It's distance: -3289793650.
+25: It's a polar number: r = -766323215, phi = -3280752771. It's distance: -3280752771.
+26: It's a polar number: r = -2016668101, phi = -3263113562. It's distance: -3263113562.
+27: It's a polar number: r = -2133319222, phi = -3247496458. It's distance: -3247496458.
+28: It's a polar number: r = -3821950898, phi = -3222471559. It's distance: -3222471559.
+29: It's a polar number: r = -504061932, phi = -3206053777. It's distance: -3206053777.
+30: It's a polar number: r = -141298996, phi = -3197139284. It's distance: -3197139284.
+31: It's a polar number: r = 1358860729, phi = -3186823816. It's distance: -3186823816.
+32: It's a polar number: r = 2327613771, phi = -3181767711. It's distance: -3181767711.
+33: It's a polar number: r = -670168421, phi = -3180365191. It's distance: -3180365191.
+34: It's a polar number: r = -4060163206, phi = -3177899768. It's distance: -3177899768.
+35: It's a polar number: r = -1072139146, phi = -3144188285. It's distance: -3144188285.
+36: It's a polar number: r = 2029700488, phi = -3104192188. It's distance: -3104192188.
+37: It's a polar number: r = 228648981, phi = -3085922568. It's distance: -3085922568.
+38: It's a polar number: r = -1859304189, phi = -3059423039. It's distance: -3059423039.
+39: It's a polar number: r = 1077644657, phi = -3042440022. It's distance: -3042440022.
+40: It's a polar number: r = 2746581077, phi = -3027625715. It's distance: -3027625715.
+41: It's a polar number: r = -272136858, phi = -2965760996. It's distance: -2965760996.
+42: It's a polar number: r = -4249874669, phi = -2883224661. It's distance: -2883224661.
+43: It's a polar number: r = 3235951014, phi = -2880968697. It's distance: -2880968697.
+44: It's a polar number: r = 942516645, phi = -2838434846. It's distance: -2838434846.
+45: It's a polar number: r = -3030540519, phi = -2802012668. It's distance: -2802012668.
+46: It's a polar number: r = -3326220639, phi = -2781422750. It's distance: -2781422750.
+47: It's a polar number: r = 456138433, phi = -2775513263. It's distance: -2775513263.
+48: It's a polar number: r = -1676890215, phi = -2734284085. It's distance: -2734284085.
+49: It's a polar number: r = -1744611029, phi = -2724719972. It's distance: -2724719972.
+50: It's a polar number: r = -1614149413, phi = -2679551093. It's distance: -2679551093.
+51: It's a polar number: r = -4275900522, phi = -2670596522. It's distance: -2670596522.
+52: It's a polar number: r = -1540254521, phi = -2667227929. It's distance: -2667227929.
+53: It's a polar number: r = -2904761827, phi = -2553196255. It's distance: -2553196255.
+54: It's a polar number: r = 2498165837, phi = -2524410497. It's distance: -2524410497.
+55: It's a polar number: r = 1294378839, phi = -2507428167. It's distance: -2507428167.
+56: It's a polar number: r = 1594152375, phi = -2442629121. It's distance: -2442629121.
+57: It's a polar number: r = 1670275385, phi = -2425717090. It's distance: -2425717090.
+58: It's a polar number: r = 2079984075, phi = -2360821753. It's distance: -2360821753.
+59: It's a polar number: r = 1508632096, phi = -2301341412. It's distance: -2301341412.
+60: It's a polar number: r = -534913684, phi = -2269720657. It's distance: -2269720657.
+61: It's a polar number: r = -2857587736, phi = -2263418641. It's distance: -2263418641.
+62: It's a polar number: r = 1903628034, phi = -2257503857. It's distance: -2257503857.
+63: It's a polar number: r = -3895743204, phi = -2257311100. It's distance: -2257311100.
+64: It's a polar number: r = 1581605795, phi = -2183915135. It's distance: -2183915135.
+65: It's a polar number: r = -26656827, phi = -2064489081. It's distance: -2064489081.
+66: It's a polar number: r = 816184920, phi = -2041964627. It's distance: -2041964627.
+67: It's a polar number: r = -4140105890, phi = -1940057061. It's distance: -1940057061.
+68: It's a polar number: r = -2786020713, phi = -1906279363. It's distance: -1906279363.
+69: It's a polar number: r = -2227157743, phi = -1878459710. It's distance: -1878459710.
+70: It's a polar number: r = -1332639193, phi = -1810222678. It's distance: -1810222678.
+71: It's a polar number: r = 758446680, phi = -1773428887. It's distance: -1773428887.
+72: It's a polar number: r = 2714298733, phi = -1766766290. It's distance: -1766766290.
+73: It's a polar number: r = -2522209877, phi = -1755883577. It's distance: -1755883577.
+74: It's a polar number: r = -2345396975, phi = -1750670064. It's distance: -1750670064.
+75: It's a polar number: r = -2756740594, phi = -1709561730. It's distance: -1709561730.
+76: It's a polar number: r = -2915138464, phi = -1688466127. It's distance: -1688466127.
+77: It's a polar number: r = -656278678, phi = -1678347019. It's distance: -1678347019.
+78: It's a polar number: r = -2240509968, phi = -1658371687. It's distance: -1658371687.
+79: It's a polar number: r = -2782337137, phi = -1644011727. It's distance: -1644011727.
+80: It's a polar number: r = 2235082692, phi = -1568104795. It's distance: -1568104795.
+81: It's a polar number: r = 3812627280, phi = -1497841674. It's distance: -1497841674.
+82: It's a polar number: r = -3098212494, phi = -1494560036. It's distance: -1494560036.
+83: It's a polar number: r = 3066069673, phi = -1480078337. It's distance: -1480078337.
+84: It's a polar number: r = 2845266714, phi = -1470017568. It's distance: -1470017568.
+85: It's a polar number: r = -1121865176, phi = -1343364148. It's distance: -1343364148.
+86: It's a polar number: r = 908330851, phi = -1338668018. It's distance: -1338668018.
+87: It's a polar number: r = 3686243921, phi = -1323489199. It's distance: -1323489199.
+88: It's a polar number: r = 3409529068, phi = -1313353164. It's distance: -1313353164.
+89: It's a polar number: r = 1858765608, phi = -1254140841. It's distance: -1254140841.
+90: It's a polar number: r = -1877633993, phi = -1200421266. It's distance: -1200421266.
+91: It's a polar number: r = 91329577, phi = -1192409549. It's distance: -1192409549.
+92: It's a polar number: r = 2662574522, phi = -1167004571. It's distance: -1167004571.
+93: It's a polar number: r = 523060609, phi = -1147724171. It's distance: -1147724171.
+94: It's a polar number: r = 2969347770, phi = -1133088662. It's distance: -1133088662.
+95: It's a polar number: r = -3086552724, phi = -1130782375. It's distance: -1130782375.
+96: It's a polar number: r = 301059789, phi = -1069716677. It's distance: -1069716677.
+97: It's a polar number: r = -734458403, phi = -1026149999. It's distance: -1026149999.
+98: It's a polar number: r = -2672476818, phi = -1005895547. It's distance: -1005895547.
+99: It's a polar number: r = -1334803592, phi = -964426775. It's distance: -964426775.
+100: It's a polar number: r = -3104061579, phi = -941818310. It's distance: -941818310.
+101: It's a polar number: r = 2410231147, phi = -924368248. It's distance: -924368248.
+102: It's a polar number: r = 43916539, phi = -922969978. It's distance: -922969978.
+103: It's a polar number: r = 3646839973, phi = -877141373. It's distance: -877141373.
+104: It's a polar number: r = 2465478461, phi = -873649204. It's distance: -873649204.
+105: It's a polar number: r = 761443536, phi = -679453075. It's distance: -679453075.
+106: It's a polar number: r = -254641808, phi = -630061244. It's distance: -630061244.
+107: It's a polar number: r = 3290735925, phi = -628763748. It's distance: -628763748.
+108: It's a polar number: r = -4060054260, phi = -617713977. It's distance: -617713977.
+109: It's a polar number: r = 1387225383, phi = -606715187. It's distance: -606715187.
+110: It's a polar number: r = 820083245, phi = -601823846. It's distance: -601823846.
+111: It's a polar number: r = 2960420179, phi = -589592748. It's distance: -589592748.
+112: It's a polar number: r = 801376096, phi = -563192402. It's distance: -563192402.
+113: It's a polar number: r = 3535708791, phi = -552107500. It's distance: -552107500.
+114: It's a polar number: r = -382495954, phi = -533361869. It's distance: -533361869.
+115: It's a polar number: r = 2655194433, phi = -531484536. It's distance: -531484536.
+116: It's a polar number: r = -3919216097, phi = -398715753. It's distance: -398715753.
+117: It's a polar number: r = 1868353873, phi = -372147205. It's distance: -372147205.
+118: It's a polar number: r = -119048318, phi = -350606414. It's distance: -350606414.
+119: It's a polar number: r = 3221819656, phi = -336841866. It's distance: -336841866.
+120: It's a polar number: r = -1615254761, phi = -250792718. It's distance: -250792718.
+121: It's a polar number: r = -1402104944, phi = -191035951. It's distance: -191035951.
+122: It's a polar number: r = 1878531175, phi = -132156860. It's distance: -132156860.
+123: It's a polar number: r = 2377854949, phi = -106354656. It's distance: -106354656.
+124: It's a polar number: r = -3565165933, phi = -73864738. It's distance: -73864738.
+125: It's a polar number: r = -302885638, phi = -17880754. It's distance: -17880754.
+126: It's a polar number: r = 1670010797, phi = -6936917. It's distance: -6936917.
+127: It's a polar number: r = -2770402590, phi = -3193994. It's distance: -3193994.
+128: It's a fraction: -3247314980 / 98163151. It's distance: -33.08079403441318.
+129: It's a fraction: -3237574909 / 132373047. It's distance: -24.45796166496039.
+130: It's a fraction: -3085539947 / 143104279. It's distance: -21.561479283229538.
+131: It's a fraction: -3948980033 / 272979022. It's distance: -14.46623994791805.
+132: It's a fraction: -3327088250 / 334830708. It's distance: -9.936628184055328.
+133: It's a fraction: -471887405 / 65258700. It's distance: -7.23102674432681.
+134: It's a fraction: -3679182122 / 672147218. It's distance: -5.473774232001657.
+135: It's a fraction: -2091505279 / 387546661. It's distance: -5.396783121813557.
+136: It's a fraction: -2472132208 / 465474199. It's distance: -5.310997286876474.
+137: It's a fraction: -3851856134 / 760490824. It's distance: -5.064960697014275.
+138: It's a fraction: -1234996287 / 266990143. It's distance: -4.625625025415264.
+139: It's a fraction: -866138545 / 205535238. It's distance: -4.214063502823784.
+140: It's a fraction: -3563352684 / 857295995. It's distance: -4.156502193854294.
+141: It's a fraction: -894081059 / 283245462. It's distance: -3.1565591649267093.
+142: It's a fraction: -3598509871 / 1207873106. It's distance: -2.9792118502554024.
+143: It's a fraction: -990426172 / 352708715. It's distance: -2.808056988328173.
+144: It's a fraction: -1947212377 / 700130456. It's distance: -2.7812136442754607.
+145: It's a fraction: -1838721380 / 661575694. It's distance: -2.779306127289495.
+146: It's a fraction: -3497374905 / 1276372748. It's distance: -2.7400889830029493.
+147: It's a fraction: -2301629998 / 845842315. It's distance: -2.7211100191883872.
+148: It's a fraction: -1321997905 / 489888979. It's distance: -2.6985663316994115.
+149: It's a fraction: -4275038090 / 1640274468. It's distance: -2.6062943570734163.
+150: It's a fraction: -3122992611 / 1370636614. It's distance: -2.278497873981353.
+151: It's a fraction: -2688877294 / 1189094875. It's distance: -2.2612807022652417.
+152: It's a fraction: -1636344268 / 726393155. It's distance: -2.2526978079797573.
+153: It's a fraction: -2596721938 / 1163353615. It's distance: -2.232100287065339.
+154: It's a fraction: -3349216931 / 1552384037. It's distance: -2.1574667422324185.
+155: It's a fraction: -3303196707 / 1596179108. It's distance: -2.0694398833091356.
+156: It's a fraction: -3828705685 / 1853498978. It's distance: -2.065663769143983.
+157: It's a fraction: -4240286834 / 2089134456. It's distance: -2.029685940903365.
+158: It's a fraction: -2112012249 / 1041830848. It's distance: -2.0272122418475367.
+159: It's a fraction: -3743433448 / 1872815074. It's distance: -1.9988270598467.
+160: It's a fraction: -1658927317 / 874949937. It's distance: -1.8960254145375177.
+161: It's a fraction: -4183705226 / 2225711873. It's distance: -1.879715553820025.
+162: It's a fraction: -3835734465 / 2046467270. It's distance: -1.8743199665245562.
+163: It's a fraction: -3723513705 / 1995753412. It's distance: -1.8657183210167048.
+164: It's a fraction: -3751623907 / 2133226330. It's distance: -1.7586619170409359.
+165: It's a fraction: -2689711645 / 1543439594. It's distance: -1.7426737369288972.
+166: It's a fraction: -3384105339 / 1961647891. It's distance: -1.7251339317959178.
+167: It's a fraction: -3287518115 / 1914693229. It's distance: -1.7169946940884073.
+168: It's a fraction: -3551459867 / 2088196380. It's distance: -1.7007307842378312.
+169: It's a fraction: -2567569753 / 1554493205. It's distance: -1.6517085727627867.
+170: It's a fraction: -2832268368 / 1733432711. It's distance: -1.6339073042910865.
+171: It's a fraction: -2432905315 / 1530008326. It's distance: -1.5901255396174883.
+172: It's a fraction: -2355483084 / 1537685443. It's distance: -1.5318367581112622.
+173: It's a fraction: -2863774513 / 1929043951. It's distance: -1.4845563842728642.
+174: It's a fraction: -3378649478 / 2294642062. It's distance: -1.4724080648356912.
+175: It's a fraction: -2814993681 / 1916959580. It's distance: -1.468467937649473.
+176: It's a fraction: -3209477366 / 2206911747. It's distance: -1.4542844181978973.
+177: It's a fraction: -3929746741 / 2709216027. It's distance: -1.4505106650175594.
+178: It's a fraction: -3612585099 / 2633957435. It's distance: -1.3715427026253368.
+179: It's a fraction: -1082715977 / 797710547. It's distance: -1.35727925507797.
+180: It's a fraction: -3247749287 / 2418925575. It's distance: -1.3426412621231638.
+181: It's a fraction: -3015040139 / 2250938963. It's distance: -1.3394588607509923.
+182: It's a fraction: -2198920891 / 1650535241. It's distance: -1.332247162240385.
+183: It's a fraction: -1180972394 / 914470085. It's distance: -1.2914281323921055.
+184: It's a fraction: -1913989487 / 1487447001. It's distance: -1.286761468283064.
+185: It's a fraction: -2065236371 / 1664219628. It's distance: -1.2409638344921623.
+186: It's a fraction: -732354624 / 640553539. It's distance: -1.1433152412885195.
+187: It's a fraction: -3115395438 / 2817284091. It's distance: -1.1058151529525675.
+188: It's a fraction: -1605943226 / 1469810938. It's distance: -1.0926189106914919.
+189: It's a fraction: -359090230 / 329736023. It's distance: -1.089023354903507.
+190: It's a fraction: -3950454687 / 3685330488. It's distance: -1.0719404134482062.
+191: It's a fraction: -860971690 / 810404868. It's distance: -1.0623969869835481.
+192: It's a fraction: -2691467499 / 2536923259. It's distance: -1.060917979860738.
+193: It's a fraction: -1695093974 / 1638068297. It's distance: -1.034812759092181.
+194: It's a fraction: -3325411649 / 3289695707. It's distance: -1.0108569135813996.
+195: It's a fraction: -2331470555 / 2329047891. It's distance: -1.0010401950124606.
+196: It's a fraction: -3590217153 / 3595827044. It's distance: -0.9984398885343052.
+197: It's a fraction: -3857435890 / 3899020724. It's distance: -0.9893345439935651.
+198: It's a fraction: -1727447524 / 1762422366. It's distance: -0.9801552438991233.
+199: It's a fraction: -3272069406 / 3341707051. It's distance: -0.9791610563292312.
+200: It's a fraction: -3777450776 / 3876464961. It's distance: -0.9744576086728106.
+201: It's a fraction: -2748034540 / 2834007071. It's distance: -0.9696639673627688.
+202: It's a fraction: -525391403 / 548832687. It's distance: -0.9572888340012445.
+203: It's a fraction: -2934585420 / 3087744970. It's distance: -0.9503976035948332.
+204: It's a fraction: -3194642192 / 3364887411. It's distance: -0.949405374324425.
+205: It's a fraction: -3875665086 / 4124139051. It's distance: -0.9397513124733873.
+206: It's a fraction: -2687660373 / 2872648759. It's distance: -0.9356035486690004.
+207: It's a fraction: -1984972311 / 2191351797. It's distance: -0.9058209246536603.
+208: It's a fraction: -3800468194 / 4277510275. It's distance: -0.8884766954767864.
+209: It's a fraction: -3462504239 / 3981473463. It's distance: -0.8696539789043422.
+210: It's a fraction: -124460128 / 144984068. It's distance: -0.8584400321833983.
+211: It's a fraction: -2371009742 / 2854235326. It's distance: -0.8306987585788153.
+212: It's a fraction: -3061921367 / 3863053458. It's distance: -0.7926168768539987.
+213: It's a fraction: -3136575367 / 4014462586. It's distance: -0.7813188689162192.
+214: It's a fraction: -2665656184 / 3516268167. It's distance: -0.7580924029108613.
+215: It's a fraction: -712752841 / 943022259. It's distance: -0.755817621692003.
+216: It's a fraction: -1909896696 / 2560430260. It's distance: -0.7459280285181444.
+217: It's a fraction: -2790338921 / 3831791457. It's distance: -0.7282074069825872.
+218: It's a fraction: -2364873132 / 3274562475. It's distance: -0.7221951482235807.
+219: It's a fraction: -1834628899 / 2559265494. It's distance: -0.7168575918759291.
+220: It's a fraction: -1256045709 / 1764804233. It's distance: -0.7117195695212275.
+221: It's a fraction: -2897906910 / 4140833100. It's distance: -0.6998366850380905.
+222: It's a fraction: -1893513032 / 2789144305. It's distance: -0.6788867211372199.
+223: It's a fraction: -404922992 / 626798977. It's distance: -0.6460173147347048.
+224: It's a fraction: -2199091518 / 3535639703. It's distance: -0.6219783978933331.
+225: It's a fraction: -825941870 / 1552227789. It's distance: -0.5321009428210927.
+226: It's a fraction: -1938531152 / 3665766624. It's distance: -0.5288201216379452.
+227: It's a fraction: -1211485907 / 2310454287. It's distance: -0.5243496544452515.
+228: It's a fraction: -1949887238 / 3875888303. It's distance: -0.5030813804646423.
+229: It's a fraction: -1098237863 / 2232285317. It's distance: -0.49197916352195403.
+230: It's a fraction: -1761873646 / 4131091268. It's distance: -0.4264910968314148.
+231: It's a fraction: -1764393393 / 4256765545. It's distance: -0.4144915603990588.
+232: It's a fraction: -978280360 / 2886606562. It's distance: -0.3389032550810089.
+233: It's a fraction: -508420915 / 1520805638. It's distance: -0.33431025128800845.
+234: It's a fraction: -844485870 / 2619024387. It's distance: -0.3224429196580826.
+235: It's a fraction: -1277980043 / 4095050526. It's distance: -0.3120791880065804.
+236: It's a fraction: -234063385 / 790878478. It's distance: -0.2959536660953366.
+237: It's a fraction: -534504967 / 1814856023. It's distance: -0.29451645762866113.
+238: It's a fraction: -996180966 / 3825216767. It's distance: -0.2604247096776359.
+239: It's a fraction: -639802786 / 2524235431. It's distance: -0.2534639907762233.
+240: It's a fraction: -855586414 / 3860453572. It's distance: -0.22162846879071338.
+241: It's a fraction: -837962268 / 3950015319. It's distance: -0.21214152359594937.
+242: It's a fraction: -782381794 / 3730231185. It's distance: -0.20974083245727837.
+243: It's a fraction: -463251184 / 2415537285. It's distance: -0.19177976960931076.
+244: It's a fraction: -412708198 / 2252233318. It's distance: -0.18324398040896045.
+245: It's a fraction: -512766963 / 3478796341. It's distance: -0.14739781025887885.
+246: It's a fraction: -260314335 / 1848060857. It's distance: -0.1408580967526006.
+247: It's a fraction: -494434545 / 4021573979. It's distance: -0.12294553017844659.
+248: It's a fraction: -273765878 / 3197842765. It's distance: -0.08560954934880921.
+249: It's a fraction: -164983484 / 2283172438. It's distance: -0.07226063229132236.
+250: It's a fraction: -251742367 / 4103580109. It's distance: -0.06134700927316538.
+251: It's a fraction: -179011633 / 2968378167. It's distance: -0.060306208619273945.
+252: It's a fraction: -70728636 / 1292261983. It's distance: -0.05473242804512651.
+253: It's a fraction: -212113231 / 3877181904. It's distance: -0.05470809372682969.
+254: It's a fraction: -95611116 / 3896403937. It's distance: -0.024538296733581193.
+255: It's a fraction: -22259333 / 1834515582. It's distance: -0.012133629835802616.
+256: It's a fraction: -4275629 / 448022297. It's distance: -0.009543339759270955.
+257: It's a fraction: -7727505 / 3695701981. It's distance: -0.0020909437610846142.
+258: It's a fraction: 28094210 / 4262996395. It's distance: 0.006590249532688146.
+259: It's a fraction: 123631174 / 3775276342. It's distance: 0.03274758264040212.
+260: It's a fraction: 204956945 / 3858842031. It's distance: 0.053113587794856275.
+261: It's a fraction: 150244742 / 2493234176. It's distance: 0.06026098288169783.
+262: It's a fraction: 249496569 / 3632394323. It's distance: 0.06868653202660564.
+263: It's a fraction: 247613275 / 3417275694. It's distance: 0.0724592620474712.
+264: It's a fraction: 105445238 / 1266626606. It's distance: 0.08324887342529105.
+265: It's a fraction: 339884927 / 3860239260. It's distance: 0.08804763231178578.
+266: It's a fraction: 443413639 / 3392996409. It's distance: 0.13068497149712133.
+267: It's a fraction: 563362607 / 4034357291. It's distance: 0.1396412281720241.
+268: It's a fraction: 131037280 / 920702356. It's distance: 0.14232317224568936.
+269: It's a fraction: 418349715 / 2922963451. It's distance: 0.14312519537556134.
+270: It's a fraction: 358486939 / 2480998246. It's distance: 0.14449302395838937.
+271: It's a fraction: 439656798 / 3023629455. It's distance: 0.14540697018047802.
+272: It's a fraction: 338717143 / 2121572810. It's distance: 0.15965379147180908.
+273: It's a fraction: 204118745 / 1096155429. It's distance: 0.1862133230377861.
+274: It's a fraction: 341977832 / 1575430072. It's distance: 0.21706950887757334.
+275: It's a fraction: 521640280 / 2353406014. It's distance: 0.22165333006580817.
+276: It's a fraction: 682085789 / 2977847914. It's distance: 0.22905326554564936.
+277: It's a fraction: 514461889 / 2040205171. It's distance: 0.2521618395603998.
+278: It's a fraction: 129333370 / 511921422. It's distance: 0.2526430120753962.
+279: It's a fraction: 491848645 / 1926600646. It's distance: 0.25529351192795147.
+280: It's a fraction: 1137698256 / 3977606044. It's distance: 0.2860258767245578.
+281: It's a fraction: 1112196749 / 3565503931. It's distance: 0.3119325544224172.
+282: It's a fraction: 763707555 / 2425606347. It's distance: 0.3148522248651586.
+283: It's a fraction: 1476078713 / 4024707737. It's distance: 0.36675426129209143.
+284: It's a fraction: 408012023 / 1069942511. It's distance: 0.38134013632065134.
+285: It's a fraction: 1638265665 / 4205451371. It's distance: 0.38955762900914065.
+286: It's a fraction: 1492138948 / 3729602306. It's distance: 0.40007990814450123.
+287: It's a fraction: 669812515 / 1621216413. It's distance: 0.41315428935273185.
+288: It's a fraction: 1551181570 / 3529568619. It's distance: 0.4394819133561659.
+289: It's a fraction: 1854818840 / 4034163049. It's distance: 0.45977785663863485.
+290: It's a fraction: 2007497671 / 4240514031. It's distance: 0.4734090386977427.
+291: It's a fraction: 1688758262 / 3500327914. It's distance: 0.48245715929801886.
+292: It's a fraction: 1392083186 / 2820529211. It's distance: 0.4935538978185041.
+293: It's a fraction: 1562561783 / 3102284916. It's distance: 0.5036809401164623.
+294: It's a fraction: 2119281233 / 4070219228. It's distance: 0.5206798735608548.
+295: It's a fraction: 1580937779 / 2987208046. It's distance: 0.5292359134868239.
+296: It's a fraction: 479181200 / 877288790. It's distance: 0.5462069109534615.
+297: It's a fraction: 911507280 / 1648529675. It's distance: 0.5529213661258479.
+298: It's a fraction: 1558228913 / 2725694604. It's distance: 0.5716814021326067.
+299: It's a fraction: 1071407133 / 1849220610. It's distance: 0.5793830802048004.
+300: It's a fraction: 1434597983 / 2420395458. It's distance: 0.5927122273586749.
+301: It's a fraction: 612834362 / 1011975859. It's distance: 0.6055819973863625.
+302: It's a fraction: 1558281088 / 2567347804. It's distance: 0.6069614274981185.
+303: It's a fraction: 1909743760 / 3138067683. It's distance: 0.6085731580442779.
+304: It's a fraction: 977484914 / 1574722608. It's distance: 0.6207346671941602.
+305: It's a fraction: 1631320085 / 2543060629. It's distance: 0.6414790376592315.
+306: It's a fraction: 2455602634 / 3800435524. It's distance: 0.6461371646730245.
+307: It's a fraction: 2296706764 / 3516339882. It's distance: 0.6531526647229832.
+308: It's a fraction: 2149147602 / 3257742373. It's distance: 0.6597045916865691.
+309: It's a fraction: 2000573444 / 3020243037. It's distance: 0.6623882315070793.
+310: It's a fraction: 1028980633 / 1513465662. It's distance: 0.6798836992708726.
+311: It's a fraction: 2252708278 / 3263776204. It's distance: 0.6902153019067725.
+312: It's a fraction: 2429463708 / 3475542343. It's distance: 0.6990171513499527.
+313: It's a fraction: 1289069496 / 1754739574. It's distance: 0.7346215444731288.
+314: It's a fraction: 1766003247 / 2226711049. It's distance: 0.7930994224837118.
+315: It's a fraction: 1104313642 / 1373141059. It's distance: 0.8042244711582832.
+316: It's a fraction: 2904028768 / 3596327705. It's distance: 0.8074983722875165.
+317: It's a fraction: 3406495560 / 4169275233. It's distance: 0.8170474170276492.
+318: It's a fraction: 580048560 / 699504137. It's distance: 0.8292282051221093.
+319: It's a fraction: 2828223014 / 3384000771. It's distance: 0.835763111591797.
+320: It's a fraction: 2749581527 / 3138450533. It's distance: 0.876095225363235.
+321: It's a fraction: 1231068342 / 1367506223. It's distance: 0.9002286946082877.
+322: It's a fraction: 2518436585 / 2755490322. It's distance: 0.913970397534207.
+323: It's a fraction: 749943213 / 799484184. It's distance: 0.9380338323240676.
+324: It's a fraction: 3466729791 / 3626945315. It's distance: 0.9558263193720085.
+325: It's a fraction: 3235003682 / 3383103298. It's distance: 0.9562237381023652.
+326: It's a fraction: 4111369790 / 4230551243. It's distance: 0.9718283868568661.
+327: It's a fraction: 1791364503 / 1829207117. It's distance: 0.9793120124843686.
+328: It's a fraction: 564151854 / 567646813. It's distance: 0.9938430747430269.
+329: It's a fraction: 3423439169 / 3407392265. It's distance: 1.0047094384068516.
+330: It's a fraction: 191443240 / 189938925. It's distance: 1.0079199932294025.
+331: It's a fraction: 3205051372 / 3149948773. It's distance: 1.0174931730548495.
+332: It's a fraction: 2166770795 / 2069923684. It's distance: 1.0467877689156388.
+333: It's a fraction: 2824230505 / 2548986978. It's distance: 1.1079815351649867.
+334: It's a fraction: 2970255032 / 2665395210. It's distance: 1.114376967759314.
+335: It's a fraction: 1819908818 / 1614627891. It's distance: 1.127138226797793.
+336: It's a fraction: 4215783322 / 3635664035. It's distance: 1.1595635024070645.
+337: It's a fraction: 3733495579 / 3199198818. It's distance: 1.1670095518896257.
+338: It's a fraction: 2889366247 / 2443679038. It's distance: 1.182383693631373.
+339: It's a fraction: 1468611277 / 1217898740. It's distance: 1.205856635503211.
+340: It's a fraction: 1189970330 / 984502433. It's distance: 1.2087022744818345.
+341: It's a fraction: 1981210161 / 1636156584. It's distance: 1.2108927595159804.
+342: It's a fraction: 3092451306 / 2521636238. It's distance: 1.2263669356420472.
+343: It's a fraction: 1067111882 / 858503452. It's distance: 1.242990787647992.
+344: It's a fraction: 788059930 / 629291694. It's distance: 1.252296729026905.
+345: It's a fraction: 858463024 / 667452692. It's distance: 1.286178083165181.
+346: It's a fraction: 1350740562 / 1041234329. It's distance: 1.2972493552889766.
+347: It's a fraction: 2316936760 / 1774630286. It's distance: 1.3055884249684218.
+348: It's a fraction: 3013935688 / 2252981724. It's distance: 1.3377541663538146.
+349: It's a fraction: 2971267473 / 2188307401. It's distance: 1.3577925439735785.
+350: It's a fraction: 3770008218 / 2764791398. It's distance: 1.3635778166581232.
+351: It's a fraction: 2403161317 / 1720037739. It's distance: 1.3971561568161617.
+352: It's a fraction: 3284296622 / 2290325744. It's distance: 1.4339866853454886.
+353: It's a fraction: 4069399599 / 2821960550. It's distance: 1.4420469481757994.
+354: It's a fraction: 3728914057 / 2517964462. It's distance: 1.4809240214765191.
+355: It's a fraction: 3567742269 / 2330040930. It's distance: 1.5311929602026346.
+356: It's a fraction: 1363099968 / 886404865. It's distance: 1.5377848450775369.
+357: It's a fraction: 2127707147 / 1360515147. It's distance: 1.563898168786797.
+358: It's a fraction: 3487236553 / 2159924107. It's distance: 1.6145180942693187.
+359: It's a fraction: 2226898102 / 1366121229. It's distance: 1.630088205005121.
+360: It's a fraction: 3548727331 / 2157535266. It's distance: 1.6448061762527872.
+361: It's a fraction: 1394256500 / 841989842. It's distance: 1.6559065566494091.
+362: It's a fraction: 3911092264 / 2167940887. It's distance: 1.8040585365831519.
+363: It's a fraction: 3537699534 / 1868454851. It's distance: 1.8933824020990486.
+364: It's a fraction: 3115547365 / 1626561273. It's distance: 1.915419613583779.
+365: It's a fraction: 2058790511 / 1062857892. It's distance: 1.9370327176344662.
+366: It's a fraction: 3422096405 / 1562658064. It's distance: 2.1899201647738082.
+367: It's a fraction: 3397952962 / 1539366227. It's distance: 2.2073713859645436.
+368: It's a fraction: 3766836557 / 1663030812. It's distance: 2.2650431548348244.
+369: It's a fraction: 3322962963 / 1436627109. It's distance: 2.313030947406409.
+370: It's a fraction: 2112591662 / 874043794. It's distance: 2.417031819803757.
+371: It's a fraction: 2411919998 / 988105095. It's distance: 2.440954924941461.
+372: It's a fraction: 1291834998 / 516578308. It's distance: 2.500753473372715.
+373: It's a fraction: 1625996692 / 634782787. It's distance: 2.561500918581146.
+374: It's a fraction: 3402385111 / 1318581230. It's distance: 2.580337891659507.
+375: It's a fraction: 3379909888 / 1240211364. It's distance: 2.7252692453155105.
+376: It's a fraction: 3252948547 / 1164151535. It's distance: 2.7942655652642334.
+377: It's a fraction: 4258839424 / 1458585114. It's distance: 2.919842923887128.
+378: It's a fraction: 1746800484 / 567562423. It's distance: 3.0777239880801623.
+379: It's a fraction: 3242287417 / 996656655. It's distance: 3.25316386614606.
+380: It's a fraction: 3149409741 / 959862910. It's distance: 3.281103695318324.
+381: It's a fraction: 3778927021 / 1064613965. It's distance: 3.549574911878974.
+382: It's a fraction: 2985970749 / 837447148. It's distance: 3.565563219280317.
+383: It's a fraction: 2469880603 / 687337872. It's distance: 3.593401009336497.
+384: It's a fraction: 2902392526 / 721208546. It's distance: 4.024345720939364.
+385: It's a fraction: 4178707368 / 945822250. It's distance: 4.418068371726294.
+386: It's a fraction: 3347484963 / 748376641. It's distance: 4.472994986223789.
+387: It's a fraction: 2984377380 / 583837965. It's distance: 5.111653504752812.
+388: It's a fraction: 3498257715 / 533931972. It's distance: 6.551879075336586.
+389: It's a fraction: 4210709741 / 557169740. It's distance: 7.557319500158067.
+390: It's a fraction: 3090549852 / 352464205. It's distance: 8.76840770823806.
+391: It's a fraction: 3580604503 / 370952101. It's distance: 9.652471284965172.
+392: It's a fraction: 2061413184 / 153034394. It's distance: 13.470260704923627.
+393: It's a fraction: 2592950548 / 185238985. It's distance: 13.99786631307659.
+394: It's a fraction: 1965712368 / 139645045. It's distance: 14.076492066009216.
+395: It's a fraction: 3459013772 / 134318229. It's distance: 25.75237775060301.
+396: It's a fraction: 2824742953 / 66367840. It's distance: 42.56192386252137.
+397: It's a fraction: 3606079646 / 71981124. It's distance: 50.097573441615054.
+398: It's a polar number: r = 3818840442, phi = 16212659. It's distance: 16212659.
+399: It's a polar number: r = -722089840, phi = 19789283. It's distance: 19789283.
+400: It's a polar number: r = -3990514100, phi = 20468254. It's distance: 20468254.
+401: It's a polar number: r = 3276012278, phi = 79005280. It's distance: 79005280.
+402: It's a polar number: r = -432015859, phi = 108860740. It's distance: 108860740.
+403: It's a complex number: -97753933 + -70910209*i. It's distance: 120764602.25327688.
+404: It's a polar number: r = 1551273565, phi = 124348541. It's distance: 124348541.
+405: It's a polar number: r = -3224595222, phi = 155747359. It's distance: 155747359.
+406: It's a complex number: -150561006 + -48622041*i. It's distance: 158217317.0001872.
+407: It's a polar number: r = 3667502912, phi = 158358752. It's distance: 158358752.
+408: It's a polar number: r = 718870665, phi = 177538698. It's distance: 177538698.
+409: It's a polar number: r = 2261370715, phi = 180489325. It's distance: 180489325.
+410: It's a polar number: r = 1624017792, phi = 188323814. It's distance: 188323814.
+411: It's a polar number: r = -2291716618, phi = 211363021. It's distance: 211363021.
+412: It's a polar number: r = -2260794515, phi = 219128585. It's distance: 219128585.
+413: It's a polar number: r = 2857545760, phi = 223710512. It's distance: 223710512.
+414: It's a polar number: r = -2882840319, phi = 269816350. It's distance: 269816350.
+415: It's a polar number: r = -1693719883, phi = 338877616. It's distance: 338877616.
+416: It's a polar number: r = 1545747515, phi = 358793884. It's distance: 358793884.
+417: It's a polar number: r = 2538111156, phi = 375708872. It's distance: 375708872.
+418: It's a polar number: r = 1438283879, phi = 381531237. It's distance: 381531237.
+419: It's a complex number: 49632942 + -410664428*i. It's distance: 413652875.435603.
+420: It's a complex number: 230989260 + -397413766*i. It's distance: 459666987.7657632.
+421: It's a polar number: r = -1560136298, phi = 564642413. It's distance: 564642413.
+422: It's a polar number: r = 4202619504, phi = 578995942. It's distance: 578995942.
+423: It's a polar number: r = -3658803116, phi = 586799447. It's distance: 586799447.
+424: It's a complex number: -406267439 + -432440402*i. It's distance: 593344700.215263.
+425: It's a complex number: -380797734 + -497092769*i. It's distance: 626185384.0610001.
+426: It's a polar number: r = 4172953349, phi = 629639002. It's distance: 629639002.
+427: It's a complex number: -239530406 + 623631019*i. It's distance: 668049746.094932.
+428: It's a polar number: r = 505681920, phi = 699958861. It's distance: 699958861.
+429: It's a polar number: r = 109642946, phi = 716391519. It's distance: 716391519.
+430: It's a complex number: -197712687 + 699429154*i. It's distance: 726836603.4164183.
+431: It's a polar number: r = 1421174341, phi = 815776819. It's distance: 815776819.
+432: It's a polar number: r = 1427945074, phi = 815919731. It's distance: 815919731.
+433: It's a complex number: -163503360 + 807046492*i. It's distance: 823442401.7384554.
+434: It's a complex number: 463690463 + 695191175*i. It's distance: 835643234.445798.
+435: It's a complex number: 835549289 + -31140104*i. It's distance: 836129368.2352847.
+436: It's a polar number: r = -2986293269, phi = 874866765. It's distance: 874866765.
+437: It's a polar number: r = 3661842468, phi = 899960263. It's distance: 899960263.
+438: It's a complex number: -508089237 + 744493844*i. It's distance: 901346635.0462172.
+439: It's a complex number: 179069936 + 893657342*i. It's distance: 911421684.4521251.
+440: It's a complex number: 764711991 + 509565960*i. It's distance: 918935197.2636077.
+441: It's a complex number: 455497009 + -856004972*i. It's distance: 969650471.7147653.
+442: It's a complex number: -577595460 + -790402809*i. It's distance: 978955114.3375789.
+443: It's a complex number: -343125425 + -967148634*i. It's distance: 1026212228.3083049.
+444: It's a polar number: r = 3529540166, phi = 1035563755. It's distance: 1035563755.
+445: It's a polar number: r = -3540902529, phi = 1037960829. It's distance: 1037960829.
+446: It's a polar number: r = 3696174424, phi = 1066647185. It's distance: 1066647185.
+447: It's a complex number: -686705769 + -816624485*i. It's distance: 1066977208.1349238.
+448: It's a complex number: 667367180 + -833911263*i. It's distance: 1068076283.5581584.
+449: It's a complex number: -814526714 + 700961866*i. It's distance: 1074616817.9429538.
+450: It's a polar number: r = 815242040, phi = 1079462761. It's distance: 1079462761.
+451: It's a polar number: r = 616360828, phi = 1083979181. It's distance: 1083979181.
+452: It's a polar number: r = 2141938618, phi = 1087866958. It's distance: 1087866958.
+453: It's a polar number: r = -2599018357, phi = 1115104587. It's distance: 1115104587.
+454: It's a polar number: r = 1969325577, phi = 1174310922. It's distance: 1174310922.
+455: It's a complex number: 548863879 + 1042994493*i. It's distance: 1178596228.6123495.
+456: It's a complex number: -943959983 + 771513121*i. It's distance: 1219136147.1880493.
+457: It's a polar number: r = -1246709152, phi = 1237487953. It's distance: 1237487953.
+458: It's a polar number: r = -2103936892, phi = 1257022486. It's distance: 1257022486.
+459: It's a polar number: r = 1733887932, phi = 1258816007. It's distance: 1258816007.
+460: It's a complex number: -643484150 + -1083086228*i. It's distance: 1259820474.7441163.
+461: It's a complex number: -1250380467 + 184883499*i. It's distance: 1263975166.0763044.
+462: It's a polar number: r = -485601882, phi = 1264245565. It's distance: 1264245565.
+463: It's a polar number: r = 2890544870, phi = 1268501324. It's distance: 1268501324.
+464: It's a polar number: r = -4022285055, phi = 1278080798. It's distance: 1278080798.
+465: It's a polar number: r = 476715889, phi = 1278232886. It's distance: 1278232886.
+466: It's a complex number: -927860111 + 937315102*i. It's distance: 1318894986.730256.
+467: It's a polar number: r = 2314292597, phi = 1323873823. It's distance: 1323873823.
+468: It's a polar number: r = 3004990228, phi = 1327695459. It's distance: 1327695459.
+469: It's a polar number: r = -3222764578, phi = 1337248081. It's distance: 1337248081.
+470: It's a polar number: r = -3656672986, phi = 1339463788. It's distance: 1339463788.
+471: It's a polar number: r = -1313076789, phi = 1350361880. It's distance: 1350361880.
+472: It's a complex number: 1297184954 + 411296354*i. It's distance: 1360828238.866932.
+473: It's a polar number: r = 830787605, phi = 1361905999. It's distance: 1361905999.
+474: It's a complex number: -316377081 + -1370829771*i. It's distance: 1406864854.3630598.
+475: It's a complex number: -429576260 + -1344763051*i. It's distance: 1411709398.7398455.
+476: It's a polar number: r = -178633126, phi = 1413294979. It's distance: 1413294979.
+477: It's a polar number: r = -1136433441, phi = 1416462253. It's distance: 1416462253.
+478: It's a complex number: -1425655602 + 21450586*i. It's distance: 1425816966.91887.
+479: It's a complex number: -1301706795 + 635696382*i. It's distance: 1448637453.000944.
+480: It's a polar number: r = -2291906605, phi = 1460439669. It's distance: 1460439669.
+481: It's a polar number: r = -3947074599, phi = 1466983524. It's distance: 1466983524.
+482: It's a complex number: -129166531 + 1513612860*i. It's distance: 1519114176.9755008.
+483: It's a complex number: 579375197 + -1477807588*i. It's distance: 1587321922.6260207.
+484: It's a complex number: -1542267796 + -384618774*i. It's distance: 1589503556.426333.
+485: It's a complex number: 1071842625 + -1202451059*i. It's distance: 1610818165.4231217.
+486: It's a polar number: r = -1421421498, phi = 1613203051. It's distance: 1613203051.
+487: It's a polar number: r = 1335097875, phi = 1628601936. It's distance: 1628601936.
+488: It's a complex number: -1357749990 + -941239758*i. It's distance: 1652094826.9953814.
+489: It's a complex number: -250026889 + 1638852680*i. It's distance: 1657815294.8884866.
+490: It's a polar number: r = 793175785, phi = 1658573447. It's distance: 1658573447.
+491: It's a polar number: r = -4211339852, phi = 1663151484. It's distance: 1663151484.
+492: It's a polar number: r = 378803566, phi = 1671382962. It's distance: 1671382962.
+493: It's a polar number: r = -947566557, phi = 1680864049. It's distance: 1680864049.
+494: It's a complex number: 531653225 + 1617033876*i. It's distance: 1702190855.2757778.
+495: It's a complex number: -1335530967 + 1107171899*i. It's distance: 1734783150.0655122.
+496: It's a complex number: -1736806549 + -160412935*i. It's distance: 1744198755.4073656.
+497: It's a polar number: r = -3793368636, phi = 1749311006. It's distance: 1749311006.
+498: It's a polar number: r = 637407746, phi = 1749542357. It's distance: 1749542357.
+499: It's a polar number: r = 3074764619, phi = 1766578532. It's distance: 1766578532.
+500: It's a complex number: 481539522 + 1702007941*i. It's distance: 1768816367.652405.
+501: It's a polar number: r = -4110449158, phi = 1769915794. It's distance: 1769915794.
+502: It's a complex number: 1741231863 + -356088520*i. It's distance: 1777269657.3120918.
+503: It's a polar number: r = -2607609916, phi = 1786153949. It's distance: 1786153949.
+504: It's a polar number: r = -2818750085, phi = 1786741088. It's distance: 1786741088.
+505: It's a complex number: 946521510 + -1541281513*i. It's distance: 1808715475.47099.
+506: It's a complex number: 692549725 + -1683559367*i. It's distance: 1820438755.8528345.
+507: It's a complex number: 321742935 + 1799187493*i. It's distance: 1827729233.5545871.
+508: It's a complex number: 783911821 + -1662326232*i. It's distance: 1837891793.5229087.
+509: It's a complex number: 1694360072 + -806315919*i. It's distance: 1876433162.8972716.
+510: It's a polar number: r = 160126452, phi = 1879419055. It's distance: 1879419055.
+511: It's a polar number: r = 2446149377, phi = 1888612762. It's distance: 1888612762.
+512: It's a polar number: r = -436826165, phi = 1933835550. It's distance: 1933835550.
+513: It's a polar number: r = -566817474, phi = 1936686766. It's distance: 1936686766.
+514: It's a polar number: r = 2487666098, phi = 1936726572. It's distance: 1936726572.
+515: It's a complex number: -1435861099 + 1312148148*i. It's distance: 1945104073.8020468.
+516: It's a complex number: -1182714748 + -1547859118*i. It's distance: 1947994359.4149451.
+517: It's a complex number: 1056281404 + -1641882083*i. It's distance: 1952308166.9942966.
+518: It's a polar number: r = 3685456154, phi = 1953608328. It's distance: 1953608328.
+519: It's a polar number: r = -2109133871, phi = 1965695565. It's distance: 1965695565.
+520: It's a polar number: r = -2276000918, phi = 1991649509. It's distance: 1991649509.
+521: It's a complex number: 1884133272 + -647707956*i. It's distance: 1992356339.343724.
+522: It's a polar number: r = 2154865662, phi = 2002488213. It's distance: 2002488213.
+523: It's a polar number: r = 1093134972, phi = 2003908116. It's distance: 2003908116.
+524: It's a complex number: -1200603385 + 1615441398*i. It's distance: 2012734308.955271.
+525: It's a complex number: -283608388 + 2000715962*i. It's distance: 2020717218.797708.
+526: It's a complex number: 1037876138 + 1747959806*i. It's distance: 2032867521.8078902.
+527: It's a polar number: r = -1216666907, phi = 2043137676. It's distance: 2043137676.
+528: It's a complex number: -1962564243 + -683824334*i. It's distance: 2078286344.0038064.
+529: It's a polar number: r = -3861832286, phi = 2097825770. It's distance: 2097825770.
+530: It's a complex number: 1385368097 + 1590003785*i. It's distance: 2108875719.54815.
+531: It's a complex number: -792746740 + -1956251802*i. It's distance: 2110774385.52984.
+532: It's a polar number: r = -3772783608, phi = 2114414948. It's distance: 2114414948.
+533: It's a polar number: r = -4056008028, phi = 2131386089. It's distance: 2131386089.
+534: It's a complex number: -1296572199 + 1696850175*i. It's distance: 2135509303.097794.
+535: It's a complex number: 313687474 + 2114597234*i. It's distance: 2137737423.8631253.
+536: It's a complex number: 2152336898 + 244557947*i. It's distance: 2166186213.5867076.
+537: It's a polar number: r = 3695982927, phi = 2169043678. It's distance: 2169043678.
+538: It's a polar number: r = -1754197095, phi = 2169055966. It's distance: 2169055966.
+539: It's a complex number: -1649367682 + -1418938865*i. It's distance: 2175730050.5884323.
+540: It's a complex number: -1994264743 + 922981614*i. It's distance: 2197495602.9432464.
+541: It's a complex number: -437971993 + -2154046935*i. It's distance: 2198121394.4719443.
+542: It's a polar number: r = -2301431188, phi = 2210878056. It's distance: 2210878056.
+543: It's a complex number: 1115765733 + 1911122534*i. It's distance: 2212989496.3373885.
+544: It's a polar number: r = -424499480, phi = 2222568947. It's distance: 2222568947.
+545: It's a complex number: -1838725867 + 1249550612*i. It's distance: 2223126075.1303506.
+546: It's a complex number: 1501035160 + -1642570540*i. It's distance: 2225116745.348908.
+547: It's a polar number: r = 3042418612, phi = 2232122391. It's distance: 2232122391.
+548: It's a polar number: r = 3212373483, phi = 2252602018. It's distance: 2252602018.
+549: It's a complex number: 1474689883 + 1703355148*i. It's distance: 2253026633.4956307.
+550: It's a complex number: 1353805656 + 1815007494*i. It's distance: 2264297232.5853667.
+551: It's a complex number: -1288113189 + -1874158461*i. It's distance: 2274138413.688498.
+552: It's a complex number: 2277187899 + -284505747*i. It's distance: 2294891772.4868994.
+553: It's a complex number: 511663174 + 2238769434*i. It's distance: 2296494672.809069.
+554: It's a polar number: r = 2526805670, phi = 2297650627. It's distance: 2297650627.
+555: It's a complex number: -1670855791 + 1584766256*i. It's distance: 2302877148.3677745.
+556: It's a polar number: r = 3048103479, phi = 2316098103. It's distance: 2316098103.
+557: It's a complex number: -281614610 + -2323127943*i. It's distance: 2340134660.2520256.
+558: It's a polar number: r = 101580656, phi = 2346663356. It's distance: 2346663356.
+559: It's a polar number: r = -280057102, phi = 2352989937. It's distance: 2352989937.
+560: It's a complex number: -1213696222 + 2027984981*i. It's distance: 2363425819.114838.
+561: It's a complex number: 2339119780 + 419410034*i. It's distance: 2376422967.783119.
+562: It's a complex number: 2360037836 + 340264638*i. It's distance: 2384440943.119547.
+563: It's a complex number: 2146242868 + 1039878674*i. It's distance: 2384891214.517103.
+564: It's a complex number: -1921663122 + -1414797552*i. It's distance: 2386302844.90464.
+565: It's a polar number: r = 2298507796, phi = 2398900691. It's distance: 2398900691.
+566: It's a complex number: -2397710591 + 140783693*i. It's distance: 2401840154.216822.
+567: It's a complex number: 1112589432 + -2140749323*i. It's distance: 2412605004.579705.
+568: It's a complex number: -2436058723 + -143105573*i. It's distance: 2440258450.846559.
+569: It's a complex number: -967735303 + 2245198674*i. It's distance: 2444878054.710267.
+570: It's a complex number: -1775790254 + -1684591062*i. It's distance: 2447708739.2848997.
+571: It's a complex number: -2425296660 + 340060963*i. It's distance: 2449021304.024047.
+572: It's a polar number: r = -4240958182, phi = 2467162141. It's distance: 2467162141.
+573: It's a complex number: 1870212039 + 1624218817*i. It's distance: 2477050632.5703998.
+574: It's a complex number: 2420061103 + 559389325*i. It's distance: 2483870399.0300164.
+575: It's a complex number: -2073450549 + 1412656202*i. It's distance: 2508942949.5700903.
+576: It's a polar number: r = -3352736470, phi = 2522543336. It's distance: 2522543336.
+577: It's a polar number: r = -3271348029, phi = 2538236006. It's distance: 2538236006.
+578: It's a complex number: -294607125 + 2525923413*i. It's distance: 2543045899.397479.
+579: It's a polar number: r = -1079770315, phi = 2545172328. It's distance: 2545172328.
+580: It's a polar number: r = -81810740, phi = 2550900065. It's distance: 2550900065.
+581: It's a complex number: -967164476 + -2360927290*i. It's distance: 2551349602.1327806.
+582: It's a complex number: -704530794 + 2457048002*i. It's distance: 2556061134.6027036.
+583: It's a complex number: -2274753007 + 1245104010*i. It's distance: 2593219088.0397325.
+584: It's a polar number: r = -217009950, phi = 2593919256. It's distance: 2593919256.
+585: It's a polar number: r = 1845620793, phi = 2631176146. It's distance: 2631176146.
+586: It's a polar number: r = 1930383843, phi = 2650614483. It's distance: 2650614483.
+587: It's a complex number: 1770649986 + -1992828954*i. It's distance: 2665814812.1770453.
+588: It's a complex number: 2650030603 + 426804369*i. It's distance: 2684180352.7769947.
+589: It's a complex number: -214442110 + -2679981347*i. It's distance: 2688547086.9615035.
+590: It's a complex number: -742177024 + 2587813703*i. It's distance: 2692137904.415015.
+591: It's a complex number: -2611341381 + 659776435*i. It's distance: 2693400963.8938456.
+592: It's a complex number: 2272337177 + 1473711600*i. It's distance: 2708383674.066673.
+593: It's a complex number: -1509639770 + 2252843854*i. It's distance: 2711884522.9233537.
+594: It's a complex number: -119011961 + 2714628040*i. It's distance: 2717235588.316793.
+595: It's a polar number: r = -1594054848, phi = 2722794441. It's distance: 2722794441.
+596: It's a complex number: -2652664564 + 634862498*i. It's distance: 2727577621.346111.
+597: It's a complex number: 1118084323 + -2490670079*i. It's distance: 2730119044.247748.
+598: It's a complex number: 2618225455 + 797526432*i. It's distance: 2736997066.6678853.
+599: It's a complex number: -1748663199 + 2111193239*i. It's distance: 2741342714.061163.
+600: It's a complex number: 258282982 + 2753827861*i. It's distance: 2765913589.903099.
+601: It's a complex number: 1975604748 + -1938351439*i. It's distance: 2767710321.076524.
+602: It's a complex number: -1710088516 + -2186510247*i. It's distance: 2775829568.397722.
+603: It's a complex number: 2734240994 + 584971483*i. It's distance: 2796116136.5711055.
+604: It's a complex number: 294614462 + -2781923746*i. It's distance: 2797480546.809615.
+605: It's a polar number: r = -295976256, phi = 2797589818. It's distance: 2797589818.
+606: It's a complex number: -2702681422 + -735997880*i. It's distance: 2801103309.088837.
+607: It's a complex number: -1138054745 + -2573937210*i. It's distance: 2814306551.1133647.
+608: It's a complex number: -2798864318 + 420974900*i. It's distance: 2830346504.7593756.
+609: It's a complex number: -1104718950 + 2613892205*i. It's distance: 2837752000.765547.
+610: It's a polar number: r = -2821315087, phi = 2854378857. It's distance: 2854378857.
+611: It's a polar number: r = -1606357857, phi = 2864437957. It's distance: 2864437957.
+612: It's a polar number: r = -3561525693, phi = 2871621522. It's distance: 2871621522.
+613: It's a complex number: 2880240153 + -27467690*i. It's distance: 2880371124.169141.
+614: It's a complex number: 1052750038 + 2684471130*i. It's distance: 2883516584.0189786.
+615: It's a polar number: r = 469239706, phi = 2887524307. It's distance: 2887524307.
+616: It's a polar number: r = -4291018812, phi = 2889633133. It's distance: 2889633133.
+617: It's a complex number: 1982759819 + 2116025405*i. It's distance: 2899810341.1165233.
+618: It's a complex number: -2172198050 + -1946771147*i. It's distance: 2916909711.872395.
+619: It's a complex number: 2912876411 + 240058678*i. It's distance: 2922751640.9444284.
+620: It's a complex number: 2065131133 + -2074843088*i. It's distance: 2927411900.690991.
+621: It's a complex number: 591913755 + 2875999988*i. It's distance: 2936279588.924427.
+622: It's a complex number: 1047526616 + 2743261587*i. It's distance: 2936459798.113737.
+623: It's a complex number: 1203873001 + 2700647425*i. It's distance: 2956823754.7571006.
+624: It's a polar number: r = 2341376873, phi = 2980908223. It's distance: 2980908223.
+625: It's a complex number: 34560953 + -2994150128*i. It's distance: 2994349586.884384.
+626: It's a complex number: 1839564339 + 2364752082*i. It's distance: 2996005568.526841.
+627: It's a polar number: r = -2232912476, phi = 3010268497. It's distance: 3010268497.
+628: It's a polar number: r = 2296006428, phi = 3011489405. It's distance: 3011489405.
+629: It's a complex number: -1464046264 + -2642736269*i. It's distance: 3021173025.6012144.
+630: It's a complex number: -2485236153 + 1724010260*i. It's distance: 3024666942.4522605.
+631: It's a polar number: r = 3325677678, phi = 3046082654. It's distance: 3046082654.
+632: It's a complex number: -2469538128 + 1790178140*i. It's distance: 3050140380.1431174.
+633: It's a polar number: r = -2711799690, phi = 3064505474. It's distance: 3064505474.
+634: It's a polar number: r = -3354226455, phi = 3065448032. It's distance: 3065448032.
+635: It's a complex number: -2421290907 + 1890953361*i. It's distance: 3072190467.6953344.
+636: It's a complex number: -2774121706 + -1321119914*i. It's distance: 3072638779.106278.
+637: It's a complex number: 3040797911 + -489397329*i. It's distance: 3079928843.5245214.
+638: It's a complex number: -3056279961 + 462931671*i. It's distance: 3091141040.4614367.
+639: It's a polar number: r = 993131537, phi = 3105812404. It's distance: 3105812404.
+640: It's a polar number: r = -3165250647, phi = 3108280892. It's distance: 3108280892.
+641: It's a complex number: -3087018520 + -423248943*i. It's distance: 3115898427.512297.
+642: It's a complex number: -2984565893 + -939346360*i. It's distance: 3128898392.9977875.
+643: It's a complex number: -2978894255 + 990644640*i. It's distance: 3139297339.4109607.
+644: It's a complex number: 1522875018 + -2762535615*i. It's distance: 3154481152.9936156.
+645: It's a polar number: r = -843326210, phi = 3181568100. It's distance: 3181568100.
+646: It's a complex number: -2184390747 + -2332206924*i. It's distance: 3195426743.321267.
+647: It's a complex number: 1378839361 + 2894504879*i. It's distance: 3206143552.3066792.
+648: It's a complex number: 1531983033 + 2825346370*i. It's distance: 3213962371.2595105.
+649: It's a complex number: -2955078255 + 1316050804*i. It's distance: 3234884420.1737547.
+650: It's a complex number: -3160372034 + 699150244*i. It's distance: 3236782732.432709.
+651: It's a complex number: -698791212 + 3164059623*i. It's distance: 3240305920.1049724.
+652: It's a complex number: 2520177232 + -2052614669*i. It's distance: 3250310794.3833866.
+653: It's a complex number: 3252517886 + -289284411*i. It's distance: 3265357265.1698503.
+654: It's a complex number: 2669065037 + 1890524560*i. It's distance: 3270778391.1018806.
+655: It's a polar number: r = -2555653402, phi = 3271947070. It's distance: 3271947070.
+656: It's a complex number: -150899826 + -3280570415*i. It's distance: 3284039129.6785893.
+657: It's a complex number: 3018781034 + 1345356311*i. It's distance: 3304999627.047731.
+658: It's a complex number: -2534994621 + 2171048352*i. It's distance: 3337611222.898924.
+659: It's a complex number: 3221328092 + 907169236*i. It's distance: 3346626764.228898.
+660: It's a complex number: -1507351355 + 3006479437*i. It's distance: 3363186987.4457135.
+661: It's a complex number: 2671477629 + -2053255527*i. It's distance: 3369369522.834132.
+662: It's a complex number: 2756822678 + -1961939819*i. It's distance: 3383678343.3584294.
+663: It's a complex number: -1327158440 + -3126799550*i. It's distance: 3396796277.4861016.
+664: It's a polar number: r = 2695273326, phi = 3413232603. It's distance: 3413232603.
+665: It's a complex number: 338599025 + 3415857657*i. It's distance: 3432598553.9553676.
+666: It's a complex number: 512463788 + 3399877228*i. It's distance: 3438282172.754917.
+667: It's a polar number: r = 1999346077, phi = 3465439725. It's distance: 3465439725.
+668: It's a complex number: -1106923788 + -3287450689*i. It's distance: 3468805602.08364.
+669: It's a polar number: r = 2992106578, phi = 3481268256. It's distance: 3481268256.
+670: It's a polar number: r = -3720469025, phi = 3482183240. It's distance: 3482183240.
+671: It's a complex number: -2256030893 + 2709925005*i. It's distance: 3526098257.691443.
+672: It's a complex number: -780361238 + 3447739525*i. It's distance: 3534949998.8005657.
+673: It's a complex number: 955596061 + -3409341769*i. It's distance: 3540730875.066159.
+674: It's a complex number: -3545367161 + -166883138*i. It's distance: 3549292646.154432.
+675: It's a complex number: 2553365668 + 2484953052*i. It's distance: 3562957746.755524.
+676: It's a complex number: 1992674003 + -2962981172*i. It's distance: 3570715209.5705614.
+677: It's a complex number: -3260910389 + -1467504553*i. It's distance: 3575906343.5951257.
+678: It's a complex number: -1789268815 + -3109019989*i. It's distance: 3587128124.883897.
+679: It's a complex number: -732042952 + 3514965655*i. It's distance: 3590385834.336256.
+680: It's a polar number: r = -3059242816, phi = 3591015088. It's distance: 3591015088.
+681: It's a complex number: 3586667360 + 205286807*i. It's distance: 3592537463.1891623.
+682: It's a complex number: 579046871 + 3547137185*i. It's distance: 3594089243.191468.
+683: It's a polar number: r = 2382926617, phi = 3600099266. It's distance: 3600099266.
+684: It's a complex number: -3480180208 + 936261122*i. It's distance: 3603919972.5748105.
+685: It's a complex number: 1115571009 + -3427784550*i. It's distance: 3604747646.831881.
+686: It's a complex number: 2227186887 + -2841432852*i. It's distance: 3610277286.0335264.
+687: It's a complex number: -525029860 + -3575860349*i. It's distance: 3614198886.2598615.
+688: It's a complex number: 1502881753 + -3296689222*i. It's distance: 3623094449.4935985.
+689: It's a polar number: r = 543065047, phi = 3625222328. It's distance: 3625222328.
+690: It's a polar number: r = -2526493436, phi = 3644639128. It's distance: 3644639128.
+691: It's a complex number: -2921715344 + 2179210014*i. It's distance: 3644911087.596365.
+692: It's a polar number: r = 682409166, phi = 3645278586. It's distance: 3645278586.
+693: It's a complex number: -582958921 + -3598473196*i. It's distance: 3645387557.7095966.
+694: It's a polar number: r = 2154962042, phi = 3660253151. It's distance: 3660253151.
+695: It's a polar number: r = -1009989727, phi = 3682791171. It's distance: 3682791171.
+696: It's a complex number: 3374555113 + 1490194877*i. It's distance: 3688943342.2203016.
+697: It's a complex number: -3548960110 + 1037451799*i. It's distance: 3697488890.804075.
+698: It's a polar number: r = 1653460525, phi = 3700779772. It's distance: 3700779772.
+699: It's a complex number: -3578350255 + -969152778*i. It's distance: 3707269568.6399283.
+700: It's a complex number: 2879389170 + -2405247867*i. It's distance: 3751812801.036499.
+701: It's a polar number: r = -117149013, phi = 3753272914. It's distance: 3753272914.
+702: It's a complex number: 444029342 + 3730163828*i. It's distance: 3756498933.8846574.
+703: It's a complex number: 1949150988 + 3216023061*i. It's distance: 3760584250.2070317.
+704: It's a polar number: r = 109054545, phi = 3766173509. It's distance: 3766173509.
+705: It's a complex number: 3313757390 + 1799909682*i. It's distance: 3771029422.2051563.
+706: It's a complex number: -792318894 + -3688630158*i. It's distance: 3772765785.5075617.
+707: It's a polar number: r = 1869114625, phi = 3778721605. It's distance: 3778721605.
+708: It's a complex number: 3399299692 + -1665487292*i. It's distance: 3785377962.085792.
+709: It's a polar number: r = 1515349323, phi = 3797856409. It's distance: 3797856409.
+710: It's a complex number: 744957045 + 3726862830*i. It's distance: 3800587790.3991036.
+711: It's a polar number: r = 2238067727, phi = 3809187754. It's distance: 3809187754.
+712: It's a complex number: -3317839755 + 1908533744*i. It's distance: 3827605216.2997584.
+713: It's a complex number: -910006921 + 3722343412*i. It's distance: 3831964649.253396.
+714: It's a complex number: 1570675918 + -3496139347*i. It's distance: 3832755297.827756.
+715: It's a complex number: -3838300857 + -105213834*i. It's distance: 3839742624.149686.
+716: It's a complex number: 3645796804 + -1216950365*i. It's distance: 3843540363.6400447.
+717: It's a complex number: 1234013612 + -3646085162*i. It's distance: 3849250135.176701.
+718: It's a polar number: r = -61756242, phi = 3872419237. It's distance: 3872419237.
+719: It's a complex number: -1670642366 + 3493842223*i. It's distance: 3872722478.3466806.
+720: It's a complex number: -2187818789 + -3196048801*i. It's distance: 3873148459.8288975.
+721: It's a complex number: -3082620850 + 2361614009*i. It's distance: 3883268215.351571.
+722: It's a complex number: -3776240122 + 938509955*i. It's distance: 3891116856.9752154.
+723: It's a complex number: 3127239268 + 2315775250*i. It's distance: 3891328879.4232926.
+724: It's a polar number: r = 936905274, phi = 3895158665. It's distance: 3895158665.
+725: It's a complex number: -3565001233 + -1639330468*i. It's distance: 3923855014.4729633.
+726: It's a complex number: 3892143848 + 578274024*i. It's distance: 3934867797.0622344.
+727: It's a complex number: 1555174133 + -3624948283*i. It's distance: 3944466584.7712474.
+728: It's a complex number: 3865496697 + 847623703*i. It's distance: 3957338835.1776676.
+729: It's a complex number: 3922338685 + -551645981*i. It's distance: 3960941055.8857074.
+730: It's a complex number: 3901530576 + 714430045*i. It's distance: 3966402794.051758.
+731: It's a polar number: r = -4141971283, phi = 3974015516. It's distance: 3974015516.
+732: It's a complex number: -167697639 + -3971417985*i. It's distance: 3974957019.8566465.
+733: It's a complex number: -3926893809 + -695312246*i. It's distance: 3987976191.829647.
+734: It's a complex number: 3546191328 + -1834533941*i. It's distance: 3992616650.2011423.
+735: It's a complex number: 3752446404 + -1387489124*i. It's distance: 4000747440.6804056.
+736: It's a polar number: r = 254234482, phi = 4001642587. It's distance: 4001642587.
+737: It's a polar number: r = -225598976, phi = 4004997136. It's distance: 4004997136.
+738: It's a polar number: r = 1571415231, phi = 4011214067. It's distance: 4011214067.
+739: It's a polar number: r = 1965270766, phi = 4016695961. It's distance: 4016695961.
+740: It's a complex number: -279727112 + 4011328389*i. It's distance: 4021069845.4000025.
+741: It's a complex number: -468420004 + -3997662125*i. It's distance: 4025011772.132707.
+742: It's a polar number: r = -2461947693, phi = 4029934418. It's distance: 4029934418.
+743: It's a complex number: -3959682363 + -754026839*i. It's distance: 4030836251.9191465.
+744: It's a complex number: 1948101728 + 3537725786*i. It's distance: 4038638889.473272.
+745: It's a complex number: 2090059961 + 3466105117*i. It's distance: 4047497414.782239.
+746: It's a complex number: -614298016 + 4026568400*i. It's distance: 4073157882.078731.
+747: It's a complex number: 3034911427 + -2717044418*i. It's distance: 4073452803.1045275.
+748: It's a complex number: -3782194796 + 1518331912*i. It's distance: 4075577170.1548066.
+749: It's a polar number: r = -3413961002, phi = 4076566424. It's distance: 4076566424.
+750: It's a complex number: 2224587737 + -3444592153*i. It's distance: 4100488470.9166.
+751: It's a complex number: -3967726280 + 1061564275*i. It's distance: 4107282622.7274537.
+752: It's a complex number: 1573049431 + 3800360148*i. It's distance: 4113055040.5843105.
+753: It's a complex number: 2637414409 + 3170107370*i. It's distance: 4123776849.2159147.
+754: It's a complex number: 3678649886 + 1894202078*i. It's distance: 4137688545.077714.
+755: It's a complex number: -1741837951 + 3755338515*i. It's distance: 4139633656.470858.
+756: It's a complex number: -4146038584 + -180420998*i. It's distance: 4149962370.4963927.
+757: It's a complex number: -3419081969 + -2394005651*i. It's distance: 4173893214.705049.
+758: It's a complex number: 611805729 + 4135393526*i. It's distance: 4180404988.1464753.
+759: It's a complex number: -1011436890 + 4062651365*i. It's distance: 4186662238.1067753.
+760: It's a complex number: -3342280429 + 2554633805*i. It's distance: 4206779331.4749947.
+761: It's a complex number: -3238073504 + 2697988858*i. It's distance: 4214767359.558411.
+762: It's a complex number: -3430891724 + 2459991885*i. It's distance: 4221679534.9810176.
+763: It's a complex number: -3504352247 + -2354350635*i. It's distance: 4221782986.319743.
+764: It's a complex number: -1351090917 + 4002076678*i. It's distance: 4223986790.0588202.
+765: It's a polar number: r = -2463456114, phi = 4234649688. It's distance: 4234649688.
+766: It's a complex number: 2880923660 + -3126390467*i. It's distance: 4251357252.324988.
+767: It's a complex number: -3705183737 + 2094825644*i. It's distance: 4256369462.780375.
+768: It's a complex number: 4028271818 + -1379674842*i. It's distance: 4257989726.3075624.
+769: It's a polar number: r = -3445974063, phi = 4263757097. It's distance: 4263757097.
+770: It's a complex number: -4266324337 + -150675628*i. It's distance: 4268984246.088486.
+771: It's a complex number: 4271300767 + 82133001*i. It's distance: 4272090363.2797904.
+772: It's a complex number: -3468918878 + -2497866697*i. It's distance: 4274662117.4224367.
+773: It's a complex number: -2931075618 + -3119912657*i. It's distance: 4280777880.916374.
+774: It's a complex number: 3863168470 + 1858192904*i. It's distance: 4286834670.952227.
+775: It's a complex number: -1207779380 + -4122841966*i. It's distance: 4296109508.306781.
+776: It's a complex number: -2431017271 + -3550758535*i. It's distance: 4303223343.701281.
+777: It's a complex number: 3286940294 + -2780128752*i. It's distance: 4305007825.082073.
+778: It's a complex number: 4157478068 + 1153457710*i. It's distance: 4314520665.689233.
+779: It's a complex number: 2735296382 + -3355447649*i. It's distance: 4329073252.159394.
+780: It's a complex number: -1142054019 + -4182327615*i. It's distance: 4335452878.478284.
+781: It's a complex number: 2385431790 + 3626521621*i. It's distance: 4340730801.641939.
+782: It's a complex number: 3733237706 + 2302226004*i. It's distance: 4386035606.671924.
+783: It's a complex number: -4158236654 + 1421770965*i. It's distance: 4394583569.302801.
+784: It's a complex number: 1923769703 + -3966054389*i. It's distance: 4408001507.110322.
+785: It's a complex number: 1225139716 + -4237502473*i. It's distance: 4411053675.982835.
+786: It's a complex number: 2825199519 + 3411348269*i. It's distance: 4429339604.790666.
+787: It's a complex number: -1417675190 + -4232980514*i. It's distance: 4464070673.30315.
+788: It's a complex number: 4202139144 + 1510364621*i. It's distance: 4465330298.410805.
+789: It's a complex number: 3342144097 + -2967114175*i. It's distance: 4469193852.653728.
+790: It's a complex number: 1790614257 + -4124837879*i. It's distance: 4496730695.22791.
+791: It's a complex number: -3442721677 + -2922821531*i. It's distance: 4516106536.316751.
+792: It's a complex number: -4140916682 + -1850524201*i. It's distance: 4535595968.089814.
+793: It's a complex number: 2392929204 + 3864427194*i. It's distance: 4545317119.088919.
+794: It's a complex number: 2808159953 + -3583491261*i. It's distance: 4552710394.841334.
+795: It's a complex number: -2411825123 + -3874432463*i. It's distance: 4563784321.621938.
+796: It's a complex number: 3531956189 + -2893218891*i. It's distance: 4565679584.930886.
+797: It's a complex number: 4100153439 + -2071420762*i. It's distance: 4593695919.0381975.
+798: It's a complex number: 2623727112 + 3790392391*i. It's distance: 4609882692.216208.
+799: It's a complex number: -3526320583 + 2969411450*i. It's distance: 4610026161.908473.
+800: It's a complex number: -2792095704 + -3674971053*i. It's distance: 4615323462.194517.
+801: It's a complex number: 3578862060 + 2954222833*i. It's distance: 4640655793.260903.
+802: It's a complex number: -2765349402 + 3758680817*i. It's distance: 4666351765.482918.
+803: It's a complex number: -1962282550 + -4244089886*i. It's distance: 4675772852.318854.
+804: It's a complex number: -2006024057 + 4229589059*i. It's distance: 4681191741.989986.
+805: It's a complex number: -2938200758 + 3671825080*i. It's distance: 4702693176.513728.
+806: It's a complex number: 3901101077 + -2673618598*i. It's distance: 4729357886.705344.
+807: It's a complex number: 4287195580 + 2077155138*i. It's distance: 4763887006.268236.
+808: It's a complex number: 4012766818 + 2577091560*i. It's distance: 4769035378.801994.
+809: It's a complex number: -3903049335 + -2761359269*i. It's distance: 4781098108.587206.
+810: It's a complex number: -2818070757 + 3915065912*i. It's distance: 4823822538.896196.
+811: It's a complex number: -3509840814 + -3402899664*i. It's distance: 4888630550.867134.
+812: It's a complex number: -3877359784 + -3001238369*i. It's distance: 4903198001.522915.
+813: It's a complex number: 3192979984 + -3753015075*i. It's distance: 4927498689.132438.
+814: It's a complex number: 3817827362 + 3231101630*i. It's distance: 5001582100.63821.
+815: It's a complex number: 4220360413 + -2720297323*i. It's distance: 5021101427.091321.
+816: It's a complex number: 3142336537 + -3916426307*i. It's distance: 5021222354.161067.
+817: It's a complex number: 3295247337 + -3811812339*i. It's distance: 5038707008.723393.
+818: It's a complex number: -3604152977 + -3534668862*i. It's distance: 5048148437.359022.
+819: It's a complex number: 4208728711 + 2794325422*i. It's distance: 5051895874.5040655.
+820: It's a complex number: -2831425648 + 4191063923*i. It's distance: 5057863976.702455.
+821: It's a complex number: -3719438209 + -3445047150*i. It's distance: 5069770256.756439.
+822: It's a complex number: 3980037195 + 3154908072*i. It's distance: 5078793263.7935.
+823: It's a complex number: 3326226507 + -3878851842*i. It's distance: 5109723513.856324.
+824: It's a complex number: 3632142977 + -3629646778*i. It's distance: 5134861082.679473.
+825: It's a complex number: -3867754224 + 3401766359*i. It's distance: 5150877313.477186.
+826: It's a complex number: 3162398996 + 4099728620*i. It's distance: 5177696608.294939.
+827: It's a complex number: 3608931401 + -3814640425*i. It's distance: 5251272934.172057.
+828: It's a complex number: -3618042395 + 3849210770*i. It's distance: 5282674921.278171.
+829: It's a complex number: 4264980237 + -3224046647*i. It's distance: 5346450523.855291.
+830: It's a complex number: -4109042518 + -3450538616*i. It's distance: 5365673038.421086.
+831: It's a complex number: 4139380293 + -3429885919*i. It's distance: 5375740565.487813.
+832: It's a complex number: 3965933386 + 3674654267*i. It's distance: 5406635886.035857.
+833: It's a complex number: -3568899834 + -4067684191*i. It's distance: 5411386208.989019.
+834: It's a complex number: 3439911512 + -4249802924*i. It's distance: 5467523763.389517.
+835: It's a complex number: -3609250788 + 4184658857*i. It's distance: 5526125315.277166.
+836: It's a complex number: -4106773555 + -3757281407*i. It's distance: 5566215285.401315.
+837: It's a complex number: -4029724723 + -3957066431*i. It's distance: 5647747877.030676.
+838: It's a complex number: 3924988902 + 4078650712*i. It's distance: 5660470785.307639.
+839: It's a complex number: -3797978324 + -4210495082*i. It's distance: 5670353444.461821.
+840: It's a complex number: -4161074763 + 4149788663*i. It's distance: 5876673304.7565975.
+841: It's a complex number: 4089166449 + 4234955533*i. It's distance: 5886945779.783824.
+842: It's a complex number: 4231715658 + 4144646712*i. It's distance: 5923302607.283776.
